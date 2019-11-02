@@ -10,6 +10,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ## Attention
 
 ## Transformer
+- Attention is All you Need (NIPS 2017) [[paper]](http://papers.nips.cc/paper/7181-attention-is-all-you-need)[[code]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+- Weighted Transformer Network for Machine Translation (CoRR 2017) [[paper]](https://arxiv.org/abs/1711.02132)[[code]](https://github.com/JayParks/transformer)
+- Universal Transformers (CoLR 2019) [[paper]](https://openreview.net/forum?id=HyzdRiR9Y7)[[code]](https://github.com/andreamad8/Universal-Transformer-Pytorch)
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1285)
 - Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
 - Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
