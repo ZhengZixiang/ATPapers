@@ -7,6 +7,14 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 
 欢迎修正错误以及新增论文、代码仓库与其他资源等建议！
 
+## Attention
+
+## Transformer
+- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1285)
+- Memory Transformer Networks (cs224n winter2019 reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
+- Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
+- On Layer Normalization in the Transformer Architecture (ICLR 2020) [[paper]](https://openreview.net/pdf?id=B1x8anVFPr)
+
 ## Pretrained Language Model
 ### Models
 - **`ELMo`** Deep Contextualized Word Representations (NAACL 2018) [[paper]](https://aclweb.org/anthology/N18-1202)
