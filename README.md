@@ -39,6 +39,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[papaer]](https://arxiv.org/pdf/1910.01108.pdf)
 - TinyBERT: Distilling BERT for Natural Language Understanding (ICLR 2019) [[paper]](https://arxiv.org/pdf/1909.10351.pdf)
 - **`T5`** Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transforme (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.10683) [[code]](https://github.com/google-research/text-to-text-transfer-transformer)
+- ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (ICLR 2020) [[paper]](https://openreview.net/forum?id=r1xMH1BtvB)
 ### Application
 - GPT-based Generation for Classical Chinese Poetry (CoRR 2019) [[paper]](https://arxiv.org/abs/1907.00151)
 - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.10084)
