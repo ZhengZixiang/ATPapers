@@ -49,3 +49,5 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **`huggingface/pytorch-transformers`** Transformers: State-of-the-art Natural Language Processing [[paper]](https://arxiv.org/pdf/1910.03771.pdf) [[code]](https://github.com/huggingface/transformers)
 ### Repository
 - [OpenClap: Open Chinese Language Pre-trained Model Zoo](https://github.com/thunlp/OpenCLaP)
+### Blog
+- [BERT 瘦身之路：Distillation，Quantization，Pruning](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650411686&idx=2&sn=efc5abe3647e8d7a743eecd4280cfeec&chksm=becd94fc89ba1dea133f797592c54458f5748428c36a6a3b33760085f648ea9326204c325236&scene=21#wechat_redirect)
