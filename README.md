@@ -8,6 +8,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 欢迎修正错误以及新增论文、代码仓库与其他资源等建议！
 
 ## Attention
+- Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
 
 ## Transformer
 ### Papers
