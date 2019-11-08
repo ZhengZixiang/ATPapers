@@ -25,6 +25,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ## Pretrained Language Model
 ### Models
 - **`ELMo`** Deep Contextualized Word Representations (NAACL 2018) [[paper]](https://aclweb.org/anthology/N18-1202)
+- **`ULMFit`** Universal Language Model Fine-tuning for Text Classification (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-1031/)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1423)
 - **`GPT`** Improving Language Understanding by Generative Pre-Training (CoRR 2018) [[paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - **`GPT-2`** Language Models are Unsupervised Multitask Learners (CoRR 2019) [[paper]](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf)[[code]](https://github.com/openai/gpt-2)
@@ -66,6 +67,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [效果惊人的GPT 2.0模型：它告诉了我们什么](https://zhuanlan.zhihu.com/p/56865533)
 - [XLNet:运行机制及和Bert的异同比较](https://zhuanlan.zhihu.com/p/70257427)
 - [BERT和Transformer到底学到了什么 | AI ProCon 2019](https://zhuanlan.zhihu.com/p/90167937)
+- [深度长文：NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493520&idx=1&sn=2b04c009ef75291ef3d19e8fe673aa36&chksm=96ea3810a19db10621e7a661974c796e8adeffc31625a769f8db1d87ba803cd58a30d40ad7ce&scene=21#wechat_redirect)
+- [深度长文：NLP的巨人肩膀（下）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493731&idx=1&sn=51206e4ca3983548436d889590ab5347&chksm=96ea37e3a19dbef5b6db3143eb9df822915126d3d8f61fe73ddb9f8fa329d568ec79a662acb1&token=20831088&lang=zh_CN#rd)
 - [BERT 瘦身之路：Distillation，Quantization，Pruning](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650411686&idx=2&sn=efc5abe3647e8d7a743eecd4280cfeec&chksm=becd94fc89ba1dea133f797592c54458f5748428c36a6a3b33760085f648ea9326204c325236&scene=21#wechat_redirect)
 - [BERT 的演进和应用](https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA)
 - [从基础到前沿看迁移学习在NLP中的演化](https://mp.weixin.qq.com/s/Xsh3VNLYCxqh5TH_mK1uXQ)
