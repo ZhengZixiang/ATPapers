@@ -12,6 +12,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Effective Approaches to Attention-based Neural Machine Translation (EMNLP 2015) [[paper]](https://www.aclweb.org/anthology/D15-1166/) - *Global & Local Attention*
 - Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) [[paper]](https://arxiv.org/abs/1409.0473)
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
+- Reformer: The Efficient Transformer (ICLR 2020 Under Review) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code]](https://pastebin.com/62r5FuEW)
 
 ## Transformer
 ### Papers
