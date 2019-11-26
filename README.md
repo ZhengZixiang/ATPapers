@@ -12,7 +12,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Effective Approaches to Attention-based Neural Machine Translation (EMNLP 2015) [[paper]](https://www.aclweb.org/anthology/D15-1166/) - *Global & Local Attention*
 - Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) [[paper]](https://arxiv.org/abs/1409.0473)
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
-- Reformer: The Efficient Transformer (ICLR 2020 Under Review) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code]](https://pastebin.com/62r5FuEW)
+- Are Sixteen Heads Really Better than One? (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
 
 ## Transformer
 ### Papers
@@ -23,8 +23,15 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
 - Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
 - On Layer Normalization in the Transformer Architecture (ICLR 2020) [[paper]](https://openreview.net/pdf?id=B1x8anVFPr)
+- Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code]](https://pastebin.com/62r5FuEW)
+- Self-Attention with Relative Position Representations (NAACL 2018) [[paper]](https://www.aclweb.org/anthology/N18-2074/) [[unoffical code]](https://github.com/THUNLP-MT/THUMT/blob/d4cb62c215d846093e5357aa17b286506b2df1af/thumt/layers/attention.py)
+- TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 ### Chinese Blog
 - [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
+- [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
+### English Blog
+- [How Self-Attention with Relative Position Representations works](https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a)
+- [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 
 ## Pretrained Language Model
 ### Models
@@ -52,11 +59,16 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### Compression
 - Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
 - Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09482)
+- Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.05840)
 - Patient Knowledge Distillation for BERT Model Compression (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1441/)
 - Extreme Language Model Compression with Optimal Subwords and Shared Projections (ICLR 2019) [[paper]](https://arxiv.org/abs/1909.11687)
 - DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[paper]](https://arxiv.org/pdf/1910.01108.pdf)[[code]](https://github.com/huggingface/transformers/tree/master/examples/distillation)
 - TinyBERT: Distilling BERT for Natural Language Understanding (ICLR 2019) [[paper]](https://arxiv.org/pdf/1909.10351.pdf)
+- Q8BERT: Quantized 8Bit BERT (NeurIPS 2019 Workshop) [[paper]](https://arxiv.org/abs/1910.06188)
 - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations (ICLR 2019) [[paper]](https://arxiv.org/abs/1909.11942)
+- Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning (ICLR 2020) [[paper]](https://openreview.net/forum?id=SJlPOCEKvH)
+- Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556)
+
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
 - GPT-based Generation for Classical Chinese Poetry (CoRR 2019) [[paper]](https://arxiv.org/abs/1907.00151)
@@ -92,3 +104,4 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### English Blog
 - [A Fair Comparison Study of XLNet and BERT with Large Models](https://medium.com/@xlnet.team/a-fair-comparison-study-of-xlnet-and-bert-with-large-models-5a4257f59dc0)
 - [Compressing BERT for faster prediction](https://blog.rasa.com/compressing-bert-for-faster-prediction-2/)
+- [All The Ways You Can Compress BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html)
