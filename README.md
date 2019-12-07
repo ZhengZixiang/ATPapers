@@ -8,25 +8,30 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 欢迎修正错误以及新增论文、代码仓库与其他资源等建议！
 
 ## Attention
+### Papers
 - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (ICML 2015) [[paper]](http://proceedings.mlr.press/v37/xuc15.html) - *Hard & Soft Attention*
 - Effective Approaches to Attention-based Neural Machine Translation (EMNLP 2015) [[paper]](https://www.aclweb.org/anthology/D15-1166/) - *Global & Local Attention*
 - Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) [[paper]](https://arxiv.org/abs/1409.0473)
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
 - Are Sixteen Heads Really Better than One? (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
+### Survey & Review
+- [An Attentive Survey of Attention Models](IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
 ### English Blog
 - [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
+### Chinese Blog
+- [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
 
 ## Transformer
 ### Papers
 - Attention is All you Need (NIPS 2017) [[paper]](http://papers.nips.cc/paper/7181-attention-is-all-you-need)[[code]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 - Weighted Transformer Network for Machine Translation (CoRR 2017) [[paper]](https://arxiv.org/abs/1711.02132)[[code]](https://github.com/JayParks/transformer)
+- Self-Attention with Relative Position Representations (NAACL 2018) [[paper]](https://www.aclweb.org/anthology/N18-2074/) [[unoffical code]](https://github.com/THUNLP-MT/THUMT/blob/d4cb62c215d846093e5357aa17b286506b2df1af/thumt/layers/attention.py)
 - Universal Transformers (CoLR 2019) [[paper]](https://openreview.net/forum?id=HyzdRiR9Y7)[[code]](https://github.com/andreamad8/Universal-Transformer-Pytorch)
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1285)
 - Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
 - Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
 - On Layer Normalization in the Transformer Architecture (ICLR 2020) [[paper]](https://openreview.net/pdf?id=B1x8anVFPr)
 - Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code]](https://pastebin.com/62r5FuEW)
-- Self-Attention with Relative Position Representations (NAACL 2018) [[paper]](https://www.aclweb.org/anthology/N18-2074/) [[unoffical code]](https://github.com/THUNLP-MT/THUMT/blob/d4cb62c215d846093e5357aa17b286506b2df1af/thumt/layers/attention.py)
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 ### Chinese Blog
 - [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
@@ -58,6 +63,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (ICLR 2020) [[paper]](https://openreview.net/forum?id=r1xMH1BtvB)
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.13461)
 - ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.00720)[[code]](https://github.com/sinovation/zen)
+- The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service (CoRR 2019) [[paper]](https://arxiv.org/pdf/1911.09969.pdf)[[code]](https://github.com/jd-aig/nlp_baai) - *BAAI-JDAI-BERT*
 ### Compression
 - Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
 - Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09482)
