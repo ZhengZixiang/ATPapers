@@ -25,8 +25,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### Papers
 - Attention is All you Need (NIPS 2017) [[paper]](http://papers.nips.cc/paper/7181-attention-is-all-you-need)[[code]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 - Weighted Transformer Network for Machine Translation (CoRR 2017) [[paper]](https://arxiv.org/abs/1711.02132)[[code]](https://github.com/JayParks/transformer)
+- Accelerating Neural Transformer via an Average Attention Network (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-1166/)[[code]](https://github.com/bzhangGo/transformer-aan) - *AAN*
 - Self-Attention with Relative Position Representations (NAACL 2018) [[paper]](https://www.aclweb.org/anthology/N18-2074/) [[unoffical code]](https://github.com/THUNLP-MT/THUMT/blob/d4cb62c215d846093e5357aa17b286506b2df1af/thumt/layers/attention.py)
-- Universal Transformers (CoLR 2019) [[paper]](https://openreview.net/forum?id=HyzdRiR9Y7)[[code]](https://github.com/andreamad8/Universal-Transformer-Pytorch)
+- Universal Transformers (ICLR 2019) [[paper]](https://openreview.net/forum?id=HyzdRiR9Y7)[[code]](https://github.com/andreamad8/Universal-Transformer-Pytorch)
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1285)
 - Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
 - Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
