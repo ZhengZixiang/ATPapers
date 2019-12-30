@@ -20,6 +20,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
 ### Chinese Blog
 - [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
+### Repositories
+- [Keras Attention Layer](https://github.com/thushv89/attention_keras) - Attention layer Keras implementation
 
 ## Transformer
 ### Papers
@@ -38,14 +40,18 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 - [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
 ### English Blog
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) [[code]](https://github.com/harvardnlp/annotated-transformer)
 - [How Self-Attention with Relative Position Representations works](https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a)
 - [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
+### Repositories
+- [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - Transformer Tensorflow implementation
+- [Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Universal Transformer PyTorch implementation
 
 ## Pretrained Language Model
 ### Models
 - **`ELMo`** Deep Contextualized Word Representations (NAACL 2018) [[paper]](https://aclweb.org/anthology/N18-1202)
 - **`ULMFit`** Universal Language Model Fine-tuning for Text Classification (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-1031/)
-- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1423)
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1423)[[code]](https://github.com/google-research/bert)[[official PyTorch code]](https://github.com/codertimo/BERT-pytorch)
 - **`GPT`** Improving Language Understanding by Generative Pre-Training (CoRR 2018) [[paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - **`GPT-2`** Language Models are Unsupervised Multitask Learners (CoRR 2019) [[paper]](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf)[[code]](https://github.com/openai/gpt-2)
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation (ICML 2019) [[paper]](http://proceedings.mlr.press/v97/song19d/song19d.pdf)[[code]](https://github.com/microsoft/MASS)
@@ -57,7 +63,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - ERNIE 2.0: A Continual Pre-training Framework for Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/pdf/1907.12412.pdf)
 - Pre-Training with Whole Word Masking for Chinese BERT (CoRR 2019) [[paper]](https://arxiv.org/pdf/1906.08101.pdf)
 - SpanBERT: Improving Pre-training by Representing and Predicting Spans (CoRR 2019) [[paper]](https://arxiv.org/pdf/1907.10529.pdf)
-- XLNet: Generalized Autoregressive Pretraining for Language Understanding  (CoRR 2019) [[paper]](https://arxiv.org/pdf/1906.08237.pdf)
+- XLNet: Generalized Autoregressive Pretraining for Language Understanding  (CoRR 2019) [[paper]](https://arxiv.org/pdf/1906.08237.pdf)[[code]](https://github.com/zihangdai/xlnet)
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach (CoRR 2019) [[paper]](https://arxiv.org/pdf/1907.11692.pdf)
 - NEZHA: Neural Contextualized Representation for Chinese Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.00204)[[code]](https://github.com/huawei-noah/Pretrained-Language-Model)
 - **`T5`** Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transforme (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.10683)[[code]](https://github.com/google-research/text-to-text-transfer-transformer)
@@ -65,6 +71,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.13461)
 - ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.00720)[[code]](https://github.com/sinovation/zen)
 - The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service (CoRR 2019) [[paper]](https://arxiv.org/pdf/1911.09969.pdf)[[code]](https://github.com/jd-aig/nlp_baai) - *BAAI-JDAI-BERT*
+
 ### Compression
 - Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
 - Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09482)
@@ -96,8 +103,22 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
 - Evolution of Transfer Learning in Natural Language Processing (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.07370)
 - Transferring NLP Models Across Languages and Domains (DeepLo 2019) [[paper]](https://www.dropbox.com/s/myle46vl64nasg8/Deeplo-talk-2019.pdf?dl=0)
+
 ### Repository
+- [bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
+- [huggingface transformers](https://github.com/huggingface/transformers) - Recommended
+- [keras-bert](https://github.com/CyberZHG/keras-bert) - 基于Keras的BERT实现和加载工具
+- [BERT-keras](https://github.com/Separius/BERT-keras) - 另一个基于Keras的BERT实现
+- [bert4keras**](https://github.com/bojone/bert4keras) - 苏神版本的基于Keras的BERT实现
+- [gpt-2-Pytorch: Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation](https://github.com/graykode/gpt-2-Pytorch)
+- [GPT2-Chinese: Chinese version of GPT2 training code, using BERT tokenizer](https://github.com/Morizeyao/GPT2-Chinese)
 - [OpenClap: Open Chinese Language Pre-trained Model Zoo](https://github.com/thunlp/OpenCLaP)
+- [BAAI-JDAI-BERT](https://github.com/jd-aig/nlp_baai) - 2019智源京东对话挑战赛（BAAI-JD）提供的基于42GB客服语料训练的BERT和word2vec模型
+- [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
+- [XLNet Chinese Pretrained Language Model](https://github.com/ymcui/Chinese-PreTrained-XLNet)
+- [RoBERTa Chinese Pretrained Language Model](https://github.com/brightmart/roberta_zh)
+- [ALBERT Chinese Pretrained Language Model](https://github.com/brightmart/albert_zh)
+
 ### Chinese Blog
 - [从Word Embedding到BERT模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
 - [Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展](https://zhuanlan.zhihu.com/p/68446772)
@@ -113,6 +134,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [从基础到前沿看迁移学习在NLP中的演化](https://mp.weixin.qq.com/s/Xsh3VNLYCxqh5TH_mK1uXQ)
 - [BERT 瘦身之路：Distillation，Quantization，Pruning](https://zhuanlan.zhihu.com/p/86900556)
 - [8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
+
 ### English Blog
 - [A Fair Comparison Study of XLNet and BERT with Large Models](https://medium.com/@xlnet.team/a-fair-comparison-study-of-xlnet-and-bert-with-large-models-5a4257f59dc0)
 - [Compressing BERT for faster prediction](https://blog.rasa.com/compressing-bert-for-faster-prediction-2/)
