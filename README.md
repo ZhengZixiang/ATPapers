@@ -89,6 +89,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
 - GPT-based Generation for Classical Chinese Poetry (CoRR 2019) [[paper]](https://arxiv.org/abs/1907.00151)
 - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.10084)
+
 ### Analysis & Tools
 - Probing Neural Network Comprehension of Natural Language Arguments (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1459.pdf)[[code]](https://github.com/IKMLab/arct2)
 - Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1334/) [[code]](https://github.com/tommccoy1/hans)
@@ -98,7 +99,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - How to Fine-Tune BERT for Text Classification? (CoRR 2019) [[paper]](https://arxiv.org/abs/1905.05583)
 - Visualizing and Understanding the Effectiveness of BERT (EMNLP 2019) [[paper]](https://arxiv.org/pdf/1908.05620.pdf)
 - exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformers Models (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.05276) [[code]](exbert.net)
-- **`huggingface/pytorch-transformers`** Transformers: State-of-the-art Natural Language Processing [[paper]](https://arxiv.org/pdf/1910.03771.pdf) [[code]](https://github.com/huggingface/transformers)
+- Transformers: State-of-the-art Natural Language Processing [[paper]](https://arxiv.org/pdf/1910.03771.pdf)[[code]](https://github.com/huggingface/transformers)
+- Do Attention Heads in BERT Track Syntactic Dependencies? [[paper]](https://arxiv.org/abs/1911.12246)
+
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
 - Evolution of Transfer Learning in Natural Language Processing (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.07370)
