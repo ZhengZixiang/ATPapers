@@ -15,7 +15,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
 - Are Sixteen Heads Really Better than One? (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
 ### Survey & Review
-- [An Attentive Survey of Attention Models](IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
+- An Attentive Survey of Attention Models (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
 ### English Blog
 - [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
 ### Chinese Blog
