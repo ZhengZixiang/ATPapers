@@ -58,24 +58,44 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Unified Language Model Pre-training for Natural Language Understanding and Generation (CoRR 2019) [[paper]](https://arxiv.org/pdf/1905.03197.pdf)[[code]](https://github.com/microsoft/unilm) - ***UNILM*** 
 - Cross-lingual Language Model Pretraining (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.07291.pdf) - ***XLM***
 - Multi-Task Deep Neural Networks for Natural Language Understanding (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1441)[[code]](https://github.com/namisan/mt-dnn) - ***MT-DNN***
+- 75 Languages, 1 Model: Parsing Universal Dependencies Universally[[paper]](https://www.aclweb.org/anthology/D19-1279/)[[code]](https://github.com/hyperparticle/udify) - ***UDify***
 - ERNIE: Enhanced Language Representation with Informative Entities (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1139)[[code]](https://github.com/thunlp/ERNIE)
 - ERNIE: Enhanced Representation through Knowledge Integration (CoRR 2019) [[paper]](https://arxiv.org/pdf/1904.09223.pdf)
+- Defending Against Neural Fake News (CoRR 2019) [[paper]](https://arxiv.org/abs/1905.12616)[[code]](https://rowanzellers.com/grover/) - ***Grover***
 - ERNIE 2.0: A Continual Pre-training Framework for Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/pdf/1907.12412.pdf)
 - Pre-Training with Whole Word Masking for Chinese BERT (CoRR 2019) [[paper]](https://arxiv.org/pdf/1906.08101.pdf) - ***Chinese-BERT-wwm***
 - SpanBERT: Improving Pre-training by Representing and Predicting Spans (CoRR 2019) [[paper]](https://arxiv.org/pdf/1907.10529.pdf)
 - XLNet: Generalized Autoregressive Pretraining for Language Understanding  (CoRR 2019) [[paper]](https://arxiv.org/pdf/1906.08237.pdf)[[code]](https://github.com/zihangdai/xlnet)
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach (CoRR 2019) [[paper]](https://arxiv.org/pdf/1907.11692.pdf)
-- VisualBERT: A Simple and Performant Baseline for Vision and Language (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.03557)
 - NEZHA: Neural Contextualized Representation for Chinese Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.00204)[[code]](https://github.com/huawei-noah/Pretrained-Language-Model)
+- K-BERT: Enabling Language Representation with Knowledge Graph (AAAI 2020) [[paper]](https://arxiv.org/abs/1909.07606)[[code]](https://github.com/autoliuweijie/K-BERT)
+- MultiFiT: Efficient Multi-lingual Language Model Fine-tuning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1572/)[[code]](https://github.com/n-waves/multifit)
+- Knowledge Enhanced Contextual Word Representations (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1005/) - ***KnowBert***
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transforme (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.10683)[[code]](https://github.com/google-research/text-to-text-transfer-transformer) - ***T5***
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (ICLR 2020) [[paper]](https://openreview.net/forum?id=r1xMH1BtvB)
+- HUBERT Untangles BERT to Improve Transfer across NLP Tasks (CoRR 2019) [[paper]](https://arxiv.org/pdf/1910.12647.pdf)
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.13461)
 - ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.00720)[[code]](https://github.com/sinovation/zen)
 - The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service (CoRR 2019) [[paper]](https://arxiv.org/pdf/1911.09969.pdf)[[code]](https://github.com/jd-aig/nlp_baai) - ***BAAI-JDAI-BERT***
 
+### Vision
+- VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
+- Learning Video Representations using Contrastive Bidirectional Transformer (CoRR 2019) [[paper]](https://arxiv.org/abs/1906.05743) - ***CBT***
+- ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1908.02265)[[code]](https://github.com/jiasenlu/vilbert_beta)
+- VisualBERT: A Simple and Performant Baseline for Vision and Language (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.03557)[[code]](https://github.com/uclanlp/visualbert)
+- Fusion of Detected Objects in Text for Visual Question Answering (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1219/)[[code]](https://github.com/google-research/
+language/tree/master/language/question_answering/b2t2) - ***B2T2***
+- Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.06066)
+- LXMERT: Learning Cross-Modality Encoder Representations from Transformers (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1514/)[[code]](https://github.com/airsplay/lxmert)
+- VL-BERT: Pre-training of Generic Visual-Linguistic Representatio (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.08530)[[code]](https://github.com/jackroos/VL-BERT)
+- UNITER: Learning UNiversal Image-TExt Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.11740)
+
 ### Compression
 - Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
+- Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09636) - ***MKDM***
 - Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09482)
+- Well-Read Students Learn Better: On the Importance of Pre-training Compact Models (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.08962)
+- Small and Practical BERT Models for Sequence Labeling (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1374/)
 - Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.05840)
 - Patient Knowledge Distillation for BERT Model Compression (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1441/)
 - Extreme Language Model Compression with Optimal Subwords and Shared Projections (ICLR 2019) [[paper]](https://arxiv.org/abs/1909.11687)
