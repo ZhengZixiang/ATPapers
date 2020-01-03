@@ -123,6 +123,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Transformers: State-of-the-art Natural Language Processing [[paper]](https://arxiv.org/pdf/1910.03771.pdf)[[code]](https://github.com/huggingface/transformers)[[code]](https://github.com/huggingface/transformers)
 - Do Attention Heads in BERT Track Syntactic Dependencies? [[paper]](https://arxiv.org/abs/1911.12246)
 - Fine-tune BERT with Sparse Self-Attention Mechanism (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1361/)
+- How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1006/)
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
