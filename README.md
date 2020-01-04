@@ -13,6 +13,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Effective Approaches to Attention-based Neural Machine Translation (EMNLP 2015) [[paper]](https://www.aclweb.org/anthology/D15-1166/) - ***Global & Local Attention***
 - Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) [[paper]](https://arxiv.org/abs/1409.0473)
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
+- Phrase-level Self-Attention Networks for Universal Sentence Encoding (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1408/)
+- Leveraging Local and Global Patterns for Self-Attention Networks (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1295/) [[code]](https://github.com/scewiner/Leveraging)
+- Attention over Heads: A Multi-Hop Attention for Neural Machine Translation (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-2030/)
 - Are Sixteen Heads Really Better than One? (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
 ### Survey & Review
 - An Attentive Survey of Attention Models (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
