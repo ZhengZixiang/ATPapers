@@ -135,14 +135,15 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 
 ### Repository
 - [bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
-- [keras-bert](https://github.com/CyberZHG/keras-bert) - 基于Keras的BERT实现和加载工具
-- [BERT-keras](https://github.com/Separius/BERT-keras) - 另一个基于Keras的BERT实现
-- [bert4keras**](https://github.com/bojone/bert4keras) - 苏神版本的基于Keras的BERT实现
+- [keras-bert](https://github.com/CyberZHG/keras-bert) - CyberZHG's BERT Keras implementation
+- [BERT-keras](https://github.com/Separius/BERT-keras) - Separius' BERT Keras implementation
+- [bert4keras](https://github.com/bojone/bert4keras) - bojone'S (苏神) BERT Keras implementation
 - [gpt-2-Pytorch: Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation](https://github.com/graykode/gpt-2-Pytorch)
 - [GPT2-Chinese: Chinese version of GPT2 training code, using BERT tokenizer](https://github.com/Morizeyao/GPT2-Chinese)
 - [OpenClap: Open Chinese Language Pre-trained Model Zoo](https://github.com/thunlp/OpenCLaP)
 - [XLNet Chinese Pretrained Language Model](https://github.com/ymcui/Chinese-PreTrained-XLNet)
 - [RoBERTa Chinese Pretrained Language Model](https://github.com/brightmart/roberta_zh)
+- [RoBERTa-wwm-base-distill Chinese](https://github.com/policeme/roberta-wwm-base-distill)
 - [ALBERT Chinese Pretrained Language Model](https://github.com/brightmart/albert_zh)
 
 ### Chinese Blog
