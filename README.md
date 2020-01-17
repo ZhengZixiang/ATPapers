@@ -149,6 +149,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [Jiakui/awesome-bert](https://github.com/Jiakui/awesome-bert)
 - [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
 - [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
+- [CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
 
 ### Chinese Blog
 - [从Word Embedding到BERT模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
