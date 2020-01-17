@@ -80,6 +80,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.13461)
 - ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.00720)[[code]](https://github.com/sinovation/zen)
 - The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service (CoRR 2019) [[paper]](https://arxiv.org/pdf/1911.09969.pdf)[[code]](https://github.com/jd-aig/nlp_baai) - ***BAAI-JDAI-BERT***
+- UER: An Open-Source Toolkit for Pre-training Models [[paper]](https://www.aclweb.org/anthology/D19-3041/)[[code]](https://github.com/dbiir/UER-py) - ***UER***
 
 ### Vision
 - VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
@@ -106,7 +107,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - TinyBERT: Distilling BERT for Natural Language Understanding (ICLR 2019) [[paper]](https://arxiv.org/pdf/1909.10351.pdf)[[code]](https://github.com/huawei-noah/Pretrained-Language-Model)
 - Q8BERT: Quantized 8Bit BERT (NeurIPS 2019 Workshop) [[paper]](https://arxiv.org/abs/1910.06188)
 - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations (ICLR 2019) [[paper]](https://arxiv.org/abs/1909.11942)
-- Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning (ICLR 2020) [[paper]](https://openreview.net/forum?id=SJlPOCEKvH)
+- Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning (ICLR 2020) [[paper]](https://openreview.net/forum?id=SJlPOCEKvH)[[PyTorch code]](https://github.com/lonePatient/albert_pytorch)
 - Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556)
 
 ### Application
@@ -134,7 +135,6 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Transferring NLP Models Across Languages and Domains (DeepLo 2019) [[paper]](https://www.dropbox.com/s/myle46vl64nasg8/Deeplo-talk-2019.pdf?dl=0)
 
 ### Repository
-- [bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
 - [keras-bert](https://github.com/CyberZHG/keras-bert) - CyberZHG's BERT Keras implementation
 - [BERT-keras](https://github.com/Separius/BERT-keras) - Separius' BERT Keras implementation
 - [bert4keras](https://github.com/bojone/bert4keras) - bojone'S (苏神) BERT Keras implementation
@@ -145,6 +145,10 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [RoBERTa Chinese Pretrained Language Model](https://github.com/brightmart/roberta_zh)
 - [RoBERTa-wwm-base-distill Chinese](https://github.com/policeme/roberta-wwm-base-distill)
 - [ALBERT Chinese Pretrained Language Model](https://github.com/brightmart/albert_zh)
+- [tomohideshibata/BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
+- [Jiakui/awesome-bert](https://github.com/Jiakui/awesome-bert)
+- [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
+- [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
 
 ### Chinese Blog
 - [从Word Embedding到BERT模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
