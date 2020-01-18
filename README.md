@@ -49,6 +49,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### Repositories
 - [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - Transformer Tensorflow implementation
 - [Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Universal Transformer PyTorch implementation
+- [sannykim/transformers](https://github.com/sannykim/transformers) - A collection of resources to study Transformers in depth
 
 ## Pretrained Language Model
 ### Models
@@ -147,6 +148,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [ALBERT Chinese Pretrained Language Model](https://github.com/brightmart/albert_zh)
 - [tomohideshibata/BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
 - [Jiakui/awesome-bert](https://github.com/Jiakui/awesome-bert)
+- [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers)
 - [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
 - [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
 - [CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
