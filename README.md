@@ -44,6 +44,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
 ### English Blog
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) [[code]](https://github.com/harvardnlp/annotated-transformer)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [How Self-Attention with Relative Position Representations works](https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a)
 - [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 ### Repositories
@@ -174,3 +175,4 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [A Fair Comparison Study of XLNet and BERT with Large Models](https://medium.com/@xlnet.team/a-fair-comparison-study-of-xlnet-and-bert-with-large-models-5a4257f59dc0)
 - [Compressing BERT for faster prediction](https://blog.rasa.com/compressing-bert-for-faster-prediction-2/)
 - [All The Ways You Can Compress BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html)
+- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
