@@ -14,7 +14,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) [[paper]](https://arxiv.org/abs/1409.0473)
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
 - Phrase-level Self-Attention Networks for Universal Sentence Encoding (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1408/)
-- Leveraging Local and Global Patterns for Self-Attention Networks (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1295/) [[code]](https://github.com/scewiner/Leveraging)
+- Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling (ICLR 2018) [[paper]](https://arxiv.org/abs/1804.00857)[[code]](https://github.com/taoshen58/BiBloSA) - ***Bi-BloSAN***
+- Leveraging Local and Global Patterns for Self-Attention Networks (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1295/) [[tf code]](https://github.com/scewiner/Leveraging)[[pt code]](https://github.com/galsang/BiBloSA-pytorch)
 - Attention over Heads: A Multi-Hop Attention for Neural Machine Translation (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-2030/)
 - Are Sixteen Heads Really Better than One? (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
 ### Survey & Review
@@ -37,16 +38,18 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
 - Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
 - On Layer Normalization in the Transformer Architecture (ICLR 2020) [[paper]](https://openreview.net/pdf?id=B1x8anVFPr)
-- Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code]](https://pastebin.com/62r5FuEW)
+- Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code]](https://pastebin.com/62r5FuEW)[[code]](https://github.com/google/trax/tree/master/trax/models/reformer)
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 ### Chinese Blog
 - [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 - [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
+- [Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
 ### English Blog
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) [[code]](https://github.com/harvardnlp/annotated-transformer)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [How Self-Attention with Relative Position Representations works](https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a)
 - [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
+- [Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 ### Repositories
 - [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - Transformer Tensorflow implementation
 - [Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Universal Transformer PyTorch implementation
@@ -111,6 +114,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations (ICLR 2019) [[paper]](https://arxiv.org/abs/1909.11942)
 - Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning (ICLR 2020) [[paper]](https://openreview.net/forum?id=SJlPOCEKvH)[[PyTorch code]](https://github.com/lonePatient/albert_pytorch)
 - Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556)
+- AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search (CoRR 2020) [[paper]](https://arxiv.org/pdf/2001.04246.pdf)
 
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
