@@ -143,7 +143,8 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Fine-tune BERT with Sparse Self-Attention Mechanism (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1361/)
 - How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1006/)
 - oLMpics -- On what Language Model Pre-training Captures (CoRR 2019) [[paper]](https://arxiv.org/abs/1912.13283)
-- Cross-Lingual Ability of Multilingual BERT: An Empirical Study (ICLR) [[paper]](https://arxiv.org/abs/1912.07840)
+- Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020) [[paper]](https://arxiv.org/abs/1907.11932)[[code]](https://github.com/jind11/TextFooler) - ***TextFooler***
+- Cross-Lingual Ability of Multilingual BERT: An Empirical Study (ICLR2020) [[paper]](https://arxiv.org/abs/1912.07840)
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
