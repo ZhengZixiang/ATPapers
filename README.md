@@ -86,9 +86,11 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Knowledge Enhanced Contextual Word Representations (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1005/) - ***KnowBert***
 - UER: An Open-Source Toolkit for Pre-training Models (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-3041/)[[code]](https://github.com/dbiir/UER-py) - ***UER***
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (ICLR 2020) [[paper]](https://openreview.net/forum?id=r1xMH1BtvB) - ***ELECTRA***
+- StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding (ICLR 2020) [[paper]](https://arxiv.org/abs/1908.04577) - ***StructBERT***
 - FreeLB: Enhanced Adversarial Training for Language Understanding (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11764)[[code]](https://github.com/zhuchen03/FreeLB) - ***FreeLB***
 - HUBERT Untangles BERT to Improve Transfer across NLP Tasks (CoRR 2019) [[paper]](https://arxiv.org/pdf/1910.12647.pdf) - ***HUBERT***
 - CodeBERT: A Pre-Trained Model for Programming and Natural Languages (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.08155) - ***CodeBERT***
+- ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training [[paper]](https://arxiv.org/abs/2001.04063) - ***ProphetNet***
 
 
 ### Vision
@@ -145,9 +147,11 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1006/)
 - oLMpics -- On what Language Model Pre-training Captures (CoRR 2019) [[paper]](https://arxiv.org/abs/1912.13283)
 - Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020) [[paper]](https://arxiv.org/abs/1907.11932)[[code]](https://github.com/jind11/TextFooler) - ***TextFooler***
+- A Mutual Information Maximization Perspective of Language Representation Learning (ICLR 2020) [[paper]](https://arxiv.org/abs/1910.08350)
 - Cross-Lingual Ability of Multilingual BERT: An Empirical Study (ICLR2020) [[paper]](https://arxiv.org/abs/1912.07840)
 - Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.06305)
 - How Much Knowledge Can You Pack Into the Parameters of a Language Model? (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.08910)
+- BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10832)
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
