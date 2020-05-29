@@ -160,6 +160,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Evolution of Transfer Learning in Natural Language Processing (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.07370)
 - Transferring NLP Models Across Languages and Domains (DeepLo 2019) [[paper]](https://www.dropbox.com/s/myle46vl64nasg8/Deeplo-talk-2019.pdf?dl=0)
 - Pre-trained Models for Natural Language Processing: A Survey (Invited Review of Science China Technological Sciences 2020) [[paper]](https://arxiv.org/pdf/2003.08271.pdf) - ***
+-Embeddings in Natural Language Processing (2020) [[book]](http://josecamachocollados.com/book_embNLP_draft.pdf)
 
 ### Repository
 - [keras-bert](https://github.com/CyberZHG/keras-bert) - CyberZHG's BERT Keras implementation
