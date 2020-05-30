@@ -18,12 +18,14 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Leveraging Local and Global Patterns for Self-Attention Networks (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1295/) [[tf code]](https://github.com/scewiner/Leveraging)[[pt code]](https://github.com/galsang/BiBloSA-pytorch)
 - Attention over Heads: A Multi-Hop Attention for Neural Machine Translation (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-2030/)
 - Are Sixteen Heads Really Better than One? (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
+- Synthesizer: Rethinking Self-Attention in Transformer Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.00743) - ***Synthesizer***
 ### Survey & Review
 - An Attentive Survey of Attention Models (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
 ### English Blog
 - [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
 ### Chinese Blog
 - [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
+- [科学空间 / Google新作Synthesizer：我们还不够了解自注意力](https://kexue.fm/archives/7430)
 ### Repositories
 - [Keras Attention Layer](https://github.com/thushv89/attention_keras) - Attention layer Keras implementation
 
@@ -52,9 +54,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 - [Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 ### Repositories
-- [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - Transformer Tensorflow implementation
-- [Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Universal Transformer PyTorch implementation
-- [sannykim/transformers](https://github.com/sannykim/transformers) - A collection of resources to study Transformers in depth
+- [DongjunLee / transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - Transformer Tensorflow implementation
+- [andreamad8 / Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Universal Transformer PyTorch implementation
+- [sannykim / transformers](https://github.com/sannykim/transformers) - A collection of resources to study Transformers in depth
 
 ## Pretrained Language Model
 ### Models
@@ -132,6 +134,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Pre-training Tasks for Embedding-based Large-scale Retrieval (ICLR 2020) [[paper]](https://arxiv.org/abs/2002.03932)
 - K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.01808) - ***K-Adapter***
 - Keyword-Attentive Deep Semantic Matching (CoRR 2020) [[paper & code]](https://github.com/DataTerminatorX/Keyword-BERT) [[post]](https://zhuanlan.zhihu.com/p/112562420) - ***Keyword BERT***
+- Unified Multi-Criteria Chinese Word Segmentation with BERT (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.05808)
 
 ### Analysis & Tools
 - Probing Neural Network Comprehension of Natural Language Arguments (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1459.pdf)[[code]](https://github.com/IKMLab/arct2)
@@ -173,13 +176,14 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [RoBERTa Chinese Pretrained Language Model](https://github.com/brightmart/roberta_zh)
 - [RoBERTa-wwm-base-distill Chinese](https://github.com/policeme/roberta-wwm-base-distill)
 - [ALBERT Chinese Pretrained Language Model](https://github.com/brightmart/albert_zh)
-- [tomohideshibata/BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
-- [Jiakui/awesome-bert](https://github.com/Jiakui/awesome-bert)
-- [thunlp/PLMpapers](https://github.com/thunlp/PLMpapers)
+- [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
+- [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert)
+- [thunlp / PLMpapers](https://github.com/thunlp/PLMpapers)
 - [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
-- [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
-- [CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BERT Visualization Tool
+- [hanxiao / bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
+- [CLUEbenchmark / CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
+- [jessevig / bertviz](https://github.com/jessevig/bertviz) - BERT Visualization Tool
+- [Tencent / TurboTransformers](https://github.com/Tencent/TurboTransformers)
 
 ### Chinese Blog
 - [从Word Embedding到BERT模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
@@ -197,6 +201,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [BERT 瘦身之路：Distillation，Quantization，Pruning](https://zhuanlan.zhihu.com/p/86900556)
 - [8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
 - [BERT为何使用学习的position embedding而非正弦position encoding?](https://www.zhihu.com/question/307293465/answer/1039311514)
+- [小米 / BERT适应业务遇难题？这是小米NLP的实战探索](https://mp.weixin.qq.com/s/XnKfqm-bj9tbPqf2lZJc0A)
 
 ### English Blog
 - [A Fair Comparison Study of XLNet and BERT with Large Models](https://medium.com/@xlnet.team/a-fair-comparison-study-of-xlnet-and-bert-with-large-models-5a4257f59dc0)
