@@ -1,5 +1,5 @@
 # ATPapers
-Worth-reading papers and related resources on attention mechanisim, Transformer and pretrained language model (PLM) such as BERT.
+Worth-reading papers and related resources on attention mechanism, Transformer and pretrained language model (PLM) such as BERT.
 
 Suggestions about fixing errors or adding papers, repositories and other resources are welcomed!
 
@@ -47,6 +47,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 - [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
 - [Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
+- [美团 / Transformer 在美团搜索排序中的实践](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
 ### English Blog
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) [[code]](https://github.com/harvardnlp/annotated-transformer)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
@@ -67,7 +68,6 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Language Models are Unsupervised Multitask Learners (CoRR 2019) [[paper]](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf)[[code]](https://github.com/openai/gpt-2) - ***GPT-2***
 - MASS: Masked Sequence to Sequence Pre-training for Language Generation (ICML 2019) [[paper]](http://proceedings.mlr.press/v97/song19d/song19d.pdf)[[code]](https://github.com/microsoft/MASS) - ***MASS***
 - Unified Language Model Pre-training for Natural Language Understanding and Generation (CoRR 2019) [[paper]](https://arxiv.org/pdf/1905.03197.pdf)[[code]](https://github.com/microsoft/unilm) - ***UNILM*** 
-- Cross-lingual Language Model Pretraining (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.07291.pdf) - ***XLM***
 - Multi-Task Deep Neural Networks for Natural Language Understanding (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1441)[[code]](https://github.com/namisan/mt-dnn) - ***MT-DNN***
 - 75 Languages, 1 Model: Parsing Universal Dependencies Universally[[paper]](https://www.aclweb.org/anthology/D19-1279/)[[code]](https://github.com/hyperparticle/udify) - ***UDify***
 - ERNIE: Enhanced Language Representation with Informative Entities (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1139)[[code]](https://github.com/thunlp/ERNIE) - ***ERNIE (THU)***
@@ -85,7 +85,6 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.13461) - ***BART***
 - ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.00720)[[code]](https://github.com/sinovation/zen) - ***ZEN***
 - The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service (CoRR 2019) [[paper]](https://arxiv.org/pdf/1911.09969.pdf)[[code]](https://github.com/jd-aig/nlp_baai) - ***BAAI-JDAI-BERT***
-- MultiFiT: Efficient Multi-lingual Language Model Fine-tuning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1572/)[[code]](https://github.com/n-waves/multifit) - ***MultiFit***
 - Knowledge Enhanced Contextual Word Representations (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1005/) - ***KnowBert***
 - UER: An Open-Source Toolkit for Pre-training Models (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-3041/)[[code]](https://github.com/dbiir/UER-py) - ***UER***
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (ICLR 2020) [[paper]](https://openreview.net/forum?id=r1xMH1BtvB) - ***ELECTRA***
@@ -93,10 +92,12 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - FreeLB: Enhanced Adversarial Training for Language Understanding (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11764)[[code]](https://github.com/zhuchen03/FreeLB) - ***FreeLB***
 - HUBERT Untangles BERT to Improve Transfer across NLP Tasks (CoRR 2019) [[paper]](https://arxiv.org/pdf/1910.12647.pdf) - ***HUBERT***
 - CodeBERT: A Pre-Trained Model for Programming and Natural Languages (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.08155) - ***CodeBERT***
-- ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training [[paper]](https://arxiv.org/abs/2001.04063) - ***ProphetNet***
+- ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.04063) - ***ProphetNet***
+- Efficient Training of BERT by Progressively Stacking (ICML 2019) [[paper]](http://proceedings.mlr.press/v97/gong19a.html)[[code]](https://github.com/gonglinyuan/StackingBERT) - ***StackingBERT***
+- UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.12804)[[code]](https://github.com/microsoft/unilm) - ***UNILMv2***
+- Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space () [[paper]](https://arxiv.org/abs/2004.04092)[[code]](https://github.com/ChunyuanLI/Optimus) - ***Optimus***
 
-
-### Vision
+### Multi-Modal
 - VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
 - Learning Video Representations using Contrastive Bidirectional Transformer (CoRR 2019) [[paper]](https://arxiv.org/abs/1906.05743) - ***CBT***
 - ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1908.02265)[[code]](https://github.com/jiasenlu/vilbert_beta)
@@ -107,6 +108,12 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - LXMERT: Learning Cross-Modality Encoder Representations from Transformers (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1514/)[[code]](https://github.com/airsplay/lxmert)
 - VL-BERT: Pre-training of Generic Visual-Linguistic Representatio (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.08530)[[code]](https://github.com/jackroos/VL-BERT)
 - UNITER: Learning UNiversal Image-TExt Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.11740)
+- FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval （SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.09801) - ***FashionBERT***
+
+### Multilingual
+- Cross-lingual Language Model Pretraining (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.07291.pdf) - ***XLM***
+- MultiFiT: Efficient Multi-lingual Language Model Fine-tuning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1572/)[[code]](https://github.com/n-waves/multifit) - ***MultiFit***
+- XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.11080)[[code]](https://github.com/google-research/xtreme)
 
 ### Compression
 - Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
@@ -125,6 +132,8 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556) - ***Structured Dropout***
 - Multilingual Alignment of Contextual Word Representations (ICLR 202) [[paper]](https://arxiv.org/abs/2002.03518)
 - AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search (CoRR 2020) [[paper]](https://arxiv.org/pdf/2001.04246.pdf) - ***AdaBERT***
+- MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10957)[[code]](https://github.com/microsoft/unilm/tree/master/minilm) - ***MiniLM***
+- FastBERT: a Self-distilling BERT with Adaptive Inference Time (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02178)[[code]](https://github.com/autoliuweijie/FastBERT) - ***FastBERT***
 
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
@@ -135,6 +144,8 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.01808) - ***K-Adapter***
 - Keyword-Attentive Deep Semantic Matching (CoRR 2020) [[paper & code]](https://github.com/DataTerminatorX/Keyword-BERT) [[post]](https://zhuanlan.zhihu.com/p/112562420) - ***Keyword BERT***
 - Unified Multi-Criteria Chinese Word Segmentation with BERT (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.05808)
+- Spelling Error Correction with Soft-Masked BERT (ACL 2020) [[paper]](Spelling Error Correction with Soft-Masked BERT) - ***Soft-Masked BERT***
+- DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering (ACL 2020) [[paper]](https://arxiv.org/abs/2005.00697)[[code]](https://github.com/StonyBrookNLP/deformer) - ***DeFormer***
 
 ### Analysis & Tools
 - Probing Neural Network Comprehension of Natural Language Arguments (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1459.pdf)[[code]](https://github.com/IKMLab/arct2)
@@ -157,6 +168,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.06305)
 - How Much Knowledge Can You Pack Into the Parameters of a Language Model? (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.08910)
 - BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10832)
+- Contextual Embeddings: When Are They Worth It? (ACL 2020) [[paper]](https://arxiv.org/abs/2005.09117)
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
@@ -202,6 +214,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
 - [BERT为何使用学习的position embedding而非正弦position encoding?](https://www.zhihu.com/question/307293465/answer/1039311514)
 - [小米 / BERT适应业务遇难题？这是小米NLP的实战探索](https://mp.weixin.qq.com/s/XnKfqm-bj9tbPqf2lZJc0A)
+- [NLP有品 / 关于BERT：你不知道的事](https://mp.weixin.qq.com/s?__biz=MzI0ODQ0MzM0Nw==&mid=2247483925&idx=1&sn=c816c5f0a4c8263e23cf373c82dedc90&chksm=e9a1faa9ded673bf1f413c2443b99441645373c59d289c73179e8072411c78667a15d7563620&mpshare=1&scene=1&srcid=0526DUb0xNfBd0z679ChvapA&sharer_sharetime=1590488072930&sharer_shareid=fd12435873ec184c46a3ecd3107e772b&key=470a8c1130d51cd8f6aba2bb5c0b3a6f0dba153a93b13705bf0f80732cebbfd2e3f090edd433586783a550df8b381a4abb76b84f036011791cd8943b13ce8f20edfa3e29d674be8d93e8f5afe0a017f9&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=A49bPaPk3%2FVdCEsR9qMTHaU%3D&pass_ticket=FiOsE75G32SBQTwz4%2FN93NAMNPy9eDCFlz4NMG4zGJ0kDQC5lR1IBZYTfCrll5pw)
 
 ### English Blog
 - [A Fair Comparison Study of XLNet and BERT with Large Models](https://medium.com/@xlnet.team/a-fair-comparison-study-of-xlnet-and-bert-with-large-models-5a4257f59dc0)
