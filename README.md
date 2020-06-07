@@ -41,9 +41,15 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
 - Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
 - On Layer Normalization in the Transformer Architecture (ICLR 2020) [[paper]](https://openreview.net/pdf?id=B1x8anVFPr)
+- Transformers without Tears: Improving the Normalization of Self-Attention (IWSLT 2019) [[paper]](https://arxiv.org/abs/1910.05895)[[code]](https://github.com/tnq177/transformers_without_tears)
 - Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code 1]](https://pastebin.com/62r5FuEW)[[code 2]](https://github.com/google/trax/tree/master/trax/models/reformer)[[code 3]](https://github.com/lucidrains/reformer-pytorch) - ***Reformer***
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 - ReZero is All You Need: Fast Convergence at Large Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.04887) [[code]](https://github.com/majumderb/rezero) [[related Chinese post]](https://zhuanlan.zhihu.com/p/113384612) - ***ReZero***
+- Lite Transformer with Long-Short Range Attention (ICLR 2020) [[paper]](https://arxiv.org/abs/2004.11886)[[code]](https://github.com/mit-han-lab/lite-transformer) - ***Lite Transformer***
+- HAT: Hardware-Aware Transformers for Efficient Natural Language Processing （ACL 2020) [[paper]](https://arxiv.org/abs/2005.14187)[[code]](https://link.zhihu.com/?target=https%3A//github.com/mit-han-lab/hardware-aware-transformers) - ***HAT***
+- Longformer: The Long-Document Transformer (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.05150)[[code]](https://github.com/allenai/longformer) - ***LongFormer***
+- Improving Transformer Models by Reordering their Sublayers (ACL 2020) [[paper]](https://arxiv.org/abs/1911.03864)
+- Highway Transformer: Self-Gating Enhanced Self-Attentive Networks (ACL 2020) [[paper]](https://arxiv.org/abs/2004.08178)[[code]](https://github.com/cyk1337/Highway-Transformer) - ***Highway Transformer***
 
 ### Chinese Blog
 - [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
@@ -95,9 +101,13 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - HUBERT Untangles BERT to Improve Transfer across NLP Tasks (CoRR 2019) [[paper]](https://arxiv.org/pdf/1910.12647.pdf) - ***HUBERT***
 - CodeBERT: A Pre-Trained Model for Programming and Natural Languages (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.08155) - ***CodeBERT***
 - ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.04063) - ***ProphetNet***
+- ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.11314)[[code]](https://github.com/PaddlePaddle/ERNIE/tree/repro/ernie-gen) - ***ERNIE-GEN***
 - Efficient Training of BERT by Progressively Stacking (ICML 2019) [[paper]](http://proceedings.mlr.press/v97/gong19a.html)[[code]](https://github.com/gonglinyuan/StackingBERT) - ***StackingBERT***
 - UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.12804)[[code]](https://github.com/microsoft/unilm) - ***UNILMv2***
-- Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space () [[paper]](https://arxiv.org/abs/2004.04092)[[code]](https://github.com/ChunyuanLI/Optimus) - ***Optimus***
+- Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04092)[[code]](https://github.com/ChunyuanLI/Optimus) - ***Optimus***
+- MPNet: Masked and Permuted Pre-training for Language Understanding (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.09297)[[code]](https://github.com/microsoft/MPNet) - ***MPNet***
+- Language Models are Few-Shot Learners (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.14165)[[code]](https://github.com/openai/gpt-3) - ***GPT-3***
+- SPECTER: Document-level Representation Learning using Citation-informed Transformers (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07180) - ***SPECTER***
 
 ### Multi-Modal
 - VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
@@ -111,11 +121,13 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - VL-BERT: Pre-training of Generic Visual-Linguistic Representatio (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.08530)[[code]](https://github.com/jackroos/VL-BERT)
 - UNITER: Learning UNiversal Image-TExt Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.11740)
 - FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval （SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.09801) - ***FashionBERT***
+- VD-BERT: A Unified Vision and Dialog Transformer with BERT (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.13278) - ***VD-BERT***
 
 ### Multilingual
 - Cross-lingual Language Model Pretraining (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.07291.pdf) - ***XLM***
 - MultiFiT: Efficient Multi-lingual Language Model Fine-tuning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1572/)[[code]](https://github.com/n-waves/multifit) - ***MultiFit***
 - XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.11080)[[code]](https://github.com/google-research/xtreme)
+- WikiBERT Models: Deep Transfer Learning for Many Languages (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.01538)[[code]](https://github.com/turkunlp/wikibert)
 
 ### Compression
 - Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
@@ -136,6 +148,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search (CoRR 2020) [[paper]](https://arxiv.org/pdf/2001.04246.pdf) - ***AdaBERT***
 - MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10957)[[code]](https://github.com/microsoft/unilm/tree/master/minilm) - ***MiniLM***
 - FastBERT: a Self-distilling BERT with Adaptive Inference Time (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02178)[[code]](https://github.com/autoliuweijie/FastBERT) - ***FastBERT***
+- MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02984)[[code]](https://github.com/google-research/google-research/tree/master/mobilebert) - ***MobileBERT***
 - DynaBERT: Dynamic BERT with Adaptive Width and Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04037) - ***DynaBERT***
 
 ### Application
@@ -172,6 +185,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - How Much Knowledge Can You Pack Into the Parameters of a Language Model? (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.08910)
 - BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10832)
 - Contextual Embeddings: When Are They Worth It? (ACL 2020) [[paper]](https://arxiv.org/abs/2005.09117)
+- Adversarial Training for Large Neural Language Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.08994)[[code]](https://github.com/namisan/mt-dnn/tree/master/alum)
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
@@ -199,6 +213,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [CLUEbenchmark / CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
 - [jessevig / bertviz](https://github.com/jessevig/bertviz) - BERT Visualization Tool
 - [Tencent / TurboTransformers](https://github.com/Tencent/TurboTransformers)
+- [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert)
 
 ### Chinese Blog
 - [从Word Embedding到BERT模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
