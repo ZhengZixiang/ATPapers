@@ -37,12 +37,14 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Self-Attention with Relative Position Representations (NAACL 2018) [[paper]](https://www.aclweb.org/anthology/N18-2074/) [[unoffical code]](https://github.com/THUNLP-MT/THUMT/blob/d4cb62c215d846093e5357aa17b286506b2df1af/thumt/layers/attention.py)
 - Universal Transformers (ICLR 2019) [[paper]](https://openreview.net/forum?id=HyzdRiR9Y7)[[code]](https://github.com/andreamad8/Universal-Transformer-Pytorch) - ***Universal Transformer***
 - Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1285) - ***Transformer-XL***
+- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned (ACL 2019) [[paper]](https://arxiv.org/abs/1905.09418)
 - Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
 - Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
 - On Layer Normalization in the Transformer Architecture (ICLR 2020) [[paper]](https://openreview.net/pdf?id=B1x8anVFPr)
 - Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code 1]](https://pastebin.com/62r5FuEW)[[code 2]](https://github.com/google/trax/tree/master/trax/models/reformer)[[code 3]](https://github.com/lucidrains/reformer-pytorch) - ***Reformer***
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
 - ReZero is All You Need: Fast Convergence at Large Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.04887) [[code]](https://github.com/majumderb/rezero) [[related Chinese post]](https://zhuanlan.zhihu.com/p/113384612) - ***ReZero***
+
 ### Chinese Blog
 - [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 - [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
@@ -129,11 +131,12 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Q8BERT: Quantized 8Bit BERT (NeurIPS 2019 Workshop) [[paper]](https://arxiv.org/abs/1910.06188) - ***Q8BERT***
 - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11942)[[code]](https://github.com/google-research/ALBERT) - ***ALBERT***
 - Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning (ICLR 2020) [[paper]](https://openreview.net/forum?id=SJlPOCEKvH)[[PyTorch code]](https://github.com/lonePatient/albert_pytorch)
-- Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556) - ***Structured Dropout***
+- Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556) - ***LayerDrop***
 - Multilingual Alignment of Contextual Word Representations (ICLR 202) [[paper]](https://arxiv.org/abs/2002.03518)
 - AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search (CoRR 2020) [[paper]](https://arxiv.org/pdf/2001.04246.pdf) - ***AdaBERT***
 - MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10957)[[code]](https://github.com/microsoft/unilm/tree/master/minilm) - ***MiniLM***
 - FastBERT: a Self-distilling BERT with Adaptive Inference Time (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02178)[[code]](https://github.com/autoliuweijie/FastBERT) - ***FastBERT***
+- DynaBERT: Dynamic BERT with Adaptive Width and Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04037) - ***DynaBERT***
 
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
