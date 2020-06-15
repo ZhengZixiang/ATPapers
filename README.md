@@ -50,6 +50,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Longformer: The Long-Document Transformer (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.05150)[[code]](https://github.com/allenai/longformer) - ***LongFormer***
 - Improving Transformer Models by Reordering their Sublayers (ACL 2020) [[paper]](https://arxiv.org/abs/1911.03864)
 - Highway Transformer: Self-Gating Enhanced Self-Attentive Networks (ACL 2020) [[paper]](https://arxiv.org/abs/2004.08178)[[code]](https://github.com/cyk1337/Highway-Transformer) - ***Highway Transformer***
+- Talking-Heads Attention （CoRR 2020) [[paper]](https://arxiv.org/abs/2003.02436)
+- Linformer: Self-Attention with Linear Complexity (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.04768) - ***Linformer***
 
 ### Chinese Blog
 - [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
@@ -57,11 +59,13 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
 - [美团 / Transformer 在美团搜索排序中的实践](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
 ### English Blog
-- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) [[code]](https://github.com/harvardnlp/annotated-transformer)
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [How Self-Attention with Relative Position Representations works](https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a)
-- [Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
-- [Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
+- [Google / Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
+- [Google / Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
+- [Havard NLP / The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) [[code]](https://github.com/harvardnlp/annotated-transformer)
+- [Jay Alammar / The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Madison May / A Survey of Long-Term Context in Transformers](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/) [[中文翻译]](https://mp.weixin.qq.com/s/JpBds6NQIBZ0S8GsMo4LEA)
+- [Mohd / How Self-Attention with Relative Position Representations works](https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a)
+
 ### Repositories
 - [DongjunLee / transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - Transformer Tensorflow implementation
 - [andreamad8 / Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Universal Transformer PyTorch implementation
