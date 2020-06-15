@@ -206,13 +206,14 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [RoBERTa-wwm-base-distill Chinese](https://github.com/policeme/roberta-wwm-base-distill)
 - [ALBERT Chinese Pretrained Language Model](https://github.com/brightmart/albert_zh)
 - [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
-- [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert)
-- [thunlp / PLMpapers](https://github.com/thunlp/PLMpapers)
 - [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
 - [hanxiao / bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
 - [CLUEbenchmark / CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
 - [jessevig / bertviz](https://github.com/jessevig/bertviz) - BERT Visualization Tool
+- [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert)
 - [Tencent / TurboTransformers](https://github.com/Tencent/TurboTransformers)
+- [THUNLP / PLMpapers](https://github.com/thunlp/PLMpapers)
+- [THUNLP-AIPoet / BERT-CCPoem](https://github.com/THUNLP-AIPoet/BERT-CCPoem)
 - [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert)
 
 ### Chinese Blog
