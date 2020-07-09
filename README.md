@@ -212,6 +212,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Roles and Utilization of Attention Heads in Transformer-based Neural Language Models (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.311/)[[code]](https://github.com/heartcored98/transformer_anatomy) - ***Transformer Anatomy***
 - Adversarial Training for Large Neural Language Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.08994)[[code]](https://github.com/namisan/mt-dnn/tree/master/alum)
 - Cross-Lingual Ability of Multilingual BERT: An Empirical Study (ICLR 2020) [[paper]](https://arxiv.org/abs/1912.07840)[[code]](https://github.com/ZihanWangKi/mbert-study)
+- DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference (ACL 2020) [[paper]](https://arxiv.org/abs/2004.12993)[[code]](https://github.com/castorini/DeeBERT)
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
