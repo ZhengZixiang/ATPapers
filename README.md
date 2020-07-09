@@ -147,6 +147,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Cross-lingual Language Model Pretraining (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.07291.pdf) - ***XLM***
 - MultiFiT: Efficient Multi-lingual Language Model Fine-tuning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1572/)[[code]](https://github.com/n-waves/multifit) - ***MultiFit***
 - XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.11080)[[code]](https://github.com/google-research/xtreme) - ***XTREME***
+- Pre-training via Paraphrasing (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15020) - ***MARGE***
 - WikiBERT Models: Deep Transfer Learning for Many Languages (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.01538)[[code]](https://github.com/turkunlp/wikibert) - ***WikiBERT***
 - Language-agnostic BERT Sentence Embedding (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.01852) - ***LaBSE***
 
@@ -210,6 +211,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Weight Poisoning Attacks on Pre-trained Models (ACL 2020) [[paper]](https://arxiv.org/abs/2004.06660)[[code]](https://github.com/neulab/RIPPLe) - ***RIPPLe***
 - Roles and Utilization of Attention Heads in Transformer-based Neural Language Models (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.311/)[[code]](https://github.com/heartcored98/transformer_anatomy) - ***Transformer Anatomy***
 - Adversarial Training for Large Neural Language Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.08994)[[code]](https://github.com/namisan/mt-dnn/tree/master/alum)
+- Cross-Lingual Ability of Multilingual BERT: An Empirical Study (ICLR 2020) [[paper]](https://arxiv.org/abs/1912.07840)[[code]](https://github.com/ZihanWangKi/mbert-study)
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
