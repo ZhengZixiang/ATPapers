@@ -12,20 +12,25 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (ICML 2015) [[paper]](http://proceedings.mlr.press/v37/xuc15.html) - ***Hard & Soft Attention***
 - Effective Approaches to Attention-based Neural Machine Translation (EMNLP 2015) [[paper]](https://www.aclweb.org/anthology/D15-1166/) - ***Global & Local Attention***
 - Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) [[paper]](https://arxiv.org/abs/1409.0473)
+- Non-local Neural Networks (CVPR 2018) [[paper]](https://arxiv.org/abs/1711.07971)[[code]](https://github.com/facebookresearch/video-nonlocal-net)
 - Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
 - Phrase-level Self-Attention Networks for Universal Sentence Encoding (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1408/)
 - Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling (ICLR 2018) [[paper]](https://arxiv.org/abs/1804.00857)[[code]](https://github.com/taoshen58/BiBloSA) - ***Bi-BloSAN***
+- Efficient Attention: Attention with Linear Complexities (CoRR 2018) [[paper]](https://arxiv.org/abs/1812.01243)[[code]](https://github.com/cmsflash/efficient-attention)
 - Leveraging Local and Global Patterns for Self-Attention Networks (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1295/) [[tf code]](https://github.com/scewiner/Leveraging)[[pt code]](https://github.com/galsang/BiBloSA-pytorch)
 - Attention over Heads: A Multi-Hop Attention for Neural Machine Translation (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-2030/)
 - Are Sixteen Heads Really Better than One? (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
 - Synthesizer: Rethinking Self-Attention in Transformer Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.00743) - ***Synthesizer***
+
 ### Survey & Review
 - An Attentive Survey of Attention Models (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
 ### English Blog
 - [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
 ### Chinese Blog
-- [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
+- [张俊林 / 深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
+- [科学空间 / 为节约而生：从标准Attention到稀疏Attention](https://kexue.fm/archives/6853)
 - [科学空间 / Google新作Synthesizer：我们还不够了解自注意力](https://kexue.fm/archives/7430)
+- [科学空间 / 线性Attention的探索：Attention必须有个Softmax吗？](https://kexue.fm/archives/7546)
 ### Repositories
 - [Keras Attention Layer](https://github.com/thushv89/attention_keras) - Attention layer Keras implementation
 
@@ -40,10 +45,13 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned (ACL 2019) [[paper]](https://arxiv.org/abs/1905.09418)
 - Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
 - Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
+- Transformer Dissection: A Unified Understanding of Transformer's Attention via the Lens of Kernel (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.11775)[[code]](https://github.com/yaohungt/TransformerDissection)
 - On Layer Normalization in the Transformer Architecture (ICLR 2020) [[paper]](https://openreview.net/pdf?id=B1x8anVFPr)
 - Transformers without Tears: Improving the Normalization of Self-Attention (IWSLT 2019) [[paper]](https://arxiv.org/abs/1910.05895)[[code]](https://github.com/tnq177/transformers_without_tears)
 - Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code 1]](https://pastebin.com/62r5FuEW)[[code 2]](https://github.com/google/trax/tree/master/trax/models/reformer)[[code 3]](https://github.com/lucidrains/reformer-pytorch) - ***Reformer***
+- Generating Long Sequences with Sparse Transformers (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.10509)[[code]](https://github.com/openai/sparse_attention) - ***Sparse Attention***
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
+- Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection (CoRR 2019) [[paper]](https://arxiv.org/abs/1912.11637)[[code]](https://github.com/lancopku/Explicit-Sparse-Transformer)
 - ReZero is All You Need: Fast Convergence at Large Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.04887) [[code]](https://github.com/majumderb/rezero) [[related Chinese post]](https://zhuanlan.zhihu.com/p/113384612) - ***ReZero***
 - Lite Transformer with Long-Short Range Attention (ICLR 2020) [[paper]](https://arxiv.org/abs/2004.11886)[[code]](https://github.com/mit-han-lab/lite-transformer) - ***Lite Transformer***
 - HAT: Hardware-Aware Transformers for Efficient Natural Language Processing （ACL 2020) [[paper]](https://arxiv.org/abs/2005.14187)[[code]](https://link.zhihu.com/?target=https%3A//github.com/mit-han-lab/hardware-aware-transformers) - ***HAT***
@@ -52,12 +60,15 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Highway Transformer: Self-Gating Enhanced Self-Attentive Networks (ACL 2020) [[paper]](https://arxiv.org/abs/2004.08178)[[code]](https://github.com/cyk1337/Highway-Transformer) - ***Highway Transformer***
 - Talking-Heads Attention （CoRR 2020) [[paper]](https://arxiv.org/abs/2003.02436)
 - Linformer: Self-Attention with Linear Complexity (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.04768) - ***Linformer***
+- Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (ICML 2020) [[paper]](https://arxiv.org/abs/2006.16236)[[code]](https://github.com/idiap/fast-transformers) - ***Linear Transformer***
+- Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing （CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03236)[[code]](https://github.com/laiguokun/Funnel-Transformer)
 
 ### Chinese Blog
-- [放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 - [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
 - [Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
+- [科学空间 / 突破瓶颈，打造更强大的Transformer](https://kexue.fm/archives/7325)
 - [美团 / Transformer 在美团搜索排序中的实践](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
+- [张俊林 / 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 ### English Blog
 - [Google / Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 - [Google / Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
@@ -69,6 +80,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### Repositories
 - [DongjunLee / transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - Transformer Tensorflow implementation
 - [andreamad8 / Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Universal Transformer PyTorch implementation
+- [lucidrains / Linear Attention Transformer](https://github.com/lucidrains/linear-attention-transformer) - Transformer based on a variant of attention that is linear complexity in respect to sequence length
 - [sannykim / transformers](https://github.com/sannykim/transformers) - A collection of resources to study Transformers in depth
 
 ## Pretrained Language Model
@@ -107,11 +119,15 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.04063) - ***ProphetNet***
 - ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.11314)[[code]](https://github.com/PaddlePaddle/ERNIE/tree/repro/ernie-gen) - ***ERNIE-GEN***
 - Efficient Training of BERT by Progressively Stacking (ICML 2019) [[paper]](http://proceedings.mlr.press/v97/gong19a.html)[[code]](https://github.com/gonglinyuan/StackingBERT) - ***StackingBERT***
+- PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.08950)[[code]](https://github.com/IBM/PoWER-BERT)
+- Towards a Human-like Open-Domain Chatbot (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.09977) - ***Meena***
 - UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.12804)[[code]](https://github.com/microsoft/unilm) - ***UNILMv2***
 - Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04092)[[code]](https://github.com/ChunyuanLI/Optimus) - ***Optimus***
 - MPNet: Masked and Permuted Pre-training for Language Understanding (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.09297)[[code]](https://github.com/microsoft/MPNet) - ***MPNet***
 - Language Models are Few-Shot Learners (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.14165)[[code]](https://github.com/openai/gpt-3) - ***GPT-3***
 - SPECTER: Document-level Representation Learning using Citation-informed Transformers (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07180) - ***SPECTER***
+- Recipes for building an open-domain chatbot (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.13637)[[post]](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/)[[code]](https://github.com/facebookresearch/ParlAI) - ***Blender***
+- PLATO-2: Towards Building an Open-Domain Chatbot via Curriculum Learning (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16779)[[code]](https://github.com/PaddlePaddle/Knover/tree/master/plato-2) - ***PLATO-2***
 
 ### Multi-Modal
 - VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
@@ -132,6 +148,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - MultiFiT: Efficient Multi-lingual Language Model Fine-tuning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1572/)[[code]](https://github.com/n-waves/multifit) - ***MultiFit***
 - XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.11080)[[code]](https://github.com/google-research/xtreme) - ***XTREME***
 - WikiBERT Models: Deep Transfer Learning for Many Languages (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.01538)[[code]](https://github.com/turkunlp/wikibert) - ***WikiBERT***
+- Language-agnostic BERT Sentence Embedding (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.01852) - ***LaBSE***
 
 ### Compression
 - Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
@@ -164,7 +181,8 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.01808) - ***K-Adapter***
 - Keyword-Attentive Deep Semantic Matching (CoRR 2020) [[paper & code]](https://github.com/DataTerminatorX/Keyword-BERT) [[post]](https://zhuanlan.zhihu.com/p/112562420) - ***Keyword BERT***
 - Unified Multi-Criteria Chinese Word Segmentation with BERT (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.05808)
-- Spelling Error Correction with Soft-Masked BERT (ACL 2020) [[paper]](Spelling Error Correction with Soft-Masked BERT) - ***Soft-Masked BERT***
+- ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.06871)[[code]](https://github.com/jasonwu0731/ToD-BERT)
+- Spelling Error Correction with Soft-Masked BERT (ACL 2020) [[paper]](https://arxiv.org/abs/2005.07421) - ***Soft-Masked BERT***
 - DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering (ACL 2020) [[paper]](https://arxiv.org/abs/2005.00697)[[code]](https://github.com/StonyBrookNLP/deformer) - ***DeFormer***
 
 ### Analysis & Tools
@@ -189,6 +207,8 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - How Much Knowledge Can You Pack Into the Parameters of a Language Model? (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.08910)
 - BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10832)
 - Contextual Embeddings: When Are They Worth It? (ACL 2020) [[paper]](https://arxiv.org/abs/2005.09117)
+- Weight Poisoning Attacks on Pre-trained Models (ACL 2020) [[paper]](https://arxiv.org/abs/2004.06660)[[code]](https://github.com/neulab/RIPPLe) - ***RIPPLe***
+- Roles and Utilization of Attention Heads in Transformer-based Neural Language Models (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.311/)[[code]](https://github.com/heartcored98/transformer_anatomy) - ***Transformer Anatomy***
 - Adversarial Training for Large Neural Language Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.08994)[[code]](https://github.com/namisan/mt-dnn/tree/master/alum)
 
 ### Tutorial & Survey
@@ -212,6 +232,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
 - [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
 - [hanxiao / bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
+- [heartcored98 / Transformer_Anatomy](https://github.com/heartcored98/transformer_anatomy) - Toolkit for finding and analyzing important attention heads in transformer-based models
 - [CLUEbenchmark / CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
 - [jessevig / bertviz](https://github.com/jessevig/bertviz) - BERT Visualization Tool
 - [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert)
