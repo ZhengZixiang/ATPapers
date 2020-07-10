@@ -128,6 +128,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - SPECTER: Document-level Representation Learning using Citation-informed Transformers (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07180) - ***SPECTER***
 - Recipes for building an open-domain chatbot (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.13637)[[post]](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/)[[code]](https://github.com/facebookresearch/ParlAI) - ***Blender***
 - PLATO-2: Towards Building an Open-Domain Chatbot via Curriculum Learning (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16779)[[code]](https://github.com/PaddlePaddle/Knover/tree/master/plato-2) - ***PLATO-2***
+- DeBERTa: Decoding-enhanced BERT with Disentangled Attention (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03654)[[code]](https://github.com/microsoft/DeBERTa) - ***DeBERTa***
 
 ### Multi-Modal
 - VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
@@ -185,6 +186,8 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.06871)[[code]](https://github.com/jasonwu0731/ToD-BERT)
 - Spelling Error Correction with Soft-Masked BERT (ACL 2020) [[paper]](https://arxiv.org/abs/2005.07421) - ***Soft-Masked BERT***
 - DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering (ACL 2020) [[paper]](https://arxiv.org/abs/2005.00697)[[code]](https://github.com/StonyBrookNLP/deformer) - ***DeFormer***
+- BLEURT: Learning Robust Metrics for Text Generation (ACL 2020) [[paper]](https://arxiv.org/abs/2004.04696)[[code]](https://github.com/google-research/bleurt) - ***BLEURT***
+- Context-Aware Document Term Weighting for Ad-Hoc Search (WWW 2020) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380258)[[code]](https://github.com/AdeDZY/DeepCT) - ***HDCT***
 
 ### Analysis & Tools
 - Probing Neural Network Comprehension of Natural Language Arguments (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1459.pdf)[[code]](https://github.com/IKMLab/arct2)
@@ -212,7 +215,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Roles and Utilization of Attention Heads in Transformer-based Neural Language Models (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.311/)[[code]](https://github.com/heartcored98/transformer_anatomy) - ***Transformer Anatomy***
 - Adversarial Training for Large Neural Language Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.08994)[[code]](https://github.com/namisan/mt-dnn/tree/master/alum)
 - Cross-Lingual Ability of Multilingual BERT: An Empirical Study (ICLR 2020) [[paper]](https://arxiv.org/abs/1912.07840)[[code]](https://github.com/ZihanWangKi/mbert-study)
-- DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference (ACL 2020) [[paper]](https://arxiv.org/abs/2004.12993)[[code]](https://github.com/castorini/DeeBERT)
+- DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference (ACL 2020) [[paper]](https://arxiv.org/abs/2004.12993)[[code]](https://github.com/castorini/DeeBERT)[[huggingface implementation]](https://github.com/huggingface/transformers/tree/master/examples/deebert)
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
@@ -246,15 +249,15 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 
 ### Chinese Blog
 - [Andy Yang / BERT 瘦身之路：Distillation，Quantization，Pruning](https://zhuanlan.zhihu.com/p/86900556)
-- [Andy Yang / BERT 瘦身之路：Distillation，Quantization，Pruning](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650411686&idx=2&sn=efc5abe3647e8d7a743eecd4280cfeec&chksm=becd94fc89ba1dea133f797592c54458f5748428c36a6a3b33760085f648ea9326204c325236&scene=21#wechat_redirect)
 - [李理 / XLNet原理](http://fancyerii.github.io/2019/06/30/xlnet-theory/)
-- [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247507795&idx=2&sn=275d5f80a875933a108b186327cf8d42&chksm=96ea00d3a19d89c579bd09b142867ecc1ec6cbdb25677aa1cfba770e0ed4645626e2176c0915&mpshare=1&scene=1&srcid=&sharer_sharetime=1593516637680&sharer_shareid=aaa99b8738c1d6c23f064aa833392e12&key=82c238abbe3b82ba18982e3ef35c4160bd50df7c45ddf2a481f20e8ab4d59bb46fa076a6b8e0af2a3a3337b0f3826da615d30a4315dc4bcaa38092f1c6bf2d14ec58e6b4f6c0a33f09c51d2b1d288426&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=A3Gq0b0fNuR%2BRsUewHBrNVM%3D&pass_ticket=5Y5bD3DNxLYgw6cCdFKC63ta6u65HT0Q%2FaW3BTTRDQXXvvbOiMcDHlnYR607tPf3) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
+- [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
-- [NLP有品 / 关于BERT：你不知道的事](https://mp.weixin.qq.com/s?__biz=MzI0ODQ0MzM0Nw==&mid=2247483925&idx=1&sn=c816c5f0a4c8263e23cf373c82dedc90&chksm=e9a1faa9ded673bf1f413c2443b99441645373c59d289c73179e8072411c78667a15d7563620&mpshare=1&scene=1&srcid=0526DUb0xNfBd0z679ChvapA&sharer_sharetime=1590488072930&sharer_shareid=fd12435873ec184c46a3ecd3107e772b&key=470a8c1130d51cd8f6aba2bb5c0b3a6f0dba153a93b13705bf0f80732cebbfd2e3f090edd433586783a550df8b381a4abb76b84f036011791cd8943b13ce8f20edfa3e29d674be8d93e8f5afe0a017f9&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=A49bPaPk3%2FVdCEsR9qMTHaU%3D&pass_ticket=FiOsE75G32SBQTwz4%2FN93NAMNPy9eDCFlz4NMG4zGJ0kDQC5lR1IBZYTfCrll5pw)
+- [NLP有品 / 关于BERT：你不知道的事](https://mp.weixin.qq.com/s/OujaLboNbf7CAHnHQdXHYA)
 - [Tobias Lee / BERT 的演进和应用](https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA)
 - [小米 / BERT适应业务遇难题？这是小米NLP的实战探索](https://mp.weixin.qq.com/s/XnKfqm-bj9tbPqf2lZJc0A)
-- [许维 / 深度长文：NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493520&idx=1&sn=2b04c009ef75291ef3d19e8fe673aa36&chksm=96ea3810a19db10621e7a661974c796e8adeffc31625a769f8db1d87ba803cd58a30d40ad7ce&scene=21#wechat_redirect)
-- [许维 / 深度长文：NLP的巨人肩膀（下）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493731&idx=1&sn=51206e4ca3983548436d889590ab5347&chksm=96ea37e3a19dbef5b6db3143eb9df822915126d3d8f61fe73ddb9f8fa329d568ec79a662acb1&token=20831088&lang=zh_CN#rd)
+- [夕小瑶的卖萌屋 / 超一流 | 从XLNet的多流机制看最新预训练模型的研究进展](https://mp.weixin.qq.com/s/VfytCWa-h8CmUZW1RWAdnQ)
+- [许维 / 深度长文：NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s/Rd3-ypRYiJObi-e2JDeOjQ)
+- [许维 / 深度长文：NLP的巨人肩膀（下）](https://mp.weixin.qq.com/s/7imMQ3GkD52xP7N4fqNPog)
 - [张俊林 / 从Word Embedding到BERT模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
 - [张俊林 / BERT时代的创新（应用篇）：Bert在NLP各领域的应用进展](https://zhuanlan.zhihu.com/p/68446772)
 - [张俊林 / BERT时代的创新：BERT应用模式比较及其它](https://zhuanlan.zhihu.com/p/65470719)
