@@ -62,6 +62,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Linformer: Self-Attention with Linear Complexity (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.04768) - ***Linformer***
 - Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (ICML 2020) [[paper]](https://arxiv.org/abs/2006.16236)[[code]](https://github.com/idiap/fast-transformers) - ***Linear Transformer***
 - Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing （CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03236)[[code]](https://github.com/laiguokun/Funnel-Transformer)
+- **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention**. *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret*. (ICML 2020) [[paper]](https://arxiv.org/abs/2006.16236)[[code]](https://github.com/idiap/fast-transformers)
+- **Fast Transformers with Clustered Attention**. *Apoorv Vyas, Angelos Katharopoulos, François Fleuret*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.04825)[[code]](https://github.com/idiap/fast-transformers)
 
 ### Chinese Blog
 - [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
