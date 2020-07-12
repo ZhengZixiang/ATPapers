@@ -3,6 +3,8 @@ Worth-reading papers and related resources on attention mechanism, Transformer a
 
 Suggestions about fixing errors or adding papers, repositories and other resources are welcomed!
 
+*Since I am Chinese, I mainly focus on Chinese resources. Welcome to recommend excellent resources in English or other languages!*
+
 值得一读的注意力机制、Transformer和预训练语言模型论文与相关资源集合。
 
 欢迎修正错误以及新增论文、代码仓库与其他资源等建议！
@@ -51,6 +53,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code 1]](https://pastebin.com/62r5FuEW)[[code 2]](https://github.com/google/trax/tree/master/trax/models/reformer)[[code 3]](https://github.com/lucidrains/reformer-pytorch) - ***Reformer***
 - Generating Long Sequences with Sparse Transformers (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.10509)[[code]](https://github.com/openai/sparse_attention) - ***Sparse Attention***
 - TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
+- **Compressive Transformers for Long-Range Sequence Modelling**. *Jack W. Rae, Anna Potapenko, Siddhant M. Jayakumar, Timothy P. Lillicrap*. (ICLR 2020) [[paper]](https://arxiv.org/abs/1911.05507)[[code]](https://github.com/lucidrains/compressive-transformer-pytorch)
 - Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection (CoRR 2019) [[paper]](https://arxiv.org/abs/1912.11637)[[code]](https://github.com/lancopku/Explicit-Sparse-Transformer)
 - ReZero is All You Need: Fast Convergence at Large Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.04887) [[code]](https://github.com/majumderb/rezero) [[related Chinese post]](https://zhuanlan.zhihu.com/p/113384612) - ***ReZero***
 - Lite Transformer with Long-Short Range Attention (ICLR 2020) [[paper]](https://arxiv.org/abs/2004.11886)[[code]](https://github.com/mit-han-lab/lite-transformer) - ***Lite Transformer***
@@ -64,6 +67,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing （CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03236)[[code]](https://github.com/laiguokun/Funnel-Transformer)
 - **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention**. *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret*. (ICML 2020) [[paper]](https://arxiv.org/abs/2006.16236)[[code]](https://github.com/idiap/fast-transformers)
 - **Fast Transformers with Clustered Attention**. *Apoorv Vyas, Angelos Katharopoulos, François Fleuret*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.04825)[[code]](https://github.com/idiap/fast-transformers)
+- **Memory Transformer**. *Mikhail S. Burtsev, Grigory V. Sapunov*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.11527)
+- **Multi-Head Attention: Collaborate Instead of Concatenate**. *Jean-Baptiste Cordonnier, Andreas Loukas, Martin Jaggi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16362)[[code]](https://github.com/epfml/collaborative-attention)
 
 ### Chinese Blog
 - [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
@@ -125,6 +130,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Towards a Human-like Open-Domain Chatbot (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.09977) - ***Meena***
 - UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.12804)[[code]](https://github.com/microsoft/unilm) - ***UNILMv2***
 - Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04092)[[code]](https://github.com/ChunyuanLI/Optimus) - ***Optimus***
+- **SegaBERT: Pre-training of Segment-aware BERT for Language Understanding**. *He Bai, Peng Shi, Jimmy Lin, Luchen Tan, Kun Xiong, Wen Gao, Ming Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.14996)
 - MPNet: Masked and Permuted Pre-training for Language Understanding (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.09297)[[code]](https://github.com/microsoft/MPNet) - ***MPNet***
 - Language Models are Few-Shot Learners (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.14165)[[code]](https://github.com/openai/gpt-3) - ***GPT-3***
 - SPECTER: Document-level Representation Learning using Citation-informed Transformers (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07180) - ***SPECTER***
@@ -154,7 +160,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - WikiBERT Models: Deep Transfer Learning for Many Languages (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.01538)[[code]](https://github.com/turkunlp/wikibert) - ***WikiBERT***
 - Language-agnostic BERT Sentence Embedding (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.01852) - ***LaBSE***
 
-### Compression
+### Compression & Accelerating
 - Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
 - Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09636) - ***MKDM***
 - Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09482)
@@ -171,10 +177,12 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556) - ***LayerDrop***
 - Multilingual Alignment of Contextual Word Representations (ICLR 202) [[paper]](https://arxiv.org/abs/2002.03518)
 - AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search (CoRR 2020) [[paper]](https://arxiv.org/pdf/2001.04246.pdf) - ***AdaBERT***
+- **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing**. *Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei, Ming Zhou*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.02925)[[code]](https://github.com/JetRunner/BERT-of-Theseus)
 - MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10957)[[code]](https://github.com/microsoft/unilm/tree/master/minilm) - ***MiniLM***
 - FastBERT: a Self-distilling BERT with Adaptive Inference Time (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02178)[[code]](https://github.com/autoliuweijie/FastBERT) - ***FastBERT***
 - MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02984)[[code]](https://github.com/google-research/google-research/tree/master/mobilebert) - ***MobileBERT***
 - DynaBERT: Dynamic BERT with Adaptive Width and Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04037) - ***DynaBERT***
+- **SqueezeBERT: What can computer vision teach NLP about efficient neural networks?**. *Forrest N. Iandola, Albert E. Shaw, Ravi Krishna, Kurt W. Keutzer*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.11316)
 
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
@@ -211,6 +219,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Cross-Lingual Ability of Multilingual BERT: An Empirical Study (ICLR2020) [[paper]](https://arxiv.org/abs/1912.07840)
 - Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.06305)
 - How Much Knowledge Can You Pack Into the Parameters of a Language Model? (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.08910)
+- **A Primer in BERTology: What we know about how BERT works**. *Anna Rogers, Olga Kovaleva, Anna Rumshisky*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.12327)
 - BERT Can See Out of the Box: On the Cross-modal Transferability of Text Representations (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10832)
 - Contextual Embeddings: When Are They Worth It? (ACL 2020) [[paper]](https://arxiv.org/abs/2005.09117)
 - Weight Poisoning Attacks on Pre-trained Models (ACL 2020) [[paper]](https://arxiv.org/abs/2004.06660)[[code]](https://github.com/neulab/RIPPLe) - ***RIPPLe***
@@ -218,13 +227,17 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Adversarial Training for Large Neural Language Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.08994)[[code]](https://github.com/namisan/mt-dnn/tree/master/alum)
 - Cross-Lingual Ability of Multilingual BERT: An Empirical Study (ICLR 2020) [[paper]](https://arxiv.org/abs/1912.07840)[[code]](https://github.com/ZihanWangKi/mbert-study)
 - DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference (ACL 2020) [[paper]](https://arxiv.org/abs/2004.12993)[[code]](https://github.com/castorini/DeeBERT)[[huggingface implementation]](https://github.com/huggingface/transformers/tree/master/examples/deebert)
+- **Beyond Accuracy: Behavioral Testing of NLP models with CheckList**. *Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh*. (ACL 2020 Best Paper) [[paper]](https://arxiv.org/abs/2005.04118)[[code]](https://github.com/marcotcr/checklist)
+- **Don't Stop Pretraining: Adapt Language Models to Domains and Tasks**. *Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.10964)[[code]](https://github.com/allenai/dont-stop-pretraining)
+- **TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing**. *Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2002.12620)[[code]](https://github.com/airaria/TextBrewer)
+- **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
 
 ### Tutorial & Survey
 - Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
 - Evolution of Transfer Learning in Natural Language Processing (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.07370)
 - Transferring NLP Models Across Languages and Domains (DeepLo 2019) [[paper]](https://www.dropbox.com/s/myle46vl64nasg8/Deeplo-talk-2019.pdf?dl=0)
-- Pre-trained Models for Natural Language Processing: A Survey (Invited Review of Science China Technological Sciences 2020) [[paper]](https://arxiv.org/pdf/2003.08271.pdf) - ***
--Embeddings in Natural Language Processing (2020) [[book]](http://josecamachocollados.com/book_embNLP_draft.pdf)
+- Pre-trained Models for Natural Language Processing: A Survey (Invited Review of Science China Technological Sciences 2020) [[paper]](https://arxiv.org/pdf/2003.08271.pdf)
+- Embeddings in Natural Language Processing (2020) [[book]](http://josecamachocollados.com/book_embNLP_draft.pdf)
 
 ### Repository
 - [keras-bert](https://github.com/CyberZHG/keras-bert) - CyberZHG's BERT Keras implementation
@@ -255,6 +268,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
 - [NLP有品 / 关于BERT：你不知道的事](https://mp.weixin.qq.com/s/OujaLboNbf7CAHnHQdXHYA)
+- [sliderSun / Transformer和Bert相关知识解答](https://zhuanlan.zhihu.com/p/149634836)
 - [Tobias Lee / BERT 的演进和应用](https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA)
 - [小米 / BERT适应业务遇难题？这是小米NLP的实战探索](https://mp.weixin.qq.com/s/XnKfqm-bj9tbPqf2lZJc0A)
 - [夕小瑶的卖萌屋 / 超一流 | 从XLNet的多流机制看最新预训练模型的研究进展](https://mp.weixin.qq.com/s/VfytCWa-h8CmUZW1RWAdnQ)
