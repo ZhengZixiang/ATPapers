@@ -11,21 +11,21 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 
 ## Attention
 ### Papers
-- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (ICML 2015) [[paper]](http://proceedings.mlr.press/v37/xuc15.html) - ***Hard & Soft Attention***
-- Effective Approaches to Attention-based Neural Machine Translation (EMNLP 2015) [[paper]](https://www.aclweb.org/anthology/D15-1166/) - ***Global & Local Attention***
-- Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015) [[paper]](https://arxiv.org/abs/1409.0473)
-- Non-local Neural Networks (CVPR 2018) [[paper]](https://arxiv.org/abs/1711.07971)[[code]](https://github.com/facebookresearch/video-nonlocal-net)
-- Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
-- Phrase-level Self-Attention Networks for Universal Sentence Encoding (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1408/)
-- Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling (ICLR 2018) [[paper]](https://arxiv.org/abs/1804.00857)[[code]](https://github.com/taoshen58/BiBloSA) - ***Bi-BloSAN***
-- Efficient Attention: Attention with Linear Complexities (CoRR 2018) [[paper]](https://arxiv.org/abs/1812.01243)[[code]](https://github.com/cmsflash/efficient-attention)
-- Leveraging Local and Global Patterns for Self-Attention Networks (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1295/) [[tf code]](https://github.com/scewiner/Leveraging)[[pt code]](https://github.com/galsang/BiBloSA-pytorch)
-- Attention over Heads: A Multi-Hop Attention for Neural Machine Translation (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-2030/)
-- Are Sixteen Heads Really Better than One? (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
-- Synthesizer: Rethinking Self-Attention in Transformer Models (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.00743) - ***Synthesizer***
+- **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**. *Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio*. (ICML 2015) [[paper]](http://proceedings.mlr.press/v37/xuc15.html) - ***Hard & Soft Attention***
+- **Effective Approaches to Attention-based Neural Machine Translation**. *Minh-Thang Luong, Hieu Pham, Christopher D. Manning*. (EMNLP 2015) [[paper]](https://www.aclweb.org/anthology/D15-1166/) - ***Global & Local Attention***
+- **Neural Machine Translation by Jointly Learning to Align and Translate**. *Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio*. (ICLR 2015) [[paper]](https://arxiv.org/abs/1409.0473)
+- **Non-local Neural Networks**. *Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He*. (CVPR 2018) [[paper]](https://arxiv.org/abs/1711.07971)[[code]](https://github.com/facebookresearch/video-nonlocal-net)
+- **Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures**. *Gongbo Tang, Mathias Müller, Annette Rios, Rico Sennrich*. (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1458/)
+- **Phrase-level Self-Attention Networks for Universal Sentence Encoding**. *Wei Wu, Houfeng Wang, Tianyu Liu, Shuming Ma*. (EMNLP 2018) [[paper]](https://www.aclweb.org/anthology/D18-1408/)
+- **Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling**. *Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang*. (ICLR 2018) [[paper]](https://arxiv.org/abs/1804.00857)[[code]](https://github.com/taoshen58/BiBloSA) - ***Bi-BloSAN***
+- **Efficient Attention: Attention with Linear Complexities**. *Zhuoran Shen, Mingyuan Zhang, Haiyu Zhao, Shuai Yi, Hongsheng Li*. (CoRR 2018) [[paper]](https://arxiv.org/abs/1812.01243)[[code]](https://github.com/cmsflash/efficient-attention)
+- **Leveraging Local and Global Patterns for Self-Attention Networks**. *Mingzhou Xu, Derek F. Wong, Baosong Yang, Yue Zhang, Lidia S. Chao*. (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1295/) [[tf code]](https://github.com/scewiner/Leveraging)[[pt code]](https://github.com/galsang/BiBloSA-pytorch)
+- **Attention over Heads: A Multi-Hop Attention for Neural Machine Translation**. *Shohei Iida, Ryuichiro Kimura, Hongyi Cui, Po-Hsuan Hung, Takehito Utsuro, Masaaki Nagata*. (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-2030/)
+- **Are Sixteen Heads Really Better than One?**. *Paul Michel, Omer Levy, Graham Neubig*. (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
 
 ### Survey & Review
-- An Attentive Survey of Attention Models (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
+- **An Attentive Survey of Attention Models**. *Sneha Chaudhari, Gungor Polatkan, Rohan Ramanath, Varun Mithal*. (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
+
 ### English Blog
 - [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
 ### Chinese Blog
@@ -34,47 +34,47 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [科学空间 / Google新作Synthesizer：我们还不够了解自注意力](https://kexue.fm/archives/7430)
 - [科学空间 / 线性Attention的探索：Attention必须有个Softmax吗？](https://kexue.fm/archives/7546)
 ### Repositories
-- [Keras Attention Layer](https://github.com/thushv89/attention_keras) - Attention layer Keras implementation
+- [thushv89 / Keras Attention Layer](https://github.com/thushv89/attention_keras) - Keras Layer implementation of Attention
 
 ## Transformer
 ### Papers
-- Attention is All you Need (NIPS 2017) [[paper]](http://papers.nips.cc/paper/7181-attention-is-all-you-need)[[code]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) - ***Transformer***
-- Weighted Transformer Network for Machine Translation (CoRR 2017) [[paper]](https://arxiv.org/abs/1711.02132)[[code]](https://github.com/JayParks/transformer)
-- Accelerating Neural Transformer via an Average Attention Network (ACL 2018) [[paper]](https://www.aclweb.org/anthology/P18-1166/)[[code]](https://github.com/bzhangGo/transformer-aan) - ***AAN***
-- Self-Attention with Relative Position Representations (NAACL 2018) [[paper]](https://www.aclweb.org/anthology/N18-2074/) [[unoffical code]](https://github.com/THUNLP-MT/THUMT/blob/d4cb62c215d846093e5357aa17b286506b2df1af/thumt/layers/attention.py)
-- Universal Transformers (ICLR 2019) [[paper]](https://openreview.net/forum?id=HyzdRiR9Y7)[[code]](https://github.com/andreamad8/Universal-Transformer-Pytorch) - ***Universal Transformer***
-- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1285) - ***Transformer-XL***
-- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned (ACL 2019) [[paper]](https://arxiv.org/abs/1905.09418)
-- Memory Transformer Networks (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
-- Star-Transformer (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
-- Transformer Dissection: A Unified Understanding of Transformer's Attention via the Lens of Kernel (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.11775)[[code]](https://github.com/yaohungt/TransformerDissection)
-- On Layer Normalization in the Transformer Architecture (ICLR 2020) [[paper]](https://openreview.net/pdf?id=B1x8anVFPr)
-- Transformers without Tears: Improving the Normalization of Self-Attention (IWSLT 2019) [[paper]](https://arxiv.org/abs/1910.05895)[[code]](https://github.com/tnq177/transformers_without_tears)
-- Reformer: The Efficient Transformer (ICLR 2020) [[paper]](https://openreview.net/forum?id=rkgNKkHtvB) [[code 1]](https://pastebin.com/62r5FuEW)[[code 2]](https://github.com/google/trax/tree/master/trax/models/reformer)[[code 3]](https://github.com/lucidrains/reformer-pytorch) - ***Reformer***
-- Generating Long Sequences with Sparse Transformers (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.10509)[[code]](https://github.com/openai/sparse_attention) - ***Sparse Attention***
-- TENER: Adapting Transformer Encoder for Named Entity Recognition (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
+- **Attention is All you Need**. *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*. (NIPS 2017) [[paper]](https://arxiv.org/abs/1706.03762)[[code]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) - ***Transformer***
+- **Weighted Transformer Network for Machine Translation**. *Karim Ahmed, Nitish Shirish Keskar, Richard Socher*. (CoRR 2017) [[paper]](https://arxiv.org/abs/1711.02132)[[code]](https://github.com/JayParks/transformer)
+- **Accelerating Neural Transformer via an Average Attention Network**. *Biao Zhang, Deyi Xiong, Jinsong Su*. (ACL 2018) [[paper]](https://arxiv.org/abs/1805.00631)[[code]](https://github.com/bzhangGo/transformer-aan) - ***AAN***
+- **Self-Attention with Relative Position Representations**. *Peter Shaw, Jakob Uszkoreit, Ashish Vaswani*. (NAACL 2018) [[paper]](https://arxiv.org/abs/1803.02155) [[unoffical code]](https://github.com/THUNLP-MT/THUMT/blob/d4cb62c215d846093e5357aa17b286506b2df1af/thumt/layers/attention.py)
+- **Universal Transformers**. *Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Lukasz Kaiser*. (ICLR 2019) [[paper]](https://arxiv.org/abs/1807.03819)[[code]](https://github.com/andreamad8/Universal-Transformer-Pytorch)
+- **Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context**. *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime G. Carbonell, Quoc Viet Le, Ruslan Salakhutdinov*.  (ACL 2019) [[paper]](https://arxiv.org/abs/1901.02860)
+- **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned**. *Elena Voita, David Talbot, Fedor Moiseev, Rico Sennrich, Ivan Titov*. (ACL 2019) [[paper]](https://arxiv.org/abs/1905.09418)
+- **Star-Transformer**. *Qipeng Guo, Xipeng Qiu, Pengfei Liu, Yunfan Shao, Xiangyang Xue, Zheng Zhang*. (NAACL 2019) [[paper]](https://arxiv.org/pdf/1902.09113.pdf)
+- **Generating Long Sequences with Sparse Transformers**. *Rewon Child, Scott Gray, Alec Radford, Ilya Sutskever*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.10509)[[code]](https://github.com/openai/sparse_attention)
+- **Memory Transformer Networks**. *Jonas Metzger*. (CS224n Winter2019 Reports) [[paper]](https://web.stanford.edu/class/cs224n/reports/custom/15778933.pdf)
+- **Transformer Dissection: A Unified Understanding of Transformer's Attention via the Lens of Kernel**. *Yao-Hung Hubert Tsai, Shaojie Bai, Makoto Yamada, Louis-Philippe Morency, Ruslan Salakhutdinov*. (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.11775)[[code]](https://github.com/yaohungt/TransformerDissection)
+- **Transformers without Tears: Improving the Normalization of Self-Attention**. *Toan Q. Nguyen, Julian Salazar*. (IWSLT 2019) [[paper]](https://arxiv.org/abs/1910.05895)[[code]](https://github.com/tnq177/transformers_without_tears)
+- **TENER: Adapting Transformer Encoder for Named Entity Recognition**. *Hang Yan, Bocao Deng, Xiaonan Li, Xipeng Qiu*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.04474)
+- **Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection**. *Guangxiang Zhao, Junyang Lin, Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1912.11637)[[code]](https://github.com/lancopku/Explicit-Sparse-Transformer)
 - **Compressive Transformers for Long-Range Sequence Modelling**. *Jack W. Rae, Anna Potapenko, Siddhant M. Jayakumar, Timothy P. Lillicrap*. (ICLR 2020) [[paper]](https://arxiv.org/abs/1911.05507)[[code]](https://github.com/lucidrains/compressive-transformer-pytorch)
-- Explicit Sparse Transformer: Concentrated Attention Through Explicit Selection (CoRR 2019) [[paper]](https://arxiv.org/abs/1912.11637)[[code]](https://github.com/lancopku/Explicit-Sparse-Transformer)
-- ReZero is All You Need: Fast Convergence at Large Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.04887) [[code]](https://github.com/majumderb/rezero) [[related Chinese post]](https://zhuanlan.zhihu.com/p/113384612) - ***ReZero***
-- Lite Transformer with Long-Short Range Attention (ICLR 2020) [[paper]](https://arxiv.org/abs/2004.11886)[[code]](https://github.com/mit-han-lab/lite-transformer) - ***Lite Transformer***
-- HAT: Hardware-Aware Transformers for Efficient Natural Language Processing （ACL 2020) [[paper]](https://arxiv.org/abs/2005.14187)[[code]](https://link.zhihu.com/?target=https%3A//github.com/mit-han-lab/hardware-aware-transformers) - ***HAT***
-- Longformer: The Long-Document Transformer (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.05150)[[code]](https://github.com/allenai/longformer) - ***LongFormer***
-- Improving Transformer Models by Reordering their Sublayers (ACL 2020) [[paper]](https://arxiv.org/abs/1911.03864)
-- Highway Transformer: Self-Gating Enhanced Self-Attentive Networks (ACL 2020) [[paper]](https://arxiv.org/abs/2004.08178)[[code]](https://github.com/cyk1337/Highway-Transformer) - ***Highway Transformer***
-- Talking-Heads Attention （CoRR 2020) [[paper]](https://arxiv.org/abs/2003.02436)
-- Linformer: Self-Attention with Linear Complexity (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.04768) - ***Linformer***
-- Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention (ICML 2020) [[paper]](https://arxiv.org/abs/2006.16236)[[code]](https://github.com/idiap/fast-transformers) - ***Linear Transformer***
-- Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing （CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03236)[[code]](https://github.com/laiguokun/Funnel-Transformer)
-- **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention**. *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret*. (ICML 2020) [[paper]](https://arxiv.org/abs/2006.16236)[[code]](https://github.com/idiap/fast-transformers)
+- **Reformer: The Efficient Transformer**. *Nikita Kitaev, Łukasz Kaiser, Anselm Levskaya*. (ICLR 2020) [[paper]](https://arxiv.org/abs/2001.04451) [[code 1]](https://pastebin.com/62r5FuEW)[[code 2]](https://github.com/google/trax/tree/master/trax/models/reformer)[[code 3]](https://github.com/lucidrains/reformer-pytorch)
+- **On Layer Normalization in the Transformer Architecture**. *Ruibin Xiong, Yunchang Yang, Di He, Kai Zheng, Shuxin Zheng, Chen Xing, Huishuai Zhang, Yanyan Lan, Liwei Wang, Tie-Yan Liu*. (ICML 2020) [[paper]](https://arxiv.org/abs/2002.04745)
+- **Lite Transformer with Long-Short Range Attention**. *Zhanghao Wu, Zhijian Liu, Ji Lin, Yujun Lin, Song Han*. (ICLR 2020) [[paper]](https://arxiv.org/abs/2004.11886)[[code]](https://github.com/mit-han-lab/lite-transformer)
+- **ReZero is All You Need: Fast Convergence at Large Depth**. *Thomas Bachlechner, Bodhisattwa Prasad Majumder, Huanru Henry Mao, Garrison W. Cottrell, Julian McAuley*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.04887) [[code]](https://github.com/majumderb/rezero) [[related Chinese post]](https://zhuanlan.zhihu.com/p/113384612)
+- **Improving Transformer Models by Reordering their Sublayers**. *Ofir Press, Noah A. Smith, Omer Levy*. (ACL 2020) [[paper]](https://arxiv.org/abs/1911.03864)
+- **Highway Transformer: Self-Gating Enhanced Self-Attentive Networks**. *Yekun Chai, Jin Shuo, Xinwen Hou*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.08178)[[code]](https://github.com/cyk1337/Highway-Transformer)
+- **HAT: Hardware-Aware Transformers for Efficient Natural Language Processing**. *Hanrui Wang, Zhanghao Wu, Zhijian Liu, Han Cai, Ligeng Zhu, Chuang Gan, Song Han*. (ACL 2020) [[paper]](https://arxiv.org/abs/2005.14187)[[code]](https://link.zhihu.com/?target=https://github.com/mit-han-lab/hardware-aware-transformers)
+- **Longformer: The Long-Document Transformer**. *Iz Beltagy, Matthew E. Peters, Arman Cohan*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.05150)[[code]](https://github.com/allenai/longformer)
+- **Talking-Heads Attention**. *Noam Shazeer, Zhenzhong Lan, Youlong Cheng, Nan Ding, Le Hou*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.02436)
+- **Synthesizer: Rethinking Self-Attention in Transformer Models**. *Yi Tay, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, Che Zheng*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.00743)
+- **Linformer: Self-Attention with Linear Complexity**. *Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.04768)
+- **Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention**. *Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, François Fleuret*. (ICML 2020) [[paper]](https://arxiv.org/abs/2006.16236)[[code]](https://github.com/idiap/fast-transformers)[[project]](https://linear-transformers.com/)
+- **Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing**. *Zihang Dai, Guokun Lai, Yiming Yang, Quoc V. Le*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03236)[[code]](https://github.com/laiguokun/Funnel-Transformer)
 - **Fast Transformers with Clustered Attention**. *Apoorv Vyas, Angelos Katharopoulos, François Fleuret*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.04825)[[code]](https://github.com/idiap/fast-transformers)
 - **Memory Transformer**. *Mikhail S. Burtsev, Grigory V. Sapunov*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.11527)
 - **Multi-Head Attention: Collaborate Instead of Concatenate**. *Jean-Baptiste Cordonnier, Andreas Loukas, Martin Jaggi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16362)[[code]](https://github.com/epfml/collaborative-attention)
 
 ### Chinese Blog
-- [浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
-- [Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
+- [Kaiyuan Gao / Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
 - [科学空间 / 突破瓶颈，打造更强大的Transformer](https://kexue.fm/archives/7325)
 - [美团 / Transformer 在美团搜索排序中的实践](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
+- [徐啸 / 浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
 - [张俊林 / 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 ### English Blog
 - [Google / Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
