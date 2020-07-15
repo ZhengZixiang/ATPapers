@@ -1,5 +1,5 @@
 # ATPapers
-Worth-reading papers and related resources on attention mechanism, Transformer and pretrained language model (PLM) such as BERT.
+Worth-reading papers and related resources on **A**ttention Mechanism, **T**ransformer and **P**retrained Language Model (PLM) such as BERT.
 
 Suggestions about fixing errors or adding papers, repositories and other resources are welcomed!
 
