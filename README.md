@@ -233,43 +233,47 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
 
 ### Tutorial & Survey
-- Transfer Learning in Natural Language Processing (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
-- Evolution of Transfer Learning in Natural Language Processing (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.07370)
-- Transferring NLP Models Across Languages and Domains (DeepLo 2019) [[paper]](https://www.dropbox.com/s/myle46vl64nasg8/Deeplo-talk-2019.pdf?dl=0)
-- Pre-trained Models for Natural Language Processing: A Survey (Invited Review of Science China Technological Sciences 2020) [[paper]](https://arxiv.org/pdf/2003.08271.pdf)
-- Embeddings in Natural Language Processing (2020) [[book]](http://josecamachocollados.com/book_embNLP_draft.pdf)
+- **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
+- **Evolution of Transfer Learning in Natural Language Processing**. *Aditya Malte, Pratik Ratadiya*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.07370)
+- **Transferring NLP Models Across Languages and Domains**. *Barbara Plank*. (DeepLo 2019) [[slides]](https://www.dropbox.com/s/myle46vl64nasg8/Deeplo-talk-2019.pdf?dl=0)
+- **Recent Breakthroughs in Natural Language Processing**. *Christopher Manning* (BAAI 2019) [[slides]](https://www.jianguoyun.com/p/DVRRLHUQq7ftBxjG3Y8C)
+- **Pre-trained Models for Natural Language Processing: A Survey**. *Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai, Xuanjing Huang*. (Invited Review of Science China Technological Sciences 2020) [[paper]](https://arxiv.org/pdf/2003.08271.pdf)
+- **Embeddings in Natural Language Processing**. *Mohammad Taher Pilehvar, Jose Camacho-Collados*. (2020) [[book]](http://josecamachocollados.com/book_embNLP_draft.pdf)
 
 ### Repository
-- [keras-bert](https://github.com/CyberZHG/keras-bert) - CyberZHG's BERT Keras implementation
-- [BERT-keras](https://github.com/Separius/BERT-keras) - Separius' BERT Keras implementation
-- [bert4keras](https://github.com/bojone/bert4keras) - bojone's (苏神) BERT Keras implementation
-- [gpt-2-Pytorch: Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation](https://github.com/graykode/gpt-2-Pytorch)
-- [GPT2-Chinese: Chinese version of GPT2 training code, using BERT tokenizer](https://github.com/Morizeyao/GPT2-Chinese)
-- [OpenClap: Open Chinese Language Pre-trained Model Zoo](https://github.com/thunlp/OpenCLaP)
-- [XLNet Chinese Pretrained Language Model](https://github.com/ymcui/Chinese-PreTrained-XLNet)
-- [RoBERTa Chinese Pretrained Language Model](https://github.com/brightmart/roberta_zh)
-- [RoBERTa-wwm-base-distill Chinese](https://github.com/policeme/roberta-wwm-base-distill)
-- [ALBERT Chinese Pretrained Language Model](https://github.com/brightmart/albert_zh)
-- [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
-- [terrifyzhao/bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
+- [bojone / bert4keras](https://github.com/bojone/bert4keras) - bojone's (苏神) BERT Keras implementation
+- [brightmart/roberta_zh](https://github.com/brightmart/roberta_zh) - RoBERTa中文预训练模型
+- [brightmart / albert_zh](https://github.com/brightmart/albert_zh) - 海量中文预训练ALBERT模型
+- [CyberZHG / keras-bert](https://github.com/CyberZHG/keras-bert) - CyberZHG's BERT Keras implementation
+- [policeme / roberta-wwm-base-distill](https://github.com/policeme/roberta-wwm-base-distill) - A chinese Roberta wwm distillation model which was distilled from roberta-ext-wwm-large
+- [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers) - This is a list of BERT-related papers.
+- [terrifyzhao / bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
+- [graykode / gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) - Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
 - [hanxiao / bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
 - [heartcored98 / Transformer_Anatomy](https://github.com/heartcored98/transformer_anatomy) - Toolkit for finding and analyzing important attention heads in transformer-based models
+- [Hironsan / bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search
 - [CLUEbenchmark / CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
 - [jessevig / bertviz](https://github.com/jessevig/bertviz) - BERT Visualization Tool
-- [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert)
-- [Tencent / TurboTransformers](https://github.com/Tencent/TurboTransformers)
-- [THUNLP / PLMpapers](https://github.com/thunlp/PLMpapers)
-- [THUNLP-AIPoet / BERT-CCPoem](https://github.com/THUNLP-AIPoet/BERT-CCPoem)
-- [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert)
+- [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert) - Collect BERT related resources
+- [Morizeyao / GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT tokenizer
+- [Separius / BERT-keras](https://github.com/Separius/BERT-keras) - Separius' BERT Keras implementation
+- [Tencent / TurboTransformers](https://github.com/Tencent/TurboTransformers) - A fast and user-friendly runtime for transformer inference on CPU and GPU
+- [THUNLP / OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
+- [THUNLP / PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
+- [THUNLP-AIPoet / BERT-CCPoem](https://github.com/THUNLP-AIPoet/BERT-CCPoem) - A BERT-based pre-trained model particularly for Chinese classical poetry
+- [ymcui / Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet) - Pre-Trained Chinese XLNet（中文XLNet预训练模型）
+- [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert) - A bert for retrieval and generation
 
 ### Chinese Blog
 - [Andy Yang / BERT 瘦身之路：Distillation，Quantization，Pruning](https://zhuanlan.zhihu.com/p/86900556)
+- [阿里 / BERT蒸馏在垃圾舆情识别中的探索](https://mp.weixin.qq.com/s/ljYPSK20ce9EoPbfGlaCrw)
 - [李理 / XLNet原理](http://fancyerii.github.io/2019/06/30/xlnet-theory/)
 - [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
 - [NLP有品 / 关于BERT：你不知道的事](https://mp.weixin.qq.com/s/OujaLboNbf7CAHnHQdXHYA)
 - [sliderSun / Transformer和Bert相关知识解答](https://zhuanlan.zhihu.com/p/149634836)
 - [Tobias Lee / BERT 的演进和应用](https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA)
+- [腾讯 / 内存用量1/20，速度加快80倍，腾讯QQ提出全新BERT蒸馏框架，未来将开源](https://mp.weixin.qq.com/s/W668zeWuNsBKV23cVR0zZQ)
 - [小米 / BERT适应业务遇难题？这是小米NLP的实战探索](https://mp.weixin.qq.com/s/XnKfqm-bj9tbPqf2lZJc0A)
 - [夕小瑶的卖萌屋 / 超一流 | 从XLNet的多流机制看最新预训练模型的研究进展](https://mp.weixin.qq.com/s/VfytCWa-h8CmUZW1RWAdnQ)
 - [夕小瑶的卖萌屋 / 如何优雅地编码文本中的位置信息？三种positioanl encoding方法简述](https://mp.weixin.qq.com/s/ENpXBYQ4hfdTLSXBIoF00Q)
