@@ -177,7 +177,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556) - ***LayerDrop***
 - Multilingual Alignment of Contextual Word Representations (ICLR 202) [[paper]](https://arxiv.org/abs/2002.03518)
 - AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search (CoRR 2020) [[paper]](https://arxiv.org/pdf/2001.04246.pdf) - ***AdaBERT***
-- **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing**. *Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei, Ming Zhou*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.02925)[[code]](https://github.com/JetRunner/BERT-of-Theseus)
+- **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing**. *Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei, Ming Zhou*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.02925)[[pt code]](https://github.com/JetRunner/BERT-of-Theseus)[[tf code]](https://github.com/qiufengyuyi/bert-of-theseus-tf)[[keras code]](https://github.com/bojone/bert-of-theseus)
 - MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10957)[[code]](https://github.com/microsoft/unilm/tree/master/minilm) - ***MiniLM***
 - FastBERT: a Self-distilling BERT with Adaptive Inference Time (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02178)[[code]](https://github.com/autoliuweijie/FastBERT) - ***FastBERT***
 - MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02984)[[code]](https://github.com/google-research/google-research/tree/master/mobilebert) - ***MobileBERT***
@@ -230,6 +230,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **Beyond Accuracy: Behavioral Testing of NLP models with CheckList**. *Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh*. (ACL 2020 Best Paper) [[paper]](https://arxiv.org/abs/2005.04118)[[code]](https://github.com/marcotcr/checklist)
 - **Don't Stop Pretraining: Adapt Language Models to Domains and Tasks**. *Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.10964)[[code]](https://github.com/allenai/dont-stop-pretraining)
 - **TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing**. *Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2002.12620)[[code]](https://github.com/airaria/TextBrewer)
+- **Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT**. *Zhiyong Wu, Yun Chen, Ben Kao, Qun Liu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.14786)[[pt code]](https://github.com/LividWo/Perturbed-Masking)[[keras code]](https://github.com/bojone/perturbed_masking)
 - **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
 
 ### Tutorial & Survey
@@ -267,6 +268,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 ### Chinese Blog
 - [Andy Yang / BERT 瘦身之路：Distillation，Quantization，Pruning](https://zhuanlan.zhihu.com/p/86900556)
 - [阿里 / BERT蒸馏在垃圾舆情识别中的探索](https://mp.weixin.qq.com/s/ljYPSK20ce9EoPbfGlaCrw)
+- [科学空间 / BERT-of-Theseus：基于模块替换的模型压缩方法](https://kexue.fm/archives/7575)
 - [李理 / XLNet原理](http://fancyerii.github.io/2019/06/30/xlnet-theory/)
 - [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
@@ -290,6 +292,6 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 
 ### English Blog
 - [A Fair Comparison Study of XLNet and BERT with Large Models](https://medium.com/@xlnet.team/a-fair-comparison-study-of-xlnet-and-bert-with-large-models-5a4257f59dc0)
-- [Compressing BERT for faster prediction](https://blog.rasa.com/compressing-bert-for-faster-prediction-2/)
 - [All The Ways You Can Compress BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [Rasa / Compressing BERT for faster prediction](https://blog.rasa.com/compressing-bert-for-faster-prediction-2/)
