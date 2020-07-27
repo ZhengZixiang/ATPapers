@@ -88,6 +88,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [DongjunLee / transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - Transformer Tensorflow implementation
 - [andreamad8 / Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Universal Transformer PyTorch implementation
 - [lucidrains / Linear Attention Transformer](https://github.com/lucidrains/linear-attention-transformer) - Transformer based on a variant of attention that is linear complexity in respect to sequence length
+- [PapersWithCode / Attention](https://paperswithcode.com/methods/category/attention-mechanisms)
 - [sannykim / transformers](https://github.com/sannykim/transformers) - A collection of resources to study Transformers in depth
 
 ## Pretrained Language Model
@@ -161,27 +162,29 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Language-agnostic BERT Sentence Embedding (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.01852) - ***LaBSE***
 
 ### Compression & Accelerating
-- Distilling Task-Specific Knowledge from BERT into Simple Neural Networks (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
-- Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09636) - ***MKDM***
-- Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09482)
-- Well-Read Students Learn Better: On the Importance of Pre-training Compact Models (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.08962)
-- Small and Practical BERT Models for Sequence Labeling (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1374/)
-- Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.05840) - ***Q-BERT***
-- Patient Knowledge Distillation for BERT Model Compression (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1441/) - ***BERT-PKD***
-- Extreme Language Model Compression with Optimal Subwords and Shared Projections (ICLR 2019) [[paper]](https://arxiv.org/abs/1909.11687)
-- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [[paper]](https://arxiv.org/pdf/1910.01108.pdf)[[code]](https://github.com/huggingface/transformers/tree/master/examples/distillation) - ***DistilBERT***
-- TinyBERT: Distilling BERT for Natural Language Understanding (ICLR 2019) [[paper]](https://arxiv.org/pdf/1909.10351.pdf)[[code]](https://github.com/huawei-noah/Pretrained-Language-Model) - ***TinyBERT***
-- Q8BERT: Quantized 8Bit BERT (NeurIPS 2019 Workshop) [[paper]](https://arxiv.org/abs/1910.06188) - ***Q8BERT***
-- ALBERT: A Lite BERT for Self-supervised Learning of Language Representations (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11942)[[code]](https://github.com/google-research/ALBERT) - ***ALBERT***
-- Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning (ICLR 2020) [[paper]](https://openreview.net/forum?id=SJlPOCEKvH)[[PyTorch code]](https://github.com/lonePatient/albert_pytorch)
-- Reducing Transformer Depth on Demand with Structured Dropout (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556) - ***LayerDrop***
-- Multilingual Alignment of Contextual Word Representations (ICLR 202) [[paper]](https://arxiv.org/abs/2002.03518)
-- AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search (CoRR 2020) [[paper]](https://arxiv.org/pdf/2001.04246.pdf) - ***AdaBERT***
+- **Distilling Task-Specific Knowledge from BERT into Simple Neural Networks**. *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
+- **Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System**. *Ze Yang, Linjun Shou, Ming Gong, Wutao Lin, Daxin Jiang*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09636) - ***MKDM***
+- **Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding**. *Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09482)
+- **Well-Read Students Learn Better: On the Importance of Pre-training Compact Models**. *Iulia Turc, Ming-Wei Chang, Kenton Lee, Kristina Toutanova*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.08962)
+- **Small and Practical BERT Models for Sequence Labeling**. *Henry Tsai, Jason Riesa, Melvin Johnson, Naveen Arivazhagan, Xin Li, Amelia Archer*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1374/)
+- **Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT**. *Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer*. (AAAI 2020) [[paper]](https://arxiv.org/abs/1909.05840)
+- **Patient Knowledge Distillation for BERT Model Compression**. *Siqi Sun, Yu Cheng, Zhe Gan, Jingjing Liu*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1441/) - ***BERT-PKD***
+- **Extreme Language Model Compression with Optimal Subwords and Shared Projections**. *Sanqiang Zhao, Raghav Gupta, Yang Song, Denny Zhou*. (ICLR 2019) [[paper]](https://arxiv.org/abs/1909.11687)
+- **DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter**. *Victor Sanh, Lysandre Debut, Julien Chaumond, Thomas Wolf*. [[paper]](https://arxiv.org/pdf/1910.01108.pdf)[[code]](https://github.com/huggingface/transformers/tree/master/examples/distillation)
+- **TinyBERT: Distilling BERT for Natural Language Understanding**. *Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu*. (ICLR 2019) [[paper]](https://arxiv.org/pdf/1909.10351.pdf)[[code]](https://github.com/huawei-noah/Pretrained-Language-Model)
+- **Q8BERT: Quantized 8Bit BERT**. *Ofir Zafrir, Guy Boudoukh, Peter Izsak, Moshe Wasserblat*. (NeurIPS 2019 Workshop) [[paper]](https://arxiv.org/abs/1910.06188)
+- **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations**. *Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut*. (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11942)[[code]](https://github.com/google-research/ALBERT)
+- **Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning**. *Mitchell A. Gordon, Kevin Duh, Nicholas Andrews*. (ICLR 2020) [[paper]](https://openreview.net/forum?id=SJlPOCEKvH)[[PyTorch code]](https://github.com/lonePatient/albert_pytorch)
+- **Reducing Transformer Depth on Demand with Structured Dropout**. *Angela Fan, Edouard Grave, Armand Joulin*. (ICLR 2020) [[paper]](https://arxiv.org/abs/1909.11556) - ***LayerDrop***
+- Multilingual Alignment of Contextual Word Representations (ICLR 2020) [[paper]](https://arxiv.org/abs/2002.03518)
+- **AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search**. *Daoyuan Chen, Yaliang Li, Minghui Qiu, Zhen Wang, Bofang Li, Bolin Ding, Hongbo Deng, Jun Huang, Wei Lin, Jingren Zhou*. (IJCAI 2020) [[paper]](https://arxiv.org/pdf/2001.04246.pdf) - ***AdaBERT***
 - **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing**. *Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei, Ming Zhou*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.02925)[[pt code]](https://github.com/JetRunner/BERT-of-Theseus)[[tf code]](https://github.com/qiufengyuyi/bert-of-theseus-tf)[[keras code]](https://github.com/bojone/bert-of-theseus)
-- MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10957)[[code]](https://github.com/microsoft/unilm/tree/master/minilm) - ***MiniLM***
-- FastBERT: a Self-distilling BERT with Adaptive Inference Time (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02178)[[code]](https://github.com/autoliuweijie/FastBERT) - ***FastBERT***
-- MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02984)[[code]](https://github.com/google-research/google-research/tree/master/mobilebert) - ***MobileBERT***
-- DynaBERT: Dynamic BERT with Adaptive Width and Depth (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04037) - ***DynaBERT***
+- **MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers**. *MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.10957)[[code]](https://github.com/microsoft/unilm/tree/master/minilm)
+- **FastBERT: a Self-distilling BERT with Adaptive Inference Time**. *Weijie Liu, Peng Zhou, Zhiruo Wang, Zhe Zhao, Haotang Deng, Qi Ju*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02178)[[code]](https://github.com/autoliuweijie/FastBERT)
+- **MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices**. *Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, Yiming Yang, Denny Zhou*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.02984)[[code]](https://github.com/google-research/google-research/tree/master/mobilebert)
+- **Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation**. *Bowen Wu, Huan Zhang, Mengyuan Li, Zongsheng Wang, Qihang Feng, Junhong Huang, Baoxun Wang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.03097) - ***BiLSTM-SRA & LTD-BERT***
+- **Poor Man's BERT: Smaller and Faster Transformer Models**. *Hassan Sajjad, Fahim Dalvi, Nadir Durrani, Preslav Nakov*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.03844)
+- **DynaBERT: Dynamic BERT with Adaptive Width and Depth**. *Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04037)
 - **SqueezeBERT: What can computer vision teach NLP about efficient neural networks?**. *Forrest N. Iandola, Albert E. Shaw, Ravi Krishna, Kurt W. Keutzer*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.11316)
 
 ### Application
