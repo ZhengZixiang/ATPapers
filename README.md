@@ -266,6 +266,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [THUNLP / PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [THUNLP-AIPoet / BERT-CCPoem](https://github.com/THUNLP-AIPoet/BERT-CCPoem) - A BERT-based pre-trained model particularly for Chinese classical poetry
 - [ymcui / Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet) - Pre-Trained Chinese XLNet（中文XLNet预训练模型）
+- [ZhuiyiTechnology / pretrained-models](https://github.com/ZhuiyiTechnology/pretrained-models) - Open Language Pre-trained Model Zoo
 - [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert) - A bert for retrieval and generation
 
 ### Chinese Blog
