@@ -22,6 +22,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Leveraging Local and Global Patterns for Self-Attention Networks**. *Mingzhou Xu, Derek F. Wong, Baosong Yang, Yue Zhang, Lidia S. Chao*. (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1295/) [[tf code]](https://github.com/scewiner/Leveraging)[[pt code]](https://github.com/galsang/BiBloSA-pytorch)
 - **Attention over Heads: A Multi-Hop Attention for Neural Machine Translation**. *Shohei Iida, Ryuichiro Kimura, Hongyi Cui, Po-Hsuan Hung, Takehito Utsuro, Masaaki Nagata*. (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-2030/)
 - **Are Sixteen Heads Really Better than One?**. *Paul Michel, Omer Levy, Graham Neubig*. (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
+- **Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?**. *Cansu Sen, Thomas Hartvigsen, Biao Yin, Xiangnan Kong, Elke Rundensteiner*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.419/) - ***YELP-HAT***
 
 ### Survey & Review
 - **An Attentive Survey of Attention Models**. *Sneha Chaudhari, Gungor Polatkan, Rohan Ramanath, Varun Mithal*. (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
