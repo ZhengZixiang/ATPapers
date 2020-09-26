@@ -72,10 +72,12 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Fast Transformers with Clustered Attention**. *Apoorv Vyas, Angelos Katharopoulos, François Fleuret*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.04825)[[code]](https://github.com/idiap/fast-transformers)
 - **Memory Transformer**. *Mikhail S. Burtsev, Grigory V. Sapunov*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.11527)
 - **Multi-Head Attention: Collaborate Instead of Concatenate**. *Jean-Baptiste Cordonnier, Andreas Loukas, Martin Jaggi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16362)[[code]](https://github.com/epfml/collaborative-attention)
+- **Efficient Transformers: A Survey**. *Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.06732)
 
 ### Chinese Blog
 - [Kaiyuan Gao / Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
 - [科学空间 / 突破瓶颈，打造更强大的Transformer](https://kexue.fm/archives/7325)
+- [量子位 / 最新Transformer模型大盘点，NLP学习必备，Google AI研究员出品](https://mp.weixin.qq.com/s/ptqSW86lwhB8Ogi3Ak_L9A)
 - [美团 / Transformer 在美团搜索排序中的实践](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
 - [徐啸 / 浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
 - [张俊林 / 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
@@ -239,6 +241,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing**. *Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2002.12620)[[code]](https://github.com/airaria/TextBrewer)
 - **Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT**. *Zhiyong Wu, Yun Chen, Ben Kao, Qun Liu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.14786)[[pt code]](https://github.com/LividWo/Perturbed-Masking)[[keras code]](https://github.com/bojone/perturbed_masking)
 - **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
+- **Revisiting Pre-Trained Models for Chinese Natural Language Processing**. *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu*. (Findings of EMNLP) [[paper]](https://arxiv.org/abs/2004.13922)[[code]](https://github.com/ymcui/MacBERT) - ***MacBERT***
 
 ### Tutorial & Survey
 - **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
@@ -272,11 +275,13 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [ymcui / Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet) - Pre-Trained Chinese XLNet（中文XLNet预训练模型）
 - [ZhuiyiTechnology / pretrained-models](https://github.com/ZhuiyiTechnology/pretrained-models) - Open Language Pre-trained Model Zoo
 - [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert) - A bert for retrieval and generation
+- [ZhuiyiTechnology / WoBERT](https://github.com/ZhuiyiTechnology/WoBERT)
 
 ### Chinese Blog
 - [Andy Yang / BERT 瘦身之路：Distillation，Quantization，Pruning](https://zhuanlan.zhihu.com/p/86900556)
 - [阿里 / BERT蒸馏在垃圾舆情识别中的探索](https://mp.weixin.qq.com/s/ljYPSK20ce9EoPbfGlaCrw)
 - [科学空间 / BERT-of-Theseus：基于模块替换的模型压缩方法](https://kexue.fm/archives/7575)
+- [科学空间 / 提速不掉点：基于词颗粒度的中文WoBERT](https://kexue.fm/archives/7758)
 - [李理 / XLNet原理](http://fancyerii.github.io/2019/06/30/xlnet-theory/)
 - [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
@@ -295,6 +300,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [张俊林 / BERT和Transformer到底学到了什么 | AI ProCon 2019](https://zhuanlan.zhihu.com/p/90167937)
 - [张俊林 / 效果惊人的GPT 2.0模型：它告诉了我们什么](https://zhuanlan.zhihu.com/p/56865533)
 - [张俊林 / XLNet:运行机制及和Bert的异同比较](https://zhuanlan.zhihu.com/p/70257427)
+- [张俊林 / 乘风破浪的PTM：两年来预训练模型的技术进展](https://zhuanlan.zhihu.com/p/254821426)
 - [张正 / 从基础到前沿看迁移学习在NLP中的演化](https://mp.weixin.qq.com/s/Xsh3VNLYCxqh5TH_mK1uXQ)
 - [知乎问答 / BERT为何使用学习的position embedding而非正弦position encoding?](https://www.zhihu.com/question/307293465/answer/1039311514)
 
