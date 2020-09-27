@@ -207,6 +207,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering (ACL 2020) [[paper]](https://arxiv.org/abs/2005.00697)[[code]](https://github.com/StonyBrookNLP/deformer) - ***DeFormer***
 - BLEURT: Learning Robust Metrics for Text Generation (ACL 2020) [[paper]](https://arxiv.org/abs/2004.04696)[[code]](https://github.com/google-research/bleurt) - ***BLEURT***
 - Context-Aware Document Term Weighting for Ad-Hoc Search (WWW 2020) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380258)[[code]](https://github.com/AdeDZY/DeepCT) - ***HDCT***
+- **E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce**. *Denghui Zhang, Zixuan Yuan, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong*. [[paper]](https://arxiv.org/abs/2009.02835)
 
 ### Analysis & Tools
 - Probing Neural Network Comprehension of Natural Language Arguments (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1459.pdf)[[code]](https://github.com/IKMLab/arct2)
