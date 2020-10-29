@@ -72,6 +72,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Fast Transformers with Clustered Attention**. *Apoorv Vyas, Angelos Katharopoulos, François Fleuret*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.04825)[[code]](https://github.com/idiap/fast-transformers)
 - **Memory Transformer**. *Mikhail S. Burtsev, Grigory V. Sapunov*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.11527)
 - **Multi-Head Attention: Collaborate Instead of Concatenate**. *Jean-Baptiste Cordonnier, Andreas Loukas, Martin Jaggi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16362)[[code]](https://github.com/epfml/collaborative-attention)
+- **Big Bird: Transformers for Longer Sequences**. *Big Bird: Transformers for Longer Sequences*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.14062)
 - **Efficient Transformers: A Survey**. *Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.06732)
 
 ### Chinese Blog
@@ -143,7 +144,6 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Recipes for building an open-domain chatbot (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.13637)[[post]](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/)[[code]](https://github.com/facebookresearch/ParlAI) - ***Blender***
 - PLATO-2: Towards Building an Open-Domain Chatbot via Curriculum Learning (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16779)[[code]](https://github.com/PaddlePaddle/Knover/tree/master/plato-2) - ***PLATO-2***
 - DeBERTa: Decoding-enhanced BERT with Disentangled Attention (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03654)[[code]](https://github.com/microsoft/DeBERTa) - ***DeBERTa***
-- **Big Bird: Transformers for Longer Sequences**. *Big Bird: Transformers for Longer Sequences*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.14062)
 
 ### Multi-Modal
 - VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
@@ -158,6 +158,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - UNITER: Learning UNiversal Image-TExt Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.11740)
 - FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval （SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.09801) - ***FashionBERT***
 - VD-BERT: A Unified Vision and Dialog Transformer with BERT (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.13278) - ***VD-BERT***
+- **CodeBERT:A Pre-Trained Model for Programming and Natural Languages**. *Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2002.08155)[[code]](https://github.com/microsoft/CodeBERT)
 
 ### Multilingual
 - Cross-lingual Language Model Pretraining (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.07291.pdf) - ***XLM***
@@ -192,6 +193,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **Poor Man's BERT: Smaller and Faster Transformer Models**. *Hassan Sajjad, Fahim Dalvi, Nadir Durrani, Preslav Nakov*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.03844)
 - **DynaBERT: Dynamic BERT with Adaptive Width and Depth**. *Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04037)
 - **SqueezeBERT: What can computer vision teach NLP about efficient neural networks?**. *Forrest N. Iandola, Albert E. Shaw, Ravi Krishna, Kurt W. Keutzer*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.11316)
+- **Optimal Subarchitecture Extraction For BERT**. *Adrian de Wynter, Daniel J. Perry*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.10499)[[code]](https://github.com/alexa/bort/) - ***Bort***
 
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
@@ -273,6 +275,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [THUNLP / OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
 - [THUNLP / PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [THUNLP-AIPoet / BERT-CCPoem](https://github.com/THUNLP-AIPoet/BERT-CCPoem) - A BERT-based pre-trained model particularly for Chinese classical poetry
+- [valuesimplex / FinBERT](https://github.com/valuesimplex/FinBERT)
 - [ymcui / Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet) - Pre-Trained Chinese XLNet（中文XLNet预训练模型）
 - [ZhuiyiTechnology / pretrained-models](https://github.com/ZhuiyiTechnology/pretrained-models) - Open Language Pre-trained Model Zoo
 - [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert) - A bert for retrieval and generation
