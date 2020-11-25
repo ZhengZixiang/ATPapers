@@ -144,6 +144,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Recipes for building an open-domain chatbot (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.13637)[[post]](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/)[[code]](https://github.com/facebookresearch/ParlAI) - ***Blender***
 - PLATO-2: Towards Building an Open-Domain Chatbot via Curriculum Learning (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16779)[[code]](https://github.com/PaddlePaddle/Knover/tree/master/plato-2) - ***PLATO-2***
 - DeBERTa: Decoding-enhanced BERT with Disentangled Attention (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03654)[[code]](https://github.com/microsoft/DeBERTa) - ***DeBERTa***
+- **ConvBERT: Improving BERT with Span-based Dynamic Convolution**. *Zihang Jiang, Weihao Yu, Daquan Zhou, Yunpeng Chen, Jiashi Feng, Shuicheng Yan*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.02496)[[code]](https://github.com/yitu-opensource/ConvBert)
 
 ### Multi-Modal
 - VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
@@ -245,6 +246,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT**. *Zhiyong Wu, Yun Chen, Ben Kao, Qun Liu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.14786)[[pt code]](https://github.com/LividWo/Perturbed-Masking)[[keras code]](https://github.com/bojone/perturbed_masking)
 - **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
 - **Revisiting Pre-Trained Models for Chinese Natural Language Processing**. *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu*. (Findings of EMNLP) [[paper]](https://arxiv.org/abs/2004.13922)[[code]](https://github.com/ymcui/MacBERT) - ***MacBERT***
+- **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02329)
 
 ### Tutorial & Survey
 - **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
@@ -259,9 +261,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [brightmart/roberta_zh](https://github.com/brightmart/roberta_zh) - RoBERTa中文预训练模型
 - [brightmart / albert_zh](https://github.com/brightmart/albert_zh) - 海量中文预训练ALBERT模型
 - [CyberZHG / keras-bert](https://github.com/CyberZHG/keras-bert) - CyberZHG's BERT Keras implementation
-- [policeme / roberta-wwm-base-distill](https://github.com/policeme/roberta-wwm-base-distill) - A chinese Roberta wwm distillation model which was distilled from roberta-ext-wwm-large
-- [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers) - This is a list of BERT-related papers.
-- [terrifyzhao / bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
+- [Ethan-yt / GuwenBERT](https://github.com/Ethan-yt/guwenbert) - A Pre-trained Language Model for Classical Chinese (Literary Chinese)
 - [graykode / gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) - Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
 - [hanxiao / bert-as-service](https://github.com/hanxiao/bert-as-service) - Using BERT model as a sentence encoding service
 - [heartcored98 / Transformer_Anatomy](https://github.com/heartcored98/transformer_anatomy) - Toolkit for finding and analyzing important attention heads in transformer-based models
@@ -271,6 +271,9 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert) - Collect BERT related resources
 - [Morizeyao / GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT tokenizer
 - [Separius / BERT-keras](https://github.com/Separius/BERT-keras) - Separius' BERT Keras implementation
+- [policeme / roberta-wwm-base-distill](https://github.com/policeme/roberta-wwm-base-distill) - A chinese Roberta wwm distillation model which was distilled from roberta-ext-wwm-large
+- [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers) - This is a list of BERT-related papers.
+- [terrifyzhao / bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
 - [Tencent / TurboTransformers](https://github.com/Tencent/TurboTransformers) - A fast and user-friendly runtime for transformer inference on CPU and GPU
 - [THUNLP / OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
 - [THUNLP / PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
@@ -287,6 +290,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [科学空间 / BERT-of-Theseus：基于模块替换的模型压缩方法](https://kexue.fm/archives/7575)
 - [科学空间 / 提速不掉点：基于词颗粒度的中文WoBERT](https://kexue.fm/archives/7758)
 - [李理 / XLNet原理](http://fancyerii.github.io/2019/06/30/xlnet-theory/)
+- [李如 / BERT蒸馏完全指南｜原理/技巧/代码](https://mp.weixin.qq.com/s/3dy1OmXIpqVrfggsF0RPXg)
 - [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
 - [NLP有品 / 关于BERT：你不知道的事](https://mp.weixin.qq.com/s/OujaLboNbf7CAHnHQdXHYA)
@@ -294,6 +298,7 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [Tobias Lee / BERT 的演进和应用](https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA)
 - [腾讯 / 内存用量1/20，速度加快80倍，腾讯QQ提出全新BERT蒸馏框架，未来将开源](https://mp.weixin.qq.com/s/W668zeWuNsBKV23cVR0zZQ)
 - [小米 / BERT适应业务遇难题？这是小米NLP的实战探索](https://mp.weixin.qq.com/s/XnKfqm-bj9tbPqf2lZJc0A)
+- [邱震宇 / 模型压缩实践收尾篇——模型蒸馏以及其他一些技巧实践小结](https://zhuanlan.zhihu.com/p/124215760)
 - [夕小瑶的卖萌屋 / 超一流 | 从XLNet的多流机制看最新预训练模型的研究进展](https://mp.weixin.qq.com/s/VfytCWa-h8CmUZW1RWAdnQ)
 - [夕小瑶的卖萌屋 / 如何优雅地编码文本中的位置信息？三种positioanl encoding方法简述](https://mp.weixin.qq.com/s/ENpXBYQ4hfdTLSXBIoF00Q)
 - [许维 / 深度长文：NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s/Rd3-ypRYiJObi-e2JDeOjQ)
