@@ -108,8 +108,6 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Unified Language Model Pre-training for Natural Language Understanding and Generation (CoRR 2019) [[paper]](https://arxiv.org/pdf/1905.03197.pdf)[[code]](https://github.com/microsoft/unilm) - ***UNILM*** 
 - Multi-Task Deep Neural Networks for Natural Language Understanding (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1441)[[code]](https://github.com/namisan/mt-dnn) - ***MT-DNN***
 - 75 Languages, 1 Model: Parsing Universal Dependencies Universally[[paper]](https://www.aclweb.org/anthology/D19-1279/)[[code]](https://github.com/hyperparticle/udify) - ***UDify***
-- ERNIE: Enhanced Language Representation with Informative Entities (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1139)[[code]](https://github.com/thunlp/ERNIE) - ***ERNIE (THU)***
-- ERNIE: Enhanced Representation through Knowledge Integration (CoRR 2019) [[paper]](https://arxiv.org/pdf/1904.09223.pdf) - ***ERNIE (Baidu)***
 - Defending Against Neural Fake News (CoRR 2019) [[paper]](https://arxiv.org/abs/1905.12616)[[code]](https://rowanzellers.com/grover/) - ***Grover***
 - ERNIE 2.0: A Continual Pre-training Framework for Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/pdf/1907.12412.pdf) - ***ERNIE 2.0 (Baidu)***
 - Pre-Training with Whole Word Masking for Chinese BERT (CoRR 2019) [[paper]](https://arxiv.org/pdf/1906.08101.pdf) - ***Chinese-BERT-wwm***
@@ -117,13 +115,11 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - XLNet: Generalized Autoregressive Pretraining for Language Understanding  (CoRR 2019) [[paper]](https://arxiv.org/pdf/1906.08237.pdf)[[code]](https://github.com/zihangdai/xlnet) - ***XLNet***
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach (CoRR 2019) [[paper]](https://arxiv.org/pdf/1907.11692.pdf) - ***RoBERTa***
 - NEZHA: Neural Contextualized Representation for Chinese Language Understanding (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.00204)[[code]](https://github.com/huawei-noah/Pretrained-Language-Model) - ***NEZHA***
-- K-BERT: Enabling Language Representation with Knowledge Graph (AAAI 2020) [[paper]](https://arxiv.org/abs/1909.07606)[[code]](https://github.com/autoliuweijie/K-BERT) - ***K-BERT***
 - Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.08053)[[code]](https://github.com/NVIDIA/Megatron-LM) - ***Megatron-LM***
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transforme (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.10683)[[code]](https://github.com/google-research/text-to-text-transfer-transformer) - ***T5***
 - BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (CoRR 2019) [[paper]](https://arxiv.org/abs/1910.13461) - ***BART***
 - ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1911.00720)[[code]](https://github.com/sinovation/zen) - ***ZEN***
 - The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service (CoRR 2019) [[paper]](https://arxiv.org/pdf/1911.09969.pdf)[[code]](https://github.com/jd-aig/nlp_baai) - ***BAAI-JDAI-BERT***
-- Knowledge Enhanced Contextual Word Representations (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1005/) - ***KnowBert***
 - UER: An Open-Source Toolkit for Pre-training Models (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-3041/)[[code]](https://github.com/dbiir/UER-py) - ***UER***
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (ICLR 2020) [[paper]](https://openreview.net/forum?id=r1xMH1BtvB) - ***ELECTRA***
 - StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding (ICLR 2020) [[paper]](https://arxiv.org/abs/1908.04577) - ***StructBERT***
@@ -142,6 +138,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Language Models are Few-Shot Learners (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.14165)[[code]](https://github.com/openai/gpt-3) - ***GPT-3***
 - SPECTER: Document-level Representation Learning using Citation-informed Transformers (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07180) - ***SPECTER***
 - Recipes for building an open-domain chatbot (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.13637)[[post]](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/)[[code]](https://github.com/facebookresearch/ParlAI) - ***Blender***
+- **Revisiting Pre-Trained Models for Chinese Natural Language Processing**. *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu*. (Findings of EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.13922)[[code]](https://github.com/ymcui/MacBERT)[[blog]](https://mp.weixin.qq.com/s/J7SRrhOe--kHuAI1V8oLRQ) - ***MacBERT***
 - PLATO-2: Towards Building an Open-Domain Chatbot via Curriculum Learning (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16779)[[code]](https://github.com/PaddlePaddle/Knover/tree/master/plato-2) - ***PLATO-2***
 - DeBERTa: Decoding-enhanced BERT with Disentangled Attention (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03654)[[code]](https://github.com/microsoft/DeBERTa) - ***DeBERTa***
 - **ConvBERT: Improving BERT with Span-based Dynamic Convolution**. *Zihang Jiang, Weihao Yu, Daquan Zhou, Yunpeng Chen, Jiashi Feng, Shuicheng Yan*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.02496)[[code]](https://github.com/yitu-opensource/ConvBert)
@@ -162,12 +159,28 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **CodeBERT:A Pre-Trained Model for Programming and Natural Languages**. *Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2002.08155)[[code]](https://github.com/microsoft/CodeBERT)
 
 ### Multilingual
-- Cross-lingual Language Model Pretraining (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.07291.pdf) - ***XLM***
-- MultiFiT: Efficient Multi-lingual Language Model Fine-tuning (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1572/)[[code]](https://github.com/n-waves/multifit) - ***MultiFit***
-- XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.11080)[[code]](https://github.com/google-research/xtreme) - ***XTREME***
-- Pre-training via Paraphrasing (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15020) - ***MARGE***
-- WikiBERT Models: Deep Transfer Learning for Many Languages (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.01538)[[code]](https://github.com/turkunlp/wikibert) - ***WikiBERT***
-- Language-agnostic BERT Sentence Embedding (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.01852) - ***LaBSE***
+- **Cross-lingual Language Model Pretraining**. *Guillaume Lample, Alexis Conneau*. (NeuIPS 2019) [[paper]](https://arxiv.org/abs/1901.07291)[[code]](https://github.com/facebookresearch/XLM) - ***XLM***
+- **Unsupervised Cross-lingual Representation Learning at Scale**. *Alexis Conneau, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzmán, Edouard Grave, Myle Ott, Luke Zettlemoyer, Veselin Stoyanov*. (ACL 2020) [[paper]](https://arxiv.org/abs/1911.02116) - ***XLM-R***
+- **Multilingual Denoising Pre-training for Neural Machine Translation**. *Yinhan Liu, Jiatao Gu, Naman Goyal, Xian Li, Sergey Edunov, Marjan Ghazvininejad, Mike Lewis, Luke Zettlemoyer*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.08210) - ***mBART***
+- **MultiFiT: Efficient Multi-lingual Language Model Fine-tuning**. *Julian Eisenschlos, Sebastian Ruder, Piotr Czapla, Marcin Kadras, Sylvain Gugger, Jeremy Howard*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1572/)[[code]](https://github.com/n-waves/multifit)
+- **XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization**. *Junjie Hu, Sebastian Ruder, Aditya Siddhant, Graham Neubig, Orhan Firat, Melvin Johnson*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2003.11080)[[code]](https://github.com/google-research/xtreme) - ***XTREME***
+- **Pre-training via Paraphrasing**. *Mike Lewis, Marjan Ghazvininejad, Gargi Ghosh, Armen Aghajanyan, Sida Wang, Luke Zettlemoyer*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15020) - ***MARGE***
+- **WikiBERT Models: Deep Transfer Learning for Many Languages**. *Sampo Pyysalo, Jenna Kanerva, Antti Virtanen, Filip Ginter*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.01538)[[code]](https://github.com/turkunlp/wikibert)
+- **Language-agnostic BERT Sentence Embedding**. *Fangxiaoyu Feng, Yinfei Yang, Daniel Cer, Naveen Arivazhagan, Wei Wang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.01852) - ***LaBSE***
+- **Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information**. *Zehui Lin, Xiao Pan, Mingxuan Wang, Xipeng Qiu, Jiangtao Feng, Hao Zhou, Lei Li*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.03142)[[code]](https://github.com/linzehui/mRASP) - ***mRASP***
+- **mT5: A massively multilingual pre-trained text-to-text transformer**. *Linting Xue, Noah Constant, Adam Roberts, Mihir Kale, Rami Al-Rfou, Aditya Siddhant, Aditya Barua, Colin Raffel*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.11934)[[code]](https://github.com/google-research/multilingual-t5)
+
+### Knowledge
+- **ERNIE: Enhanced Language Representation with Informative Entities**. *Zhengyan Zhang, Xu Han, Zhiyuan Liu, Xin Jiang, Maosong Sun, Qun Liu*. (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1139)[[code]](https://github.com/thunlp/ERNIE)
+- **ERNIE: Enhanced Representation through Knowledge Integration**. *Yu Sun, Shuohuan Wang, Yukun Li, Shikun Feng, Xuyi Chen, Han Zhang, Xin Tian, Danxiang Zhu, Hao Tian, Hua Wu*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.09223)
+- **Knowledge Enhanced Contextual Word Representations**. *Matthew E. Peters, Mark Neumann, Robert Logan, Roy Schwartz, Vidur Joshi, Sameer Singh, Noah A. Smith*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1005/) - ***KnowBert***
+- **K-BERT: Enabling Language Representation with Knowledge Graph**. *Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng, Ping Wang*. (AAAI 2020) [[paper]](https://arxiv.org/abs/1909.07606)[[code]](https://github.com/autoliuweijie/K-BERT)
+- **KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation**. *Xiaozhi Wang, Tianyu Gao, Zhaocheng Zhu, Zhengyan Zhang, Zhiyuan Liu, Juanzi Li, Jian Tang*. (TACL 2020) [[paper]](https://arxiv.org/abs/1911.06136)[[code]](https://github.com/THU-KEG/KEPLER)
+- **CoLAKE: Contextualized Language and Knowledge Embedding**. *Tianxiang Sun, Yunfan Shao, Xipeng Qiu, Qipeng Guo, Yaru Hu, Xuanjing Huang, Zheng Zhang*. (COLING 2020) [[paper]](https://arxiv.org/abs/2010.00309)[[code]](https://github.com/txsun1997/CoLAKE)
+- **Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning**. *Tao Shen, Yi Mao, Pengcheng He, Guodong Long, Adam Trischler, Weizhu Chen*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.14224)
+- **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**. *Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.01808)
+- **BERT-MK: Integrating Graph Contextualized Knowledge into Pre-trained Language Models**. *Bin He, Di Zhou, Jinghui Xiao, Xin Jiang, Qun Liu, Nicholas Jing Yuan, Tong Xu*. (EMNLP 2020) [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.207/)
+- **JAKET: Joint Pre-training of Knowledge Graph and Language Understanding**. *Donghan Yu, Chenguang Zhu, Yiming Yang, Michael Zeng*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.00796)
 
 ### Compression & Accelerating
 - **Distilling Task-Specific Knowledge from BERT into Simple Neural Networks**. *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.12136)
@@ -202,7 +215,6 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.10084)[[code]](https://github.com/UKPLab/sentence-transformers)
 - Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring (ICLR 2020) [[paper]](https://arxiv.org/abs/1905.01969)
 - Pre-training Tasks for Embedding-based Large-scale Retrieval (ICLR 2020) [[paper]](https://arxiv.org/abs/2002.03932)
-- K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.01808) - ***K-Adapter***
 - Keyword-Attentive Deep Semantic Matching (CoRR 2020) [[paper & code]](https://github.com/DataTerminatorX/Keyword-BERT) [[post]](https://zhuanlan.zhihu.com/p/112562420) - ***Keyword BERT***
 - Unified Multi-Criteria Chinese Word Segmentation with BERT (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.05808)
 - ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.06871)[[code]](https://github.com/jasonwu0731/ToD-BERT)
@@ -245,8 +257,9 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing**. *Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2002.12620)[[code]](https://github.com/airaria/TextBrewer)
 - **Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT**. *Zhiyong Wu, Yun Chen, Ben Kao, Qun Liu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.14786)[[pt code]](https://github.com/LividWo/Perturbed-Masking)[[keras code]](https://github.com/bojone/perturbed_masking)
 - **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
-- **Revisiting Pre-Trained Models for Chinese Natural Language Processing**. *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu*. (Findings of EMNLP) [[paper]](https://arxiv.org/abs/2004.13922)[[code]](https://github.com/ymcui/MacBERT) - ***MacBERT***
 - **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02329)
+- **Self-training Improves Pre-training for Natural Language Understanding**. *Jingfei Du, Edouard Grave, Beliz Gunel, Vishrav Chaudhary, Onur Celebi, Michael Auli, Ves Stoyanov, Alexis Conneau*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02194)[[related blog]](https://mp.weixin.qq.com/s/rCMFy08viSnLbqg-Yt91Sg)
+- **Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining**. *Zijun Sun, Chun Fan, Xiaofei Sun, Yuxian Meng, Fei Wu, Jiwei Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.08626)[[code]](https://github.com/ShannonAI/Neural-Semi-Supervised-Learning-for-Text-Classification)[[blog]](https://mp.weixin.qq.com/s/t7a_1cf1EFuoTYnm2gAYSw)
 
 ### Tutorial & Survey
 - **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
@@ -257,9 +270,10 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **Embeddings in Natural Language Processing**. *Mohammad Taher Pilehvar, Jose Camacho-Collados*. (2020) [[book]](http://josecamachocollados.com/book_embNLP_draft.pdf)
 
 ### Repository
+- [bojone / albert_zh](https://github.com/bojone/albert_zh) - 转换brightmart版的albert权重到Google版格式
 - [bojone / bert4keras](https://github.com/bojone/bert4keras) - bojone's (苏神) BERT Keras implementation
-- [brightmart/roberta_zh](https://github.com/brightmart/roberta_zh) - RoBERTa中文预训练模型
 - [brightmart / albert_zh](https://github.com/brightmart/albert_zh) - 海量中文预训练ALBERT模型
+- [brightmart / roberta_zh](https://github.com/brightmart/roberta_zh) - RoBERTa中文预训练模型
 - [CyberZHG / keras-bert](https://github.com/CyberZHG/keras-bert) - CyberZHG's BERT Keras implementation
 - [Ethan-yt / GuwenBERT](https://github.com/Ethan-yt/guwenbert) - A Pre-trained Language Model for Classical Chinese (Literary Chinese)
 - [graykode / gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) - Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
@@ -272,13 +286,15 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - [Morizeyao / GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT tokenizer
 - [Separius / BERT-keras](https://github.com/Separius/BERT-keras) - Separius' BERT Keras implementation
 - [policeme / roberta-wwm-base-distill](https://github.com/policeme/roberta-wwm-base-distill) - A chinese Roberta wwm distillation model which was distilled from roberta-ext-wwm-large
-- [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers) - This is a list of BERT-related papers.
 - [terrifyzhao / bert-utils](https://github.com/terrifyzhao/bert-utils) - One line generate BERT's sent2vec for classification or matching task
 - [Tencent / TurboTransformers](https://github.com/Tencent/TurboTransformers) - A fast and user-friendly runtime for transformer inference on CPU and GPU
 - [THUNLP / OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
 - [THUNLP / PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [THUNLP-AIPoet / BERT-CCPoem](https://github.com/THUNLP-AIPoet/BERT-CCPoem) - A BERT-based pre-trained model particularly for Chinese classical poetry
+- [tomohideshibata / BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers) - This is a list of BERT-related papers.
+- [TsinghuaAI / CPM-Generate](https://github.com/TsinghuaAI/CPM-Generate) - Chinese Pre-Trained Language Models (CPM-LM) Version-I
 - [valuesimplex / FinBERT](https://github.com/valuesimplex/FinBERT)
+- [ymcui / Chinese-ELECTRA](https://github.com/ymcui/Chinese-ELECTRA) - Pre-trained Chinese ELECTRA（中文ELECTRA预训练模型）
 - [ymcui / Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet) - Pre-Trained Chinese XLNet（中文XLNet预训练模型）
 - [ZhuiyiTechnology / pretrained-models](https://github.com/ZhuiyiTechnology/pretrained-models) - Open Language Pre-trained Model Zoo
 - [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert) - A bert for retrieval and generation
@@ -286,11 +302,19 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 
 ### Chinese Blog
 - [Andy Yang / BERT 瘦身之路：Distillation，Quantization，Pruning](https://zhuanlan.zhihu.com/p/86900556)
+- [RUC AI Box / BERT meet Knowledge Graph：预训练模型与知识图谱相结合的研究进展](https://mp.weixin.qq.com/s/3hAm2_Lxgf0o7BjRd7UxIA)
 - [阿里 / BERT蒸馏在垃圾舆情识别中的探索](https://mp.weixin.qq.com/s/ljYPSK20ce9EoPbfGlaCrw)
+- [科学空间 / 从语言模型到Seq2Seq：Transformer如戏，全靠Mask](https://kexue.fm/archives/6933)
+- [科学空间 / 抛开约束，增强模型：一行代码提升albert表现](https://spaces.ac.cn/archives/7187)
 - [科学空间 / BERT-of-Theseus：基于模块替换的模型压缩方法](https://kexue.fm/archives/7575)
 - [科学空间 / 提速不掉点：基于词颗粒度的中文WoBERT](https://kexue.fm/archives/7758)
+- [科学空间 / 必须要GPT3吗？不，BERT的MLM模型也能小样本学习](https://spaces.ac.cn/archives/7764)
+- [科学空间 / 用ALBERT和ELECTRA之前，请确认你真的了解它们](https://kexue.fm/archives/7846)
 - [李理 / XLNet原理](http://fancyerii.github.io/2019/06/30/xlnet-theory/)
+- [李如 / ELECTRA: 超越BERT, 19年最佳NLP预训练模型](https://zhuanlan.zhihu.com/p/89763176)
+- [李如 / 谈谈我对ELECTRA源码放出的看法](https://zhuanlan.zhihu.com/p/112813856)
 - [李如 / BERT蒸馏完全指南｜原理/技巧/代码](https://mp.weixin.qq.com/s/3dy1OmXIpqVrfggsF0RPXg)
+- [刘群 / 预训练语言模型研究进展和趋势展望](https://mp.weixin.qq.com/s/yQV8WK2ZfWt4FGEZ1ICCCQ)
 - [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
 - [NLP有品 / 关于BERT：你不知道的事](https://mp.weixin.qq.com/s/OujaLboNbf7CAHnHQdXHYA)
