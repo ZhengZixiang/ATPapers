@@ -78,6 +78,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Efficient Transformers: A Survey**. *Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.06732)
 - **Rethinking Attention with Performers**. *Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.14794)[[code]](https://github.com/google-research/google-research/tree/master/performer/fast_self_attention)[[pytorch version]](https://github.com/lucidrains/performer-pytorch)
 - **Long Range Arena: A Benchmark for Efficient Transformers**. *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.04006)[[code]](https://github.com/google-research/long-range-arena)
+- **Very Deep Transformers for Neural Machine Translation**. *Xiaodong Liu, Kevin Duh, Liyuan Liu, Jianfeng Gao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.07772)[[code]](https://github.com/namisan/exdeep-nmt)
+- **DeLighT: Very Deep and Light-weight Transformer**. *Sachin Mehta, Marjan Ghazvininejad, Srinivasan Iyer, Luke Zettlemoyer, Hannaneh Hajishirzi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.00623)[[code]](https://github.com/sacmehta/delight)
 
 ### Chinese Blog
 - [Kaiyuan Gao / Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
@@ -138,6 +140,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.12804)[[code]](https://github.com/microsoft/unilm) - ***UNILMv2***
 - Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04092)[[code]](https://github.com/ChunyuanLI/Optimus) - ***Optimus***
 - **SegaBERT: Pre-training of Segment-aware BERT for Language Understanding**. *He Bai, Peng Shi, Jimmy Lin, Luchen Tan, Kun Xiong, Wen Gao, Ming Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.14996)
+- **Adversarial Training for Large Neural Language Models**. *Xiaodong Liu, Hao Cheng, Pengcheng He, Weizhu Chen, Yu Wang, Hoifung Poon, Jianfeng Gao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.08994)[[code]](https://github.com/namisan/mt-dnn) - ***ALUM***
 - MPNet: Masked and Permuted Pre-training for Language Understanding (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.09297)[[code]](https://github.com/microsoft/MPNet) - ***MPNet***
 - Language Models are Few-Shot Learners (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.14165)[[code]](https://github.com/openai/gpt-3) - ***GPT-3***
 - SPECTER: Document-level Representation Learning using Citation-informed Transformers (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07180) - ***SPECTER***
@@ -163,6 +166,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. *VD-BERT: A Unified Vision and Dialog Transformer with BERT*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.13278)[[code]](https://github.com/salesforce/VD-BERT)
 - **CodeBERT:A Pre-Trained Model for Programming and Natural Languages**. *Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2002.08155)[[code]](https://github.com/microsoft/CodeBERT)
 - **VL-BERT: Pre-training of Generic Visual-Linguistic Representatio**. *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai*. (ICLR 2020) [[paper]](https://arxiv.org/abs/1908.08530)[[code]](https://github.com/jackroos/VL-BERT)
+- **ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph**. *Fei Yu, Jiji Tang, Weichong Yin, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16934)
+- **Large-Scale Adversarial Training for Vision-and-Language Representation Learning**. *Zhe Gan, Yen-Chun Chen, Linjie Li, Chen Zhu, Yu Cheng, Jingjing Liu*. (NeurIPS 2020) [[paper]](https://arxiv.org/abs/2006.06195) - ***VILLA***
 
 ### Multilingual
 - **Cross-lingual Language Model Pretraining**. *Guillaume Lample, Alexis Conneau*. (NeuIPS 2019) [[paper]](https://arxiv.org/abs/1901.07291)[[code]](https://github.com/facebookresearch/XLM) - ***XLM***
@@ -220,6 +225,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
 - GPT-based Generation for Classical Chinese Poetry (CoRR 2019) [[paper]](https://arxiv.org/abs/1907.00151)
+- **BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer**. *Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, Peng Jiang*. (CIKM 2019) [[paper]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)
 - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.10084)[[code]](https://github.com/UKPLab/sentence-transformers)
 - Poly-encoders: Transformer Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring (ICLR 2020) [[paper]](https://arxiv.org/abs/1905.01969)
 - Pre-training Tasks for Embedding-based Large-scale Retrieval (ICLR 2020) [[paper]](https://arxiv.org/abs/2002.03932)
@@ -268,6 +274,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Does BERT Solve Commonsense Task via Commonsense Knowledge?**. *Leyang Cui, Sijie Cheng, Yu Wu, Yue Zhang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.03945)
 - **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02329)
 - **Self-training Improves Pre-training for Natural Language Understanding**. *Jingfei Du, Edouard Grave, Beliz Gunel, Vishrav Chaudhary, Onur Celebi, Michael Auli, Ves Stoyanov, Alexis Conneau*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02194)[[related blog]](https://mp.weixin.qq.com/s/rCMFy08viSnLbqg-Yt91Sg)
+- **Commonsense knowledge adversarial dataset that challenges ELECTRA**. *Gongqi Lin, Yuan Miao, Xiaoyong Yang, Wenwu Ou, Lizhen Cui, Wei Guo, Chunyan Miao*. (ICARCV 2020) [[paper]](https://arxiv.org/abs/2010.13049)
 - **Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining**. *Zijun Sun, Chun Fan, Xiaofei Sun, Yuxian Meng, Fei Wu, Jiwei Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.08626)[[code]](https://github.com/ShannonAI/Neural-Semi-Supervised-Learning-for-Text-Classification)[[blog]](https://mp.weixin.qq.com/s/t7a_1cf1EFuoTYnm2gAYSw)
 - **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting**. *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.12651)[[code]](https://github.com/Sanyuan-Chen/RecAdam)[[blog]](https://mp.weixin.qq.com/s/M89mqFxa7_iK3lzlEgLzAQ)
 
