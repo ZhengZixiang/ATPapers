@@ -24,6 +24,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Are Sixteen Heads Really Better than One?**. *Paul Michel, Omer Levy, Graham Neubig*. (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1905.10650)
 - **Attention is not Explanation**. *Sarthak Jain, Byron C. Wallace*. (NAACL 2019) [[paper]](https://arxiv.org/abs/1902.10186)
 - **Attention is not not Explanation**. *Sarah Wiegreffe, Yuval Pinter*. (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.04626)
+- **Is Attention Interpretable?**. *Sofia Serrano, Noah A. Smith*. (ACL 2019) [[paper]](https://arxiv.org/abs/1906.03731)
 - **Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?**. *Cansu Sen, Thomas Hartvigsen, Biao Yin, Xiangnan Kong, Elke Rundensteiner*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.419/) - ***YELP-HAT***
 
 ### Survey & Review
@@ -33,6 +34,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
 ### Chinese Blog
 - [张俊林 / 深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
+- [哈工大SCIR / Attention！注意力机制可解释吗？](https://mp.weixin.qq.com/s/bCLLNLA2HB23v0jx3X2rIw)
 - [科学空间 / 为节约而生：从标准Attention到稀疏Attention](https://kexue.fm/archives/6853)
 - [科学空间 / Google新作Synthesizer：我们还不够了解自注意力](https://kexue.fm/archives/7430)
 - [科学空间 / 线性Attention的探索：Attention必须有个Softmax吗？](https://kexue.fm/archives/7546)
@@ -74,6 +76,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Multi-Head Attention: Collaborate Instead of Concatenate**. *Jean-Baptiste Cordonnier, Andreas Loukas, Martin Jaggi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16362)[[code]](https://github.com/epfml/collaborative-attention)
 - **Big Bird: Transformers for Longer Sequences**. *Big Bird: Transformers for Longer Sequences*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.14062)
 - **Efficient Transformers: A Survey**. *Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.06732)
+- **Rethinking Attention with Performers**. *Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, David Belanger, Lucy Colwell, Adrian Weller*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.14794)[[code]](https://github.com/google-research/google-research/tree/master/performer/fast_self_attention)[[pytorch version]](https://github.com/lucidrains/performer-pytorch)
+- **Long Range Arena: A Benchmark for Efficient Transformers**. *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.04006)[[code]](https://github.com/google-research/long-range-arena)
 
 ### Chinese Blog
 - [Kaiyuan Gao / Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
@@ -142,21 +146,23 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - PLATO-2: Towards Building an Open-Domain Chatbot via Curriculum Learning (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.16779)[[code]](https://github.com/PaddlePaddle/Knover/tree/master/plato-2) - ***PLATO-2***
 - DeBERTa: Decoding-enhanced BERT with Disentangled Attention (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.03654)[[code]](https://github.com/microsoft/DeBERTa) - ***DeBERTa***
 - **ConvBERT: Improving BERT with Span-based Dynamic Convolution**. *Zihang Jiang, Weihao Yu, Daquan Zhou, Yunpeng Chen, Jiashi Feng, Shuicheng Yan*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.02496)[[code]](https://github.com/yitu-opensource/ConvBert)
+- **AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization**. *Xinsong Zhang, Hang Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.11869)
+- **CharBERT: Character-aware Pre-trained Language Model**. *Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu*. (COLING 2020) [[paper]](https://arxiv.org/abs/2011.01513)[[code]](https://github.com/wtma/CharBERT)[[blog]](https://mp.weixin.qq.com/s/jY2IE-uxn38aFvjPNiwWGw)
 
 ### Multi-Modal
-- VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
-- Learning Video Representations using Contrastive Bidirectional Transformer (CoRR 2019) [[paper]](https://arxiv.org/abs/1906.05743) - ***CBT***
-- ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1908.02265)[[code]](https://github.com/jiasenlu/vilbert_beta)
-- VisualBERT: A Simple and Performant Baseline for Vision and Language (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.03557)[[code]](https://github.com/uclanlp/visualbert)
-- Fusion of Detected Objects in Text for Visual Question Answering (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1219/)[[code]](https://github.com/google-research/
-language/tree/master/language/question_answering/b2t2) - ***B2T2***
-- Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.06066)
-- LXMERT: Learning Cross-Modality Encoder Representations from Transformers (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1514/)[[code]](https://github.com/airsplay/lxmert)
-- VL-BERT: Pre-training of Generic Visual-Linguistic Representatio (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.08530)[[code]](https://github.com/jackroos/VL-BERT)
-- UNITER: Learning UNiversal Image-TExt Representations (CoRR 2019) [[paper]](https://arxiv.org/abs/1909.11740)
-- FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval （SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.09801) - ***FashionBERT***
-- VD-BERT: A Unified Vision and Dialog Transformer with BERT (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.13278) - ***VD-BERT***
+- **VideoBERT: A Joint Model for Video and Language Representation Learning**. *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid*. (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
+- **Learning Video Representations using Contrastive Bidirectional Transformer**. *Chen Sun, Fabien Baradel, Kevin Murphy, Cordelia Schmid*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1906.05743) - ***CBT***
+- **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks**. *Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee*. (NeurIPS 2019) [[paper]](https://arxiv.org/abs/1908.02265)[[code]](https://github.com/jiasenlu/vilbert_beta)
+- **VisualBERT: A Simple and Performant Baseline for Vision and Language**. *Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, Kai-Wei Chang*. (CoRR 2019) [[paper]](https://arxiv.org/abs/1908.03557)[[code]](https://github.com/uclanlp/visualbert)
+- **Fusion of Detected Objects in Text for Visual Question Answering**. *Chris Alberti, Jeffrey Ling, Michael Collins, David Reitter*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1219/)[[code]](https://github.com/google-research/language/tree/master/language/question_answering/b2t2) - ***B2T2***
+- **LXMERT: Learning Cross-Modality Encoder Representations from Transformers**. *Hao Tan, Mohit Bansal*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1514/)[[code]](https://github.com/airsplay/lxmert)
+- **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training**. *Gen Li, Nan Duan, Yuejian Fang, Ming Gong, Daxin Jiang, Ming Zhou*. (AAAI 2020) [[paper]](https://arxiv.org/abs/1908.06066)
+- **FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval**. *Dehong Gao, Linbo Jin, Ben Chen, Minghui Qiu, Peng Li, Yi Wei, Yi Hu, Hao Wang*. （SIGIR 2020) [[paper]](https://arxiv.org/abs/2005.09801)
+- **UNITER: Learning UNiversal Image-TExt Representations**. *Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu*. (ECCV 2020) [[paper]](https://arxiv.org/abs/1909.11740)[[code]](https://github.com/ChenRocks/UNITER)
+- **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**. *Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, Jianfeng Gao*. (ECCV 2020) [[paper]](https://arxiv.org/abs/2004.06165)[[code]](https://github.com/microsoft/Oscar)
+- **VD-BERT: A Unified Vision and Dialog Transformer with BERT**. *VD-BERT: A Unified Vision and Dialog Transformer with BERT*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.13278)[[code]](https://github.com/salesforce/VD-BERT)
 - **CodeBERT:A Pre-Trained Model for Programming and Natural Languages**. *Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2002.08155)[[code]](https://github.com/microsoft/CodeBERT)
+- **VL-BERT: Pre-training of Generic Visual-Linguistic Representatio**. *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai*. (ICLR 2020) [[paper]](https://arxiv.org/abs/1908.08530)[[code]](https://github.com/jackroos/VL-BERT)
 
 ### Multilingual
 - **Cross-lingual Language Model Pretraining**. *Guillaume Lample, Alexis Conneau*. (NeuIPS 2019) [[paper]](https://arxiv.org/abs/1901.07291)[[code]](https://github.com/facebookresearch/XLM) - ***XLM***
@@ -208,6 +214,8 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **DynaBERT: Dynamic BERT with Adaptive Width and Depth**. *Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04037)
 - **SqueezeBERT: What can computer vision teach NLP about efficient neural networks?**. *Forrest N. Iandola, Albert E. Shaw, Ravi Krishna, Kurt W. Keutzer*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.11316)
 - **Optimal Subarchitecture Extraction For BERT**. *Adrian de Wynter, Daniel J. Perry*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.10499)[[code]](https://github.com/alexa/bort/) - ***Bort***
+- **TernaryBERT: Distillation-aware Ultra-low Bit BERT**. *Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang, Qun Liu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2009.12812)[[code]]()[[blog]](https://mp.weixin.qq.com/s/jHfUAe1Pr6HpARzRw2Y0hw)
+- **BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance**. *Jianquan Li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang, Yaohong Jin*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.06133)[[code]](https://github.com/lxk00/BERT-EMD)[[blog]](https://mp.weixin.qq.com/s/w1sT126jS_lZ_Q3cRi6fGQ)
 
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
@@ -257,9 +265,11 @@ language/tree/master/language/question_answering/b2t2) - ***B2T2***
 - **TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing**. *Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2002.12620)[[code]](https://github.com/airaria/TextBrewer)
 - **Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT**. *Zhiyong Wu, Yun Chen, Ben Kao, Qun Liu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.14786)[[pt code]](https://github.com/LividWo/Perturbed-Masking)[[keras code]](https://github.com/bojone/perturbed_masking)
 - **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
+- **Does BERT Solve Commonsense Task via Commonsense Knowledge?**. *Leyang Cui, Sijie Cheng, Yu Wu, Yue Zhang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.03945)
 - **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02329)
 - **Self-training Improves Pre-training for Natural Language Understanding**. *Jingfei Du, Edouard Grave, Beliz Gunel, Vishrav Chaudhary, Onur Celebi, Michael Auli, Ves Stoyanov, Alexis Conneau*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02194)[[related blog]](https://mp.weixin.qq.com/s/rCMFy08viSnLbqg-Yt91Sg)
 - **Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining**. *Zijun Sun, Chun Fan, Xiaofei Sun, Yuxian Meng, Fei Wu, Jiwei Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.08626)[[code]](https://github.com/ShannonAI/Neural-Semi-Supervised-Learning-for-Text-Classification)[[blog]](https://mp.weixin.qq.com/s/t7a_1cf1EFuoTYnm2gAYSw)
+- **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting**. *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.12651)[[code]](https://github.com/Sanyuan-Chen/RecAdam)[[blog]](https://mp.weixin.qq.com/s/M89mqFxa7_iK3lzlEgLzAQ)
 
 ### Tutorial & Survey
 - **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
