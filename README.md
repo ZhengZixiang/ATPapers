@@ -26,6 +26,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Attention is not not Explanation**. *Sarah Wiegreffe, Yuval Pinter*. (EMNLP 2019) [[paper]](https://arxiv.org/abs/1908.04626)
 - **Is Attention Interpretable?**. *Sofia Serrano, Noah A. Smith*. (ACL 2019) [[paper]](https://arxiv.org/abs/1906.03731)
 - **Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?**. *Cansu Sen, Thomas Hartvigsen, Biao Yin, Xiangnan Kong, Elke Rundensteiner*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.419/) - ***YELP-HAT***
+- **The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?**. *Jasmijn Bastings, Katja Filippova*. (BlackboxNLP 2020) [[paper]](https://arxiv.org/abs/2010.05607)
+- **Attention is Not Only a Weight: Analyzing Transformers with Vector Norms**. *Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.10102)[[code]](https://github.com/gorokoba560/norm-analysis-of-transformer)
 
 ### Survey & Review
 - **An Attentive Survey of Attention Models**. *Sneha Chaudhari, Gungor Polatkan, Rohan Ramanath, Varun Mithal*. (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
@@ -151,6 +153,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **ConvBERT: Improving BERT with Span-based Dynamic Convolution**. *Zihang Jiang, Weihao Yu, Daquan Zhou, Yunpeng Chen, Jiashi Feng, Shuicheng Yan*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.02496)[[code]](https://github.com/yitu-opensource/ConvBert)
 - **AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization**. *Xinsong Zhang, Hang Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.11869)
 - **CharBERT: Character-aware Pre-trained Language Model**. *Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu*. (COLING 2020) [[paper]](https://arxiv.org/abs/2011.01513)[[code]](https://github.com/wtma/CharBERT)[[blog]](https://mp.weixin.qq.com/s/jY2IE-uxn38aFvjPNiwWGw)
+- **MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining**. *Wei Zhu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.08539)
 
 ### Multi-Modal
 - **VideoBERT: A Joint Model for Video and Language Representation Learning**. *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid*. (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
@@ -180,6 +183,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Language-agnostic BERT Sentence Embedding**. *Fangxiaoyu Feng, Yinfei Yang, Daniel Cer, Naveen Arivazhagan, Wei Wang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.01852) - ***LaBSE***
 - **Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information**. *Zehui Lin, Xiao Pan, Mingxuan Wang, Xipeng Qiu, Jiangtao Feng, Hao Zhou, Lei Li*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.03142)[[code]](https://github.com/linzehui/mRASP) - ***mRASP***
 - **mT5: A massively multilingual pre-trained text-to-text transformer**. *Linting Xue, Noah Constant, Adam Roberts, Mihir Kale, Rami Al-Rfou, Aditya Siddhant, Aditya Barua, Colin Raffel*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.11934)[[code]](https://github.com/google-research/multilingual-t5)
+- **InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training**. *Zewen Chi, Li Dong, Furu Wei, Nan Yang, Saksham Singhal, Wenhui Wang, Xia Song, Xian-Ling Mao, Heyan Huang, Ming Zhou* (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.07834)[[code]](https://github.com/microsoft/unilm/tree/master/infoxlm)
 
 ### Knowledge
 - **ERNIE: Enhanced Language Representation with Informative Entities**. *Zhengyan Zhang, Xu Han, Zhiyuan Liu, Xin Jiang, Maosong Sun, Qun Liu*. (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1139)[[code]](https://github.com/thunlp/ERNIE)
@@ -242,6 +246,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - Probing Neural Network Comprehension of Natural Language Arguments (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1459.pdf)[[code]](https://github.com/IKMLab/arct2)
 - Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1334/) [[code]](https://github.com/tommccoy1/hans)
 - To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks (RepL4NLP@ACL 2019) [[paper]](https://www.aclweb.org/anthology/W19-4302/)
+- **BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model**. *Alex Wang, Kyunghyun Cho*. (NeuralGen 2019) [[paper]](https://arxiv.org/abs/1902.04094)
 - Multi-Head Multi-Layer Attention to Deep Language Representations for Grammatical Error Detection (CICLing 2019) [[paper]](https://arxiv.org/abs/1904.07334)
 - Understanding the Behaviors of BERT in Ranking (CoRR 2019) [[paper]](https://arxiv.org/abs/1904.07531)
 - How to Fine-Tune BERT for Text Classification? (CoRR 2019) [[paper]](https://arxiv.org/abs/1905.05583)
@@ -271,7 +276,10 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing**. *Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2002.12620)[[code]](https://github.com/airaria/TextBrewer)
 - **Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT**. *Zhiyong Wu, Yun Chen, Ben Kao, Qun Liu*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.14786)[[pt code]](https://github.com/LividWo/Perturbed-Masking)[[keras code]](https://github.com/bojone/perturbed_masking)
 - **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
+- **Variance-reduced Language Pretraining via a Mask Proposal Network**. *Liang Chen*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.05333)
 - **Does BERT Solve Commonsense Task via Commonsense Knowledge?**. *Leyang Cui, Sijie Cheng, Yu Wu, Yue Zhang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.03945)
+- **Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference**. *Timo Schick, Hinrich Schütze*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.07676)[[code]](https://github.com/timoschick/pet)
+- **It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners**. *Timo Schick, Hinrich Schütze*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.07118)[[code]](https://github.com/timoschick/pet)
 - **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02329)
 - **Self-training Improves Pre-training for Natural Language Understanding**. *Jingfei Du, Edouard Grave, Beliz Gunel, Vishrav Chaudhary, Onur Celebi, Michael Auli, Ves Stoyanov, Alexis Conneau*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02194)[[related blog]](https://mp.weixin.qq.com/s/rCMFy08viSnLbqg-Yt91Sg)
 - **Commonsense knowledge adversarial dataset that challenges ELECTRA**. *Gongqi Lin, Yuan Miao, Xiaoyong Yang, Wenwu Ou, Lizhen Cui, Wei Guo, Chunyan Miao*. (ICARCV 2020) [[paper]](https://arxiv.org/abs/2010.13049)
