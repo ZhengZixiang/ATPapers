@@ -83,6 +83,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Long Range Arena: A Benchmark for Efficient Transformers**. *Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.04006)[[code]](https://github.com/google-research/long-range-arena)
 - **Very Deep Transformers for Neural Machine Translation**. *Xiaodong Liu, Kevin Duh, Liyuan Liu, Jianfeng Gao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.07772)[[code]](https://github.com/namisan/exdeep-nmt)
 - **DeLighT: Very Deep and Light-weight Transformer**. *Sachin Mehta, Marjan Ghazvininejad, Srinivasan Iyer, Luke Zettlemoyer, Hannaneh Hajishirzi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.00623)[[code]](https://github.com/sacmehta/delight)
+- **FastFormers: Highly Efficient Transformer Models for Natural Language Understanding**. *Young Jin Kim, Hany Hassan Awadalla*. (SustaiNLP 2020 at EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.13382)[[code]](https://github.com/microsoft/fastformers)
 
 ### Chinese Blog
 - [Kaiyuan Gao / Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
@@ -241,7 +242,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering (ACL 2020) [[paper]](https://arxiv.org/abs/2005.00697)[[code]](https://github.com/StonyBrookNLP/deformer) - ***DeFormer***
 - BLEURT: Learning Robust Metrics for Text Generation (ACL 2020) [[paper]](https://arxiv.org/abs/2004.04696)[[code]](https://github.com/google-research/bleurt) - ***BLEURT***
 - Context-Aware Document Term Weighting for Ad-Hoc Search (WWW 2020) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380258)[[code]](https://github.com/AdeDZY/DeepCT) - ***HDCT***
-- **E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce**. *Denghui Zhang, Zixuan Yuan, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong*. [[paper]](https://arxiv.org/abs/2009.02835)
+- **E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce**. *Denghui Zhang, Zixuan Yuan, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.02835)
+- **Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks**. *Nandan Thakur, Nils Reimers, Johannes Daxenberger, Iryna Gurevych*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.08240)
+- **CogLTX: Applying BERT to Long Texts**. *Ming Ding, Chang Zhou, Hongxia Yang, Jie Tang*. (NeurIPS 2020) [[paper]](http://keg.cs.tsinghua.edu.cn/jietang/publications/NIPS20-Ding-et-al-CogLTX.pdf)[[code]](https://github.com/Sleepychord/CogLTX)
 
 ### Analysis & Tools
 - Probing Neural Network Comprehension of Natural Language Arguments (ACL 2019) [[paper]](https://www.aclweb.org/anthology/P19-1459.pdf)[[code]](https://github.com/IKMLab/arct2)
@@ -279,13 +282,16 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Rethinking Positional Encoding in Language Pre-training**. *Guolin Ke, Di He, Tie-Yan Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2006.15595)[[code]](https://github.com/guolinke/TUPE) - ***TUPE***
 - **Variance-reduced Language Pretraining via a Mask Proposal Network**. *Liang Chen*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.05333)
 - **Does BERT Solve Commonsense Task via Commonsense Knowledge?**. *Leyang Cui, Sijie Cheng, Yu Wu, Yue Zhang*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.03945)
-- **Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference**. *Timo Schick, Hinrich Schütze*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.07676)[[code]](https://github.com/timoschick/pet)
+- **Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference**. *Timo Schick, Hinrich Schütze*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.07676)[[code]](https://github.com/timoschick/pet) - ***PET***
 - **It’s Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners**. *Timo Schick, Hinrich Schütze*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.07118)[[code]](https://github.com/timoschick/pet)
+- **Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification**. *Timo Schick, Helmut Schmid, Hinrich Schütze*. (COLING 2020) [[paper]](https://arxiv.org/abs/2010.13641)[[code]](https://github.com/timoschick/pet)
 - **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02329)
 - **Self-training Improves Pre-training for Natural Language Understanding**. *Jingfei Du, Edouard Grave, Beliz Gunel, Vishrav Chaudhary, Onur Celebi, Michael Auli, Ves Stoyanov, Alexis Conneau*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.02194)[[related blog]](https://mp.weixin.qq.com/s/rCMFy08viSnLbqg-Yt91Sg)
 - **Commonsense knowledge adversarial dataset that challenges ELECTRA**. *Gongqi Lin, Yuan Miao, Xiaoyong Yang, Wenwu Ou, Lizhen Cui, Wei Guo, Chunyan Miao*. (ICARCV 2020) [[paper]](https://arxiv.org/abs/2010.13049)
 - **Neural Semi-supervised Learning for Text Classification Under Large-Scale Pretraining**. *Zijun Sun, Chun Fan, Xiaofei Sun, Yuxian Meng, Fei Wu, Jiwei Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.08626)[[code]](https://github.com/ShannonAI/Neural-Semi-Supervised-Learning-for-Text-Classification)[[blog]](https://mp.weixin.qq.com/s/t7a_1cf1EFuoTYnm2gAYSw)
 - **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting**. *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.12651)[[code]](https://github.com/Sanyuan-Chen/RecAdam)[[blog]](https://mp.weixin.qq.com/s/M89mqFxa7_iK3lzlEgLzAQ)
+- **To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging**. *Kasturi Bhattacharjee, Miguel Ballesteros, Rishita Anubhai, Smaranda Muresan, Jie Ma, Faisal Ladhak, Yaser Al-Onaizan*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.14042)
+- **Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization**. *Tristan Thrush, Ethan Wilcox, Roger Levy*. (BlackboxNLP 2020) [[paper]](https://arxiv.org/abs/2011.02417)[[code]](https://github.com/TristanThrush/few-shot-lm-learning)
 
 ### Tutorial & Survey
 - **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
