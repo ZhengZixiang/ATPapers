@@ -292,6 +292,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting**. *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.12651)[[code]](https://github.com/Sanyuan-Chen/RecAdam)[[blog]](https://mp.weixin.qq.com/s/M89mqFxa7_iK3lzlEgLzAQ)
 - **To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging**. *Kasturi Bhattacharjee, Miguel Ballesteros, Rishita Anubhai, Smaranda Muresan, Jie Ma, Faisal Ladhak, Yaser Al-Onaizan*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.14042)
 - **Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization**. *Tristan Thrush, Ethan Wilcox, Roger Levy*. (BlackboxNLP 2020) [[paper]](https://arxiv.org/abs/2011.02417)[[code]](https://github.com/TristanThrush/few-shot-lm-learning)
+- **On the Sentence Embeddings from Pre-trained Language Models**. *Bohan Li, Hao Zhou, Junxian He, Mingxuan Wang, Yiming Yang, Lei Li*. (EMNLP 2020) [[paper]](https://arxiv.org/pdf/2011.05864.pdf)[[code]](https://github.com/bohanli/BERT-flow)
 
 ### Tutorial & Survey
 - **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
@@ -346,6 +347,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [李如 / ELECTRA: 超越BERT, 19年最佳NLP预训练模型](https://zhuanlan.zhihu.com/p/89763176)
 - [李如 / 谈谈我对ELECTRA源码放出的看法](https://zhuanlan.zhihu.com/p/112813856)
 - [李如 / BERT蒸馏完全指南｜原理/技巧/代码](https://mp.weixin.qq.com/s/3dy1OmXIpqVrfggsF0RPXg)
+- [李如 / BERT-flow｜CMUx字节推出简单易用的文本表示新SOTA！](https://mp.weixin.qq.com/s/MavPYIEO2xxXPjvDl104Fw)
 - [刘群 / 预训练语言模型研究进展和趋势展望](https://mp.weixin.qq.com/s/yQV8WK2ZfWt4FGEZ1ICCCQ)
 - [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
