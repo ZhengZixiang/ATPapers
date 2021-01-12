@@ -35,6 +35,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### English Blog
 - [Illustrated: Self-Attention](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
 ### Chinese Blog
+- [JayLou / NLP中的Attention注意力机制+Transformer详解](https://zhuanlan.zhihu.com/p/53682800)
 - [张俊林 / 深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
 - [哈工大SCIR / Attention！注意力机制可解释吗？](https://mp.weixin.qq.com/s/bCLLNLA2HB23v0jx3X2rIw)
 - [科学空间 / 为节约而生：从标准Attention到稀疏Attention](https://kexue.fm/archives/6853)
