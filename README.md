@@ -299,7 +299,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging**. *Kasturi Bhattacharjee, Miguel Ballesteros, Rishita Anubhai, Smaranda Muresan, Jie Ma, Faisal Ladhak, Yaser Al-Onaizan*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.14042)
 - **Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization**. *Tristan Thrush, Ethan Wilcox, Roger Levy*. (BlackboxNLP 2020) [[paper]](https://arxiv.org/abs/2011.02417)[[code]](https://github.com/TristanThrush/few-shot-lm-learning)
 - **On the Sentence Embeddings from Pre-trained Language Models**. *Bohan Li, Hao Zhou, Junxian He, Mingxuan Wang, Yiming Yang, Lei Li*. (EMNLP 2020) [[paper]](https://arxiv.org/pdf/2011.05864.pdf)[[code]](https://github.com/bohanli/BERT-flow)
-- **Using Prior Knowledge to Guide BERT's Attention in Semantic Textual Matching Tasks**. *Tingyu Xia, Yue Wang, Yuan Tian, Yi Chang*. () [[paper]](https://arxiv.org/abs/2102.10934)[[code]](https://github.com/xiatingyu/Bert_sim)
+- **Using Prior Knowledge to Guide BERT's Attention in Semantic Textual Matching Tasks**. *Tingyu Xia, Yue Wang, Yuan Tian, Yi Chang*. (WWW 2021) [[paper]](https://arxiv.org/abs/2102.10934)[[code]](https://github.com/xiatingyu/Bert_sim)
 
 ### Tutorial & Survey
 - **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
