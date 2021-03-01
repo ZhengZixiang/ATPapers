@@ -85,14 +85,18 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Very Deep Transformers for Neural Machine Translation**. *Xiaodong Liu, Kevin Duh, Liyuan Liu, Jianfeng Gao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.07772)[[code]](https://github.com/namisan/exdeep-nmt)
 - **DeLighT: Very Deep and Light-weight Transformer**. *Sachin Mehta, Marjan Ghazvininejad, Srinivasan Iyer, Luke Zettlemoyer, Hannaneh Hajishirzi*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.00623)[[code]](https://github.com/sacmehta/delight)
 - **FastFormers: Highly Efficient Transformer Models for Natural Language Understanding**. *Young Jin Kim, Hany Hassan Awadalla*. (SustaiNLP 2020 at EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.13382)[[code]](https://github.com/microsoft/fastformers)
+- **RealFormer: Transformer Likes Residual Attention**. *Ruining He, Anirudh Ravula, Bhargav Kanagal, Joshua Ainslie*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2012.11747)
+- **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**. *William Fedus, Barret Zoph, Noam Shazeer*. (CoRR 2021) [[paper]](https://arxiv.org/abs/2101.03961)
 
 ### Chinese Blog
+- [Lilian / Transformer的一家！](https://mp.weixin.qq.com/s/Z2W66OziBkMhufNBvnKlGQ)
 - [Kaiyuan Gao / Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
 - [科学空间 / 突破瓶颈，打造更强大的Transformer](https://kexue.fm/archives/7325)
 - [量子位 / 最新Transformer模型大盘点，NLP学习必备，Google AI研究员出品](https://mp.weixin.qq.com/s/ptqSW86lwhB8Ogi3Ak_L9A)
 - [美团 / Transformer 在美团搜索排序中的实践](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
 - [徐啸 / 浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
 - [张俊林 / 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
+- [夕小瑶的卖萌屋 / Transformer哪家强？Google爸爸辨优良！](https://mp.weixin.qq.com/s/Agrt4Ic9wA59gZW4F5ZFcA)
 ### English Blog
 - [Google / Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 - [Google / Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
@@ -228,6 +232,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Optimal Subarchitecture Extraction For BERT**. *Adrian de Wynter, Daniel J. Perry*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2010.10499)[[code]](https://github.com/alexa/bort/) - ***Bort***
 - **TernaryBERT: Distillation-aware Ultra-low Bit BERT**. *Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang, Qun Liu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2009.12812)[[code]]()[[blog]](https://mp.weixin.qq.com/s/jHfUAe1Pr6HpARzRw2Y0hw)
 - **BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance**. *Jianquan Li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang, Yaohong Jin*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.06133)[[code]](https://github.com/lxk00/BERT-EMD)[[blog]](https://mp.weixin.qq.com/s/w1sT126jS_lZ_Q3cRi6fGQ)
+- **EdgeBERT: Optimizing On-Chip Inference for Multi-Task NLP**. *Thierry Tambe, Coleman Hooper, Lillian Pentecost, En-Yu Yang, Marco Donato, Victor Sanh, Alexander M. Rush, David Brooks, Gu-Yeon Wei*. (CoRR 2011) [[paper]](https://arxiv.org/abs/2011.14203)
 
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
@@ -294,6 +299,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging**. *Kasturi Bhattacharjee, Miguel Ballesteros, Rishita Anubhai, Smaranda Muresan, Jie Ma, Faisal Ladhak, Yaser Al-Onaizan*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.14042)
 - **Investigating Novel Verb Learning in BERT: Selectional Preference Classes and Alternation-Based Syntactic Generalization**. *Tristan Thrush, Ethan Wilcox, Roger Levy*. (BlackboxNLP 2020) [[paper]](https://arxiv.org/abs/2011.02417)[[code]](https://github.com/TristanThrush/few-shot-lm-learning)
 - **On the Sentence Embeddings from Pre-trained Language Models**. *Bohan Li, Hao Zhou, Junxian He, Mingxuan Wang, Yiming Yang, Lei Li*. (EMNLP 2020) [[paper]](https://arxiv.org/pdf/2011.05864.pdf)[[code]](https://github.com/bohanli/BERT-flow)
+- **Using Prior Knowledge to Guide BERT's Attention in Semantic Textual Matching Tasks**. *Tingyu Xia, Yue Wang, Yuan Tian, Yi Chang*. () [[paper]](https://arxiv.org/abs/2102.10934)[[code]](https://github.com/xiatingyu/Bert_sim)
 
 ### Tutorial & Survey
 - **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-5004/)
@@ -360,6 +366,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [邱震宇 / 模型压缩实践收尾篇——模型蒸馏以及其他一些技巧实践小结](https://zhuanlan.zhihu.com/p/124215760)
 - [夕小瑶的卖萌屋 / 超一流 | 从XLNet的多流机制看最新预训练模型的研究进展](https://mp.weixin.qq.com/s/VfytCWa-h8CmUZW1RWAdnQ)
 - [夕小瑶的卖萌屋 / 如何优雅地编码文本中的位置信息？三种positioanl encoding方法简述](https://mp.weixin.qq.com/s/ENpXBYQ4hfdTLSXBIoF00Q)
+- [夕小瑶的卖萌屋 / 软硬兼施极限轻量BERT！能比ALBERT再轻13倍？！](https://mp.weixin.qq.com/s/vm4EnVey4xFg7brTNBeLPw)
 - [许维 / 深度长文：NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s/Rd3-ypRYiJObi-e2JDeOjQ)
 - [许维 / 深度长文：NLP的巨人肩膀（下）](https://mp.weixin.qq.com/s/7imMQ3GkD52xP7N4fqNPog)
 - [张俊林 / 从Word Embedding到BERT模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
@@ -375,5 +382,6 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### English Blog
 - [A Fair Comparison Study of XLNet and BERT with Large Models](https://medium.com/@xlnet.team/a-fair-comparison-study-of-xlnet-and-bert-with-large-models-5a4257f59dc0)
 - [All The Ways You Can Compress BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html)
+- [Keyur Faldu and Dr. Amit Sheth / Linguistics Wisdom of NLP Models: Analyzing, Designing, and Evaluating Linguistic Probes](https://towardsdatascience.com/linguistics-wisdom-of-nlp-models-8c8554bc8c66)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [Rasa / Compressing BERT for faster prediction](https://blog.rasa.com/compressing-bert-for-faster-prediction-2/)
