@@ -322,6 +322,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [heartcored98 / Transformer_Anatomy](https://github.com/heartcored98/transformer_anatomy) - Toolkit for finding and analyzing important attention heads in transformer-based models
 - [Hironsan / bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search
 - [CLUEbenchmark / CLUE](https://github.com/CLUEbenchmark/CLUE) - Chinese Language Understanding Evaluation Benchmark
+- [CLUEbenchmark / CLUEPretrainedModels](https://github.com/CLUEbenchmark/CLUEPretrainedModels) - 高质量中文预训练模型集合：最先进大模型、最快小模型、相似度专门模型
 - [jessevig / bertviz](https://github.com/jessevig/bertviz) - BERT Visualization Tool
 - [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert) - Collect BERT related resources
 - [Morizeyao / GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT tokenizer
