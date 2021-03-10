@@ -41,6 +41,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [科学空间 / 为节约而生：从标准Attention到稀疏Attention](https://kexue.fm/archives/6853)
 - [科学空间 / Google新作Synthesizer：我们还不够了解自注意力](https://kexue.fm/archives/7430)
 - [科学空间 / 线性Attention的探索：Attention必须有个Softmax吗？](https://kexue.fm/archives/7546)
+- [科学空间 / 让研究人员绞尽脑汁的Transformer位置编码](https://kexue.fm/archives/8130)
 ### Repositories
 - [thushv89 / Keras Attention Layer](https://github.com/thushv89/attention_keras) - Keras Layer implementation of Attention
 
