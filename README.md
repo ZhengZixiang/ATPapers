@@ -28,6 +28,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?**. *Cansu Sen, Thomas Hartvigsen, Biao Yin, Xiangnan Kong, Elke Rundensteiner*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.419/) - ***YELP-HAT***
 - **The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?**. *Jasmijn Bastings, Katja Filippova*. (BlackboxNLP 2020) [[paper]](https://arxiv.org/abs/2010.05607)
 - **Attention is Not Only a Weight: Analyzing Transformers with Vector Norms**. *Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2004.10102)[[code]](https://github.com/gorokoba560/norm-analysis-of-transformer)
+- **Approximating How Single Head Attention Learns**. *Charlie Snell, Ruiqi Zhong, Dan Klein, Jacob Steinhardt*. (CoRR 2021) [[paper]](https://arxiv.org/abs/2103.07601)
 
 ### Survey & Review
 - **An Attentive Survey of Attention Models**. *Sneha Chaudhari, Gungor Polatkan, Rohan Ramanath, Varun Mithal*. (IJCAI 2019) [[paper]](https://arxiv.org/abs/1904.02874)
@@ -102,6 +103,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [Google / Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 - [Google / Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
 - [Havard NLP / The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) [[code]](https://github.com/harvardnlp/annotated-transformer)
+- [Hugging Face / Hugging Face Reads, Feb. 2021 - Long-range Transformers](https://huggingface.co/blog/long-range-transformers)
 - [Jay Alammar / The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Madison May / A Survey of Long-Term Context in Transformers](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/) [[中文翻译]](https://mp.weixin.qq.com/s/JpBds6NQIBZ0S8GsMo4LEA)
 - [Mohd / How Self-Attention with Relative Position Representations works](https://medium.com/@_init_/how-self-attention-with-relative-position-representations-works-28173b8c245a)
@@ -162,6 +164,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **AMBERT: A Pre-trained Language Model with Multi-Grained Tokenization**. *Xinsong Zhang, Hang Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2008.11869)
 - **CharBERT: Character-aware Pre-trained Language Model**. *Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu*. (COLING 2020) [[paper]](https://arxiv.org/abs/2011.01513)[[code]](https://github.com/wtma/CharBERT)[[blog]](https://mp.weixin.qq.com/s/jY2IE-uxn38aFvjPNiwWGw)
 - **MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining**. *Wei Zhu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.08539)
+- **Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees**. *Jiangang Bai, Yujing Wang, Yiren Chen, Yaming Yang, Jing Bai, Jing Yu, Yunhai Tong*. (EACL 2021) [[paper]](https://arxiv.org/abs/2103.04350)
 
 ### Multi-Modal
 - **VideoBERT: A Joint Model for Video and Language Representation Learning**. *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid*. (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
