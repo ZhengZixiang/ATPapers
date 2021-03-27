@@ -89,19 +89,24 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **FastFormers: Highly Efficient Transformer Models for Natural Language Understanding**. *Young Jin Kim, Hany Hassan Awadalla*. (SustaiNLP 2020 at EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.13382)[[code]](https://github.com/microsoft/fastformers)
 - **RealFormer: Transformer Likes Residual Attention**. *Ruining He, Anirudh Ravula, Bhargav Kanagal, Joshua Ainslie*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2012.11747)
 - **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**. *William Fedus, Barret Zoph, Noam Shazeer*. (CoRR 2021) [[paper]](https://arxiv.org/abs/2101.03961)
+- **Mask Attention Networks: Rethinking and Strengthen Transformer**. *Zhihao Fan, Yeyun Gong, Dayiheng Liu, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Ruofei Zhang, Xuanjing Huang*. (NAACL 2021) [[paper]](https://arxiv.org/abs/2103.13597) - ***MAN***
 
 ### Chinese Blog
 - [Lilian / Transformer的一家！](https://mp.weixin.qq.com/s/Z2W66OziBkMhufNBvnKlGQ)
 - [Kaiyuan Gao / Transformers Assemble（PART I）](https://zhuanlan.zhihu.com/p/104935987)
 - [科学空间 / 突破瓶颈，打造更强大的Transformer](https://kexue.fm/archives/7325)
+- [科学空间 / Transformer升级之路：1、Sinusoidal位置编码追根溯源](https://kexue.fm/archives/8231)
+- [科学空间 / Transformer升级之路：2、博采众长的旋转式位置编码](https://kexue.fm/archives/8265)
 - [量子位 / 最新Transformer模型大盘点，NLP学习必备，Google AI研究员出品](https://mp.weixin.qq.com/s/ptqSW86lwhB8Ogi3Ak_L9A)
 - [美团 / Transformer 在美团搜索排序中的实践](https://tech.meituan.com/2020/04/16/transformer-in-meituan.html)
 - [徐啸 / 浅谈 Transformer-based 模型中的位置表示](https://zhuanlan.zhihu.com/p/92017824)
 - [张俊林 / 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较](https://zhuanlan.zhihu.com/p/54743941)
 - [夕小瑶的卖萌屋 / Transformer哪家强？Google爸爸辨优良！](https://mp.weixin.qq.com/s/Agrt4Ic9wA59gZW4F5ZFcA)
+
 ### English Blog
 - [Google / Transformer-XL: Unleashing the Potential of Attention Models](https://ai.googleblog.com/2019/01/transformer-xl-unleashing-potential-of.html)
 - [Google / Moving Beyond Translation with the Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)
+- [Google / Constructing Transformers For Longer Sequences with Sparse Attention Methods](https://ai.googleblog.com/2021/03/constructing-transformers-for-longer.html)
 - [Havard NLP / The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) [[code]](https://github.com/harvardnlp/annotated-transformer)
 - [Hugging Face / Hugging Face Reads, Feb. 2021 - Long-range Transformers](https://huggingface.co/blog/long-range-transformers)
 - [Jay Alammar / The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
@@ -165,6 +170,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **CharBERT: Character-aware Pre-trained Language Model**. *Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu*. (COLING 2020) [[paper]](https://arxiv.org/abs/2011.01513)[[code]](https://github.com/wtma/CharBERT)[[blog]](https://mp.weixin.qq.com/s/jY2IE-uxn38aFvjPNiwWGw)
 - **MVP-BERT: Redesigning Vocabularies for Chinese BERT and Multi-Vocab Pretraining**. *Wei Zhu*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2011.08539)
 - **Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees**. *Jiangang Bai, Yujing Wang, Yiren Chen, Yaming Yang, Jing Bai, Jing Yu, Yunhai Tong*. (EACL 2021) [[paper]](https://arxiv.org/abs/2103.04350)
+- **All NLP Tasks Are Generation Tasks: A General Pretraining Framework**. *Zhengxiao Du, Yujie Qian, Xiao Liu, Ming Ding, Jiezhong Qiu, Zhilin Yang, Jie Tang*. (CoRR 2021) [[paper]](https://arxiv.org/abs/2103.10360)[[code]](https://github.com/THUDM/GLM) - ***GLM***
 
 ### Multi-Modal
 - **VideoBERT: A Joint Model for Video and Language Representation Learning**. *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid*. (ICCV 2019) [[paper]](https://arxiv.org/abs/1904.01766)
@@ -237,6 +243,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **TernaryBERT: Distillation-aware Ultra-low Bit BERT**. *Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang, Qun Liu*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2009.12812)[[code]]()[[blog]](https://mp.weixin.qq.com/s/jHfUAe1Pr6HpARzRw2Y0hw)
 - **BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance**. *Jianquan Li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang, Yaohong Jin*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.06133)[[code]](https://github.com/lxk00/BERT-EMD)[[blog]](https://mp.weixin.qq.com/s/w1sT126jS_lZ_Q3cRi6fGQ)
 - **EdgeBERT: Optimizing On-Chip Inference for Multi-Task NLP**. *Thierry Tambe, Coleman Hooper, Lillian Pentecost, En-Yu Yang, Marco Donato, Victor Sanh, Alexander M. Rush, David Brooks, Gu-Yeon Wei*. (CoRR 2011) [[paper]](https://arxiv.org/abs/2011.14203)
+- **LRC-BERT: Latent-representation Contrastive Knowledge Distillation for Natural Language Understanding**. *Hao Fu, Shaojun Zhou, Qihong Yang, Junjie Tang, Guiquan Liu, Kaikui Liu, Xiaolong Li*. (AAAI 2020) [[paper]](https://arxiv.org/abs/2012.07335)[[Chinese blog]](https://mp.weixin.qq.com/s/-RdGEtwxUdigNeEGJM987Q)
 
 ### Application
 - BERT for Joint Intent Classification and Slot Filling (CoRR 2019) [[paper]](https://arxiv.org/abs/1902.10909)
@@ -329,6 +336,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [CLUEbenchmark / CLUEPretrainedModels](https://github.com/CLUEbenchmark/CLUEPretrainedModels) - 高质量中文预训练模型集合：最先进大模型、最快小模型、相似度专门模型
 - [jessevig / bertviz](https://github.com/jessevig/bertviz) - BERT Visualization Tool
 - [Jiakui / awesome-bert](https://github.com/Jiakui/awesome-bert) - Collect BERT related resources
+- [legacyai / tf-transformers](https://github.com/legacyai/tf-transformers) - State of the art faster Natural Language Processing in Tensorflow 2.0
 - [Morizeyao / GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT tokenizer
 - [Separius / BERT-keras](https://github.com/Separius/BERT-keras) - Separius' BERT Keras implementation
 - [policeme / roberta-wwm-base-distill](https://github.com/policeme/roberta-wwm-base-distill) - A chinese Roberta wwm distillation model which was distilled from roberta-ext-wwm-large
@@ -345,6 +353,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [ZhuiyiTechnology / pretrained-models](https://github.com/ZhuiyiTechnology/pretrained-models) - Open Language Pre-trained Model Zoo
 - [ZhuiyiTechnology / SimBERT](https://github.com/ZhuiyiTechnology/simbert) - A bert for retrieval and generation
 - [ZhuiyiTechnology / WoBERT](https://github.com/ZhuiyiTechnology/WoBERT)
+- [ZhuiyiTechnology / t5-pegasus](https://github.com/ZhuiyiTechnology/t5-pegasus) - 中文生成式预训练模型
 
 ### Chinese Blog
 - [Andy Yang / BERT 瘦身之路：Distillation，Quantization，Pruning](https://zhuanlan.zhihu.com/p/86900556)
@@ -365,6 +374,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [美团 / 结合业务场景案例实践分析，倾囊相授美团BERT的探索经验](https://mp.weixin.qq.com/s/AU2_UtbcWBsY0zKudATpPw) [[video]](https://www.bilibili.com/video/BV1vC4y147px)
 - [Microsoft / 8篇论文梳理BERT相关模型进展与反思](https://www.msra.cn/zh-cn/news/features/bert)
 - [NLP有品 / 关于BERT：你不知道的事](https://mp.weixin.qq.com/s/OujaLboNbf7CAHnHQdXHYA)
+- [RUC AI Box / NeurIPS 2020 之预训练语言模型压缩](https://mp.weixin.qq.com/s/EdFz6cQ83ziMJfmcqSWA-w)
 - [sliderSun / Transformer和Bert相关知识解答](https://zhuanlan.zhihu.com/p/149634836)
 - [Tobias Lee / BERT 的演进和应用](https://mp.weixin.qq.com/s/u4k-A3dSb2-6PDodWPePhA)
 - [腾讯 / 内存用量1/20，速度加快80倍，腾讯QQ提出全新BERT蒸馏框架，未来将开源](https://mp.weixin.qq.com/s/W668zeWuNsBKV23cVR0zZQ)
